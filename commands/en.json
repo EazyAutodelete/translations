@@ -1,3 +1,4 @@
 {
-  "test": "test command goes here hihi"
+    "test": "test command goes here hihi",
+    "error.commandNotFound": "The command **/%s** was not found."
 }
