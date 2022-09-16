@@ -1,5 +1,4 @@
 {
-    "test": "test command goes here hihi",
     "error.commandNotFound": "The command **/%s** was not found.",
     "error.invalidLanguage": "**You must specify a valid language.**\\nAvailable languages:\\n%s",
     "error.notUser.button": "Only the user who used the command can use this button. (<@!%s>"
