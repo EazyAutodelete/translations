@@ -3,5 +3,6 @@
     "error.invalidLanguage": "**You must specify a valid language.**\\nAvailable languages:\\n%s",
     "error.notUser.button": "Only the user who used the command can use this button. (<@!%s>",
     "invite": "**You can invite me here: [%s](%s)**",
-    "languageEdit": "Your language has been changed to: **%s**."
+    "languageEdit": "Your language has been changed to: **%s**.",
+    "languageShow": "Your language is currently set to: **%s**.\\nUse `/language` to change your language."
 }
