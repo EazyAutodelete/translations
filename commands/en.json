@@ -4,5 +4,6 @@
     "error.notUser.button": "Only the user who used the command can use this button. (<@!%s>",
     "invite": "**You can invite me here: [%s](%s)**",
     "languageEdit": "Your language has been changed to: **%s**.",
-    "languageShow": "Your language is currently set to: **%s**.\\nUse `/language` to change your language."
+    "languageShow": "Your language is currently set to: **%s**.\\nUse `/language` to change your language.",
+    "nukeConfirmSent": "Please confirm your action in <#%s>. **[Click here](%s)**"
 }
