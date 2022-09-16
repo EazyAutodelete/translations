@@ -10,5 +10,5 @@
     "nukeConfirmDescription": "**ALL** messages in this channel will be **GONE FOREVER**.",
     "example": "Example",
     "usage": "Usage",
-    "overview": "Use `/help <command>` to get more information"
+    "overview": "Use `/help <command>` to get more information."
 }
