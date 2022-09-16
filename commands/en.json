@@ -6,5 +6,6 @@
     "languageEdit": "Your language has been changed to: **%s**.",
     "languageShow": "Your language is currently set to: **%s**.\\nUse `/language` to change your language.",
     "nukeConfirmSent": "Please confirm your action in <#%s>. **[Click here](%s)**",
-    "nukeConfirmTitle": "Are you sure you want to nuke this channel?"
+    "nukeConfirmTitle": "Are you sure you want to nuke this channel?",
+    "nukeConfirmDescription": "**ALL** messages in this channel will be **GONE FOREVER**."
 }
