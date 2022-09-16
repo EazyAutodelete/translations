@@ -1,1 +1,14 @@
-{}
+{
+    "invite": "**Du kannst mich unter folgendem Link einladen: [%s](%s)**",
+    "nukeConfirmTitle": "Bist du dir sicher, dass du diesen Kanal nuken möchtest?",
+    "error.notUser.button": "Nur der Nutzer, der den Befehl benutzt hat, kann diesen Button benutzen. (<@!%s>)",
+    "nukeConfirmSent": "Bitte bestätige deine Aktion in <#%s>. **[Click here](%s)**",
+    "example": "Beispiel",
+    "usage": "Benutzung",
+    "error.commandNotFound": "Der Befehl **/%s** wurde nicht gefunden.",
+    "error.invalidLanguage": "**Du musst eine gültige Sprache angeben.**\\nVerfügbare Sprachen:\\n%s",
+    "languageEdit": "Deine Sprache wurde zu **%s** geändert.",
+    "languageShow": "Deine Sprache ist aktuell auf **%s** eingestellt.\\nBenutze `/language`, um eine andere Sprache festzulegen.",
+    "nukeConfirmDescription": "**ALLE** Nachrichten in diesem Kanal werden **FÜR IMMER GELÖSCHT**.",
+    "overview": "Benutze `/help <befehl>`, um mehr Informationen zu einem Befehl zu erhalten."
+}
