@@ -11,5 +11,6 @@
     "example": "Example",
     "usage": "Usage",
     "overview": "Use `/help <command>` to get more information.",
-    "missingPerms": "You are not allowed to use that  command."
+    "missingPerms": "You are not allowed to use that  command.",
+    "missingBotPerms": "I am missing the following permissions to execute that command:\\n%s"
 }
