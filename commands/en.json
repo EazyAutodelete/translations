@@ -17,5 +17,6 @@
     "mode0": "Deactivated",
     "mode1": "Delete the sent message after <time>.",
     "mode2": "Delete all messages after <time>.",
-    "mode3": "After <value> messages delete all messages."
+    "mode3": "After <value> messages delete all messages.",
+    "mode4": "Keep the latest <limit> messages."
 }
