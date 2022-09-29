@@ -18,5 +18,6 @@
     "mode1": "Delete the sent message after <time>.",
     "mode2": "Delete all messages after <time>.",
     "mode3": "After <limit> messages delete all messages.",
-    "mode4": "Keep the latest <limit> messages."
+    "mode4": "Keep the latest <limit> messages.",
+    "filter": "Only delete messages that match the filters."
 }
