@@ -12,6 +12,6 @@
     "usage": "Usage",
     "overview": "Use `/help <command>` to get more information.",
     "missingPerms": "You are not allowed to use that  command.",
-    "missingBotPerms": "I am missing the following permissions to execute that command:\\n`%s`",
-    "invalidChannelType": "Type of given channel is not supported. Following Channel-Types (**[?](%s)**) are currently supported:\\n`%s`"
+    "missingBotPerms": "I am missing the following permissions to execute that command:\n`%s`",
+    "invalidChannelType": "Type of given channel is not supported. Following Channel-Types (**[?](%s)**) are currently supported:\n`%s`"
 }
