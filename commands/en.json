@@ -14,5 +14,6 @@
     "missingPerms": "You are not allowed to use that  command.",
     "missingBotPerms": "I am missing the following permissions to execute that command:\n`%s`",
     "invalidChannelType": "Type of given channel is not supported.\nFollowing Channel-Types (**[?](%s)**) are currently supported:\n`%s`",
-    "mode0": "Deactivated"
+    "mode0": "Deactivated",
+    "mode1": "Delete messages after <time>"
 }
