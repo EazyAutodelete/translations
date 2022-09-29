@@ -21,5 +21,6 @@
     "mode4": "Keep the latest <limit> messages.",
     "filter": "Only delete messages that match the filters.",
     "filterBehaviorAll": "Only delete messages that match **ALL filters**.",
-    "filterBehaviorOne": "Only delete messages that match **AT LEAST ONE filter**."
+    "filterBehaviorOne": "Only delete messages that match **AT LEAST ONE filter**.",
+    "filterBehavior": "Whether to delete messages that match *at least one filter*, or whether to delete only messages that match *all filters*."
 }
