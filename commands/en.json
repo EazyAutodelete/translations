@@ -20,6 +20,6 @@
     "mode3": "After <limit> messages delete all messages.",
     "mode4": "Keep the latest <limit> messages.",
     "filter": "Only delete messages that match the filters.",
-    "filterBehaviorAll": "Only delete messages that match ALL filters.",
-    "filterBehaviorOne": "Delete only messages that match **AT LEAST ONE filter**."
+    "filterBehaviorAll": "Only delete messages that match **ALL filters**.",
+    "filterBehaviorOne": "Only delete messages that match **AT LEAST ONE filter**."
 }
