@@ -32,5 +32,6 @@
     "invalidMessageId": "**The message with this ID could not be loaded.**\nIs the message in another channel? Has the message been deleted? Is the ID valid?",
     "deleteMessagesLimit0": "No messages are deleted because the mode is set to 0.",
     "deleteMessagesLimit1": "After %s a sent message is deleted.",
-    "deleteMessagesLimit2": "After %s all messages are deleted."
+    "deleteMessagesLimit2": "After %s all messages are deleted.",
+    "deleteMessagesLimit3": "After %s messages all messages are deleted."
 }
