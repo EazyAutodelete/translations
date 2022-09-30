@@ -26,5 +26,6 @@
     "mode": "Changes the way the deletion algorithm works.",
     "deleteMessagesBefore": "Delete messages sent before <messageID>.",
     "deleteMessagesAfter": "Delete messages sent after <messageID>.",
-    "limit": "The limit with which the delete algorithm should work.\nSpecified as duration or number, depending on the mode set."
+    "limit": "The limit with which the delete algorithm should work.\nSpecified as duration or number, depending on the mode set.",
+    "config": "Configuration"
 }
