@@ -27,5 +27,6 @@
     "deleteMessagesBefore": "Delete messages sent before <messageID>.",
     "deleteMessagesAfter": "Delete messages sent after <messageID>.",
     "limit": "The limit with which the delete algorithm should work.\nSpecified as duration or number, depending on the mode set.",
-    "config": "Configuration"
+    "config": "Configuration",
+    "savedChannelSettings": "**Settings have been saved successfully.**"
 }
