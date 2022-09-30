@@ -25,5 +25,5 @@
     "filterBehavior": "Whether to delete messages that match *at least one filter*, or whether to delete only messages that match *all filters*.",
     "mode": "Changes the way the deletion algorithm works.",
     "deleteMessagesBefore": "Delete messages sent before <messageID>.",
-    "deleteMessagesAfter": "Delete only messages sent after <messageID>."
+    "deleteMessagesAfter": "Delete messages sent after <messageID>."
 }
