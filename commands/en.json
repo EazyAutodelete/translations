@@ -28,5 +28,6 @@
     "deleteMessagesAfter": "Delete messages sent after <messageID>.",
     "limit": "The limit with which the delete algorithm should work.\nSpecified as duration or number, depending on the mode set.",
     "config": "Configuration",
-    "savedChannelSettings": "**Settings have been saved successfully.**"
+    "savedChannelSettings": "**Settings have been saved successfully.**",
+    "invalidMessageId": "**The message with this ID could not be loaded.**\nIs the message in another channel? Has the message been deleted? Is the ID valid?"
 }
