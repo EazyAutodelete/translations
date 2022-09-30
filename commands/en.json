@@ -30,5 +30,6 @@
     "config": "Configuration",
     "savedChannelSettings": "**Settings have been saved successfully.**",
     "invalidMessageId": "**The message with this ID could not be loaded.**\nIs the message in another channel? Has the message been deleted? Is the ID valid?",
-    "deleteMessagesLimit0": "No messages are deleted because the mode is set to 0."
+    "deleteMessagesLimit0": "No messages are deleted because the mode is set to 0.",
+    "deleteMessagesLimit1": "After %s a sent message is deleted."
 }
