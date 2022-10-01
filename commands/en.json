@@ -34,5 +34,6 @@
     "deleteMessagesLimit1": "After %s a sent message is deleted.",
     "deleteMessagesLimit2": "After %s all messages are deleted.",
     "deleteMessagesLimit3": "After %s messages all messages are deleted.",
-    "deleteMessagesLimit4": "The latest %s messages are kept. The messages before that are deleted."
+    "deleteMessagesLimit4": "The latest %s messages are kept. The messages before that are deleted.",
+    "supportTitle": "🔎 You are stuck?"
 }
