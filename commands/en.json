@@ -35,5 +35,6 @@
     "deleteMessagesLimit2": "After %s all messages are deleted.",
     "deleteMessagesLimit3": "After %s messages all messages are deleted.",
     "deleteMessagesLimit4": "The latest %s messages are kept. The messages before that are deleted.",
-    "supportTitle": "🔎 You are stuck?"
+    "supportTitle": "🔎 You are stuck?",
+    "support": "On our [**Support Server**](%s) there are many helpful users and team members who can assist you.\nYou can also search for a solution yourself in the [**Documentation**](%s)."
 }
