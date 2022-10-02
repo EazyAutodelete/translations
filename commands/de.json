@@ -6,9 +6,20 @@
     "example": "Beispiel",
     "usage": "Benutzung",
     "error.commandNotFound": "Der Befehl **/%s** wurde nicht gefunden.",
-    "error.invalidLanguage": "**Du musst eine gültige Sprache angeben.**\\nVerfügbare Sprachen:\\n%s",
+    "error.invalidLanguage": "**Du musst eine gültige Sprache angeben.**\nVerfügbare Sprachen:\n%s",
     "languageEdit": "Deine Sprache wurde zu **%s** geändert.",
-    "languageShow": "Deine Sprache ist aktuell auf **%s** eingestellt.\\nBenutze `/language`, um eine andere Sprache festzulegen.",
+    "languageShow": "Deine Sprache ist aktuell auf **%s** eingestellt.\nBenutze `/language`, um eine andere Sprache festzulegen.",
     "nukeConfirmDescription": "**ALLE** Nachrichten in diesem Kanal werden **FÜR IMMER GELÖSCHT**.",
-    "overview": "Benutze `/help <befehl>`, um mehr Informationen zu einem Befehl zu erhalten."
+    "overview": "Benutze `/help <befehl>`, um mehr Informationen zu einem Befehl zu erhalten.",
+    "invalidChannelType": "Der Typ des angegebenen Kanals wird nicht unterstützt.\nFolgende Kanal-Typen (**[?](%s)**) werden aktuell unterstützt:\n`%s`",
+    "mode0": "Deaktiviert",
+    "mode4": "Die neusten <limit> Nachrichten behalten. Nachrichten davor werden gelöscht.",
+    "mode1": "Gesendete Nachricht nach <zeit> löschen.",
+    "mode2": "Nach <zeit> alle Nachrichten löschen.",
+    "filter": "Nur Nachrichten löschen, die den Filtern entsprechen.",
+    "missingBotPerms": "Mir fehlen folgende Berechtigungen, um diesen Befehl ausführen zu können:\n`%s`",
+    "mode3": "Nach <limit> Nachrichten alle Nachrichten löschen.",
+    "filterBehaviorOne": "Nur Nachrichten löschen, die **MINDESTENS EINEM** Filter entsprechen.",
+    "missingPerms": "Du hast nich die bentötigten Berechtigungen, um diesen Befehl nutzen zu können.",
+    "filterBehaviorAll": "Nur Nachrichten löschen, die **ALLEN** Filtern entsprechen."
 }
