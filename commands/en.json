@@ -43,5 +43,6 @@
     "botinfo": "EazyAutodelete is a simple bot that you can use to keep the channels on your server clean.\nThe many settings allow you to customize the bot to your needs.",
     "channelNotInDatabase": "This channel is not in the database.",
     "userNotInDatabase": "This user is not in the database.",
-    "guildNotInDatabase": "This guild is not in the database."
+    "guildNotInDatabase": "This guild is not in the database.",
+    "test": "test"
 }
