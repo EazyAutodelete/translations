@@ -43,5 +43,6 @@
     "userNotInDatabase": "This user is not in the database.",
     "guildNotInDatabase": "This guild is not in the database.",
     "test": "test",
-    "invalidLanguage": "**You must specify a valid language.**\nAvailable languages:\n%s"
+    "invalidLanguage": "**You must specify a valid language.**\nAvailable languages:\n%s",
+    "notUserOfButton": "Only the user who used the command can use this button. (<@!%s>)"
 }
