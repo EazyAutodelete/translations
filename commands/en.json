@@ -43,5 +43,6 @@
     "channelNotInDatabase": "This channel is not in the database.",
     "userNotInDatabase": "This user is not in the database.",
     "guildNotInDatabase": "This guild is not in the database.",
-    "test": "test"
+    "test": "test",
+    "invalidLanguage": "**You must specify a valid language.**\nAvailable languages:\n%s"
 }
