@@ -4,7 +4,6 @@
     "nukeConfirmSent": "Bitte bestätige deine Aktion in <#%s>. **[Click here](%s)**",
     "example": "Beispiel",
     "usage": "Benutzung",
-    "error.commandNotFound": "Der Befehl **/%s** wurde nicht gefunden.",
     "languageEdit": "Deine Sprache wurde zu **%s** geändert.",
     "languageShow": "Deine Sprache ist aktuell auf **%s** eingestellt.\nBenutze `/language`, um eine andere Sprache festzulegen.",
     "nukeConfirmDescription": "**ALLE** Nachrichten in diesem Kanal werden **FÜR IMMER GELÖSCHT**.",
