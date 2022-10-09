@@ -29,7 +29,6 @@
     "deleteMessagesLimit3": "Nach %s Nachrichten werden alle Nachrichten gelöscht.",
     "deleteMessagesLimit4": "Die neusten %s Nachrichten werden behalten. Die Nachrichten davor werden gelöscht.",
     "status": "Wenn du das lesen kannst, dann ist der Bot wohl wahrscheinlich online.\nWeitere Informationen über den Status erhältst du auf der [**Statusseite**](%s) und auf unserem [**Discord Server**](%s).",
-    "test": "testhehe",
     "botinfo": "EazyAutodelete ist ein einfacher Bot, den du benutzen kannst, um die Kanäle auf deinem Server sauber zu halten.\nDie vielen Einstellungen erlauben es dir, den Bot komplett an deine Bedürfnisse anzupassen.",
     "onCooldown": "Du bist ein bisschen zu schnell.\nVersuche es noch einmal in `%s`.",
     "channelNotInDatabase": "Dieser Kanal ist nicht in der Datenbank.",
