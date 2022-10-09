@@ -1,5 +1,4 @@
 {
-    "error.commandNotFound": "The command **/%s** was not found.",
     "invite": "**You can invite me here: [%s](%s)**",
     "languageEdit": "Your language has been changed to: **%s**.",
     "languageShow": "Your language is currently set to: **%s**.\nUse `/language` to change your language.",
