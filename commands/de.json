@@ -6,7 +6,6 @@
     "example": "Beispiel",
     "usage": "Benutzung",
     "error.commandNotFound": "Der Befehl **/%s** wurde nicht gefunden.",
-    "error.invalidLanguage": "**Du musst eine gültige Sprache angeben.**\nVerfügbare Sprachen:\n%s",
     "languageEdit": "Deine Sprache wurde zu **%s** geändert.",
     "languageShow": "Deine Sprache ist aktuell auf **%s** eingestellt.\nBenutze `/language`, um eine andere Sprache festzulegen.",
     "nukeConfirmDescription": "**ALLE** Nachrichten in diesem Kanal werden **FÜR IMMER GELÖSCHT**.",
