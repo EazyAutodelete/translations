@@ -47,7 +47,7 @@ You can find detailed instructions on how to use Weblate here: https://docs.webl
 3. There you will see a list with all currently available languages. If you want to add a new language, contact an admin.
 4. Click on the pencil to the left of the language of your choice to start translating.
 5. You will see all the sentences that have not been translated yet. There you will see the English version and the name of the sentence. [![](https://cdn.eazyautodelete.xyz/assets/298a9c5f-5d1f-463b-948c-be305927be69)]()
-6. Write your translation into the empty field. Pay attention to the number of asterisks (\*), number of paragraphs and the correct use of %s.
+6. Write your translation into the empty field. Pay attention to the number of stars (\*), number of paragraphs and the correct use of %s.
 
     - ** = written in bold (translate words in stars too)
     - %s = will be replaced by the corresponding value
@@ -62,4 +62,6 @@ You can find detailed instructions on how to use Weblate here: https://docs.webl
   
   A huge thank you, to all who helped to translate EasyAutodelete:
   
-  - qreepex#0001 (English, German)
+  - qreepex (English, German)
+  - SaaKuu_ (Polish)
+  - iTz Arshia (Persian)
