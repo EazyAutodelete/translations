@@ -1,4 +1,5 @@
 {
     "invite": "**Możesz zaprosić mnie tutaj: %s**",
-    "languageEdit": "Język został zmieniony na: **%s**."
+    "languageEdit": "Język został zmieniony na: **%s**.",
+    "nukeConfirmSent": "Potwierdź działanie w <#%s>. **[Click here](%s)**"
 }
