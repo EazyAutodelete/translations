@@ -40,5 +40,6 @@
     "userNotInDatabase": "Ten użytkownik nie jest w bazie danych.",
     "guildNotInDatabase": "Ta gildia nie znajduje się w bazie danych.",
     "invalidLanguage": "**Musisz podać poprawny język.**\nDostępne języki:\n%s",
-    "onCooldown": "Jesteś trochę za szybki.\nSpróbuj ponownie za `%s`."
+    "onCooldown": "Jesteś trochę za szybki.\nSpróbuj ponownie za `%s`.",
+    "commandNotFound": "Nie znaleziono polecenia **/%s**."
 }
