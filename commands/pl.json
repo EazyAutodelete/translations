@@ -23,7 +23,7 @@
     "mode": "Zmienia sposób działania algorytmu usuwania.",
     "limit": "Limit, z jakim powinien działać algorytm usuwania.\nOkreślony jako czas trwania lub liczba, w zależności od ustawionego trybu.",
     "deleteMessagesLimit2": "Po %s wszystkie wiadomości zostaną usunięte.",
-    "support": "Na naszym [**Serwerze Supporta**] (% s) jest wielu pomocnych użytkowników i członków zespołu, którzy mogą Ci pomóc.Możesz również samodzielnie poszukać rozwiązania w [**Dokumentacji**] (% s).",
+    "support": "Na naszym [**Serwerze Supporta**](%s) jest wielu pomocnych użytkowników i członków zespołu, którzy mogą Ci pomóc.Możesz również samodzielnie poszukać rozwiązania w [**Dokumentacji**](%s).",
     "deleteMessagesAfter": "Usuń widomości wysłane po <messageID>.",
     "config": "Konfiguracja",
     "savedChannelSettings": "**Ustawienia zostały zapisane pomyślnie.**",
