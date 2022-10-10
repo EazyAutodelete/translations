@@ -1,12 +1,19 @@
-# Translation Instructions
+# Translations
 
-Thank you for your interest in our project!! <3
+Thank you for your interest in our project!!
 It is only thanks to the generous support of our translators that the bot can be offered in so many languages.
 
-1. [Become a translator](#how-to-become-a-translator)
-2. [Start translating](#how-to-translate)
+1. [Progrss](#progress)
+2. [Become a translator](#how-to-become-a-translator)
+3. [Start translating](#how-to-translate)
+4. [Translators](#translators)
 
-<hr>
+## Progress
+
+<a href="http://translate.eazyautodelete.xyz/engage/bot/">
+<img src="http://translate.eazyautodelete.xyz/widgets/bot/-/commands/multi-auto.svg" alt="Übersetzungsstatus" />
+</a>
+
 
 ## How to become a translator
 <details>
@@ -15,7 +22,7 @@ It is only thanks to the generous support of our translators that the bot can be
   
 1. Create a translator account on https://translate.eazyautodelete.xyz/accounts/register/
 [![](https://cdn.eazyautodelete.xyz/assets/68daf171-c042-4786-9361-5a0e17e77df7)](https://translate.eazyautodelete.xyz/accounts/register/)
-2. After filling out the form you will receive an email with a confirmation link.
+2. After filling out the form you will receive an email with a confirmation link. (Check Spam folder)
 [![](https://cdn.eazyautodelete.xyz/assets/97c51d34-3bc4-4e0e-b3aa-19beee430ca3)](https://translate.eazyautodelete.xyz)
 3. Open the link and enter a password
 [![](https://cdn.eazyautodelete.xyz/assets/6309aad1-bcc9-4b69-a445-0a1f6a9a6479)](https://translate.eazyautodelete.xyz)
@@ -24,15 +31,12 @@ It is only thanks to the generous support of our translators that the bot can be
 5. Your account is now successfully created. Please contact an admin on [Discord](https://eazyautodelete.xyz/discord) now so you can be added to the translator team!
 </details>
 
-<hr>
 
 ## How to translate
 
 <details>
   
   <summary>Click for more information</summary>
-  
-Contributions are always welcome!
 
 We use the tool "Weblate" for our translations.
 
@@ -48,6 +52,13 @@ You can find detailed instructions on how to use Weblate here: https://docs.webl
     - ** = written in bold
     - %s = will be replaced by the corresponding value
 
-7. When you have finished entering the translation, click Suggest. Your translation is now saved and will be sent to the team for review.
+7. When you have finished entering the translation, click "Suggest". Your translation is now saved and will be sent to the team for review.
 8. You will be automatically redirected to the next translation. Start there again with step 6.
   </details>
+  
+  
+  ## Translators
+  
+  A huge thank you, to all who helped to translate EasyAutodelete:
+  
+  - qreepex#0001 (English, German)
