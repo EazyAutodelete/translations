@@ -6,6 +6,7 @@
     "nukeConfirmDescription": "**WSZYSTKIE** wiadomości w tym kanale zostaną usunięte **NA ZAWSZE**.",
     "example": "Przykład",
     "usage": "Używanie",
-    "overview": "Użyj ' /help <command> ' aby uzyskać więcej informacji",
-    "missingPerms": "Nie możesz użyć tego polecenia."
+    "overview": "Użyj ' /help <command> ' aby uzyskać więcej informacji.",
+    "missingPerms": "Nie możesz użyć tego polecenia.",
+    "missingBotPerms": "Brakuje mi następujących uprawnień do wykonania tego polecenia:\n`%s`"
 }
