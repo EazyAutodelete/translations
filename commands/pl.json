@@ -9,5 +9,6 @@
     "overview": "Użyj ' /help <command> ' aby uzyskać więcej informacji.",
     "missingPerms": "Nie możesz użyć tego polecenia.",
     "missingBotPerms": "Brakuje mi następujących uprawnień do wykonania tego polecenia:\n`%s`",
-    "invalidChannelType": "Typ danego kanału nie jest wspierany\nNastępujące typy kanałów (**[?](%s)**) są wspierane:\n`%s`"
+    "invalidChannelType": "Typ danego kanału nie jest wspierany\nNastępujące typy kanałów (**[?](%s)**) są wspierane:\n`%s`",
+    "mode0": "Dezaktywowany"
 }
