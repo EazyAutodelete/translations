@@ -34,7 +34,6 @@
     "deleteMessagesLimit4": "The latest %s messages are kept. The messages before that are deleted.",
     "supportTitle": "🔎 You are stuck?",
     "support": "On our [**Support Server**](%s) there are many helpful users and team members who can assist you.\nYou can also search for a solution yourself in the [**Documentation**](%s).",
-    "ping": "**Bot Latency**: `%s`ms\n**API Latency**: `%s`ms",
     "onCooldown": "You're a little too fast.\nTry again in `%s`.",
     "status": "If you can read this, then the bot will probably be online.\nYou can get more information about the status on the [**Status Page**](%s) and on our [**Discord Server**](%s).",
     "botinfo": "EazyAutodelete is a simple bot that you can use to keep the channels on your server clean.\nThe many settings allow you to customize the bot to your needs.",
