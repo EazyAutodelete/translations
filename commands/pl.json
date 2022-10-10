@@ -20,5 +20,15 @@
     "filterBehaviorAll": "Usuń tylko wiadomości, które odpowiadają do **WSZYSTKICH filtrów**",
     "filterBehaviorOne": "Usuń tylko wiadomości pasujące do **przynajmniej JEDEN filtr**.",
     "filterBehavior": "Czy usuwać wiadomości, które pasują do *przynajmniej jednego filtra*, czy usuwać tylko wiadomości pasujące do *wszystkich filtrów*.",
-    "mode": "Zmienia sposób działania algorytmu usuwania."
+    "mode": "Zmienia sposób działania algorytmu usuwania.",
+    "limit": "Limit, z jakim powinien działać algorytm usuwania.\nOkreślony jako czas trwania lub liczba, w zależności od ustawionego trybu.",
+    "deleteMessagesLimit2": "Po %s wszystkie wiadomości zostaną usunięte.",
+    "support": "Na naszym [**Serwerze Supporta**] (% s) jest wielu pomocnych użytkowników i członków zespołu, którzy mogą Ci pomóc.Możesz również samodzielnie poszukać rozwiązania w [**Dokumentacji**] (% s).",
+    "deleteMessagesAfter": "Usuń widomości wysłane po <messageID>.",
+    "config": "Konfiguracja",
+    "savedChannelSettings": "**Ustawienia zostały zapisane pomyślnie.**",
+    "invalidMessageId": "**Wiadomość z tym ID nie może być załadowane.**\nCzy wiadomość jest na innym kanale? Czy wiadomość została usunięta? Czy ID jest poprawny?",
+    "deleteMessagesLimit3": "Po %s wiadomościach, wszystkie wiadomości zostaną usunięte.",
+    "deleteMessagesLimit4": "Najnowsze %s wiadomości są zachowane. Wiadomości przed tym są usunięte.",
+    "supportTitle": "🔎 Ups.. utknąłeś/aś?"
 }
