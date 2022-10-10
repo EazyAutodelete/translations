@@ -4,5 +4,7 @@
     "nukeConfirmSent": "Potwierdź działanie w <#%s>. **[Click here](%s)**",
     "languageShow": "Język został zmieniony na: **%s**.\nUżyj '/language ' aby zmienić język.",
     "nukeConfirmDescription": "**WSZYSTKIE** wiadomości w tym kanale zostaną usunięte **NA ZAWSZE**.",
-    "example": "Przykład"
+    "example": "Przykład",
+    "usage": "Używanie",
+    "overview": "Użyj ' /help <command> ' aby uzyskać więcej informacji"
 }
