@@ -23,7 +23,6 @@
     "config": "Konfiguration",
     "deleteMessagesBefore": "Lösche Nachrichten, die vor <nachrichtenID> gesendet wurden.",
     "savedChannelSettings": "**Die Einstellungen wurden erfolgreich gespeichert.**",
-    "ping": "**Bot-Latenz**: `%s`ms\n**API-Latenz**: `%s`ms",
     "deleteMessagesLimit0": "Keine Nachrichten werden gelöscht, weil Modus 0 eingestellt ist.",
     "deleteMessagesLimit1": "Nach %s wird ein gesendete Nachricht gelöscht.",
     "deleteMessagesLimit3": "Nach %s Nachrichten, werden alle Nachrichten gelöscht.",
