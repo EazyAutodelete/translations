@@ -1,7 +1,7 @@
 {
-    "invite": "**Du kannst mich unter folgendem Link einladen: [%s](%s)**",
+    "invite": "**Du kannst mich unter folgendem Link einladen: %s**",
     "nukeConfirmTitle": "Bist du dir sicher, dass du diesen Kanal nuken möchtest?",
-    "nukeConfirmSent": "Bitte bestätige deine Aktion in <#%s>. **[Click here](%s)**",
+    "nukeConfirmSent": "Bitte bestätige deine Aktion in <#%s>. **[Klicke hier](%s)**",
     "example": "Beispiel",
     "usage": "Benutzung",
     "languageEdit": "Deine Sprache wurde zu **%s** geändert.",
@@ -15,9 +15,9 @@
     "mode2": "Nach <zeit> alle Nachrichten löschen.",
     "filter": "Nur Nachrichten löschen, die den Filtern entsprechen.",
     "missingBotPerms": "Mir fehlen folgende Berechtigungen, um diesen Befehl ausführen zu können:\n`%s`",
-    "mode3": "Nach <limit> Nachrichten alle Nachrichten löschen.",
+    "mode3": "Nach <limit> Nachrichten, alle Nachrichten löschen.",
     "filterBehaviorOne": "Nur Nachrichten löschen, die **MINDESTENS EINEM** Filter entsprechen.",
-    "missingPerms": "Du hast nich die bentötigten Berechtigungen, um diesen Befehl nutzen zu können.",
+    "missingPerms": "Du hast nicht die benötigten Berechtigungen, um diesen Befehl nutzen zu können.",
     "filterBehaviorAll": "Nur Nachrichten löschen, die **ALLEN** Filtern entsprechen.",
     "deleteMessagesAfter": "Lösche Nachrichten, die nach <nachrichtenID> gesendet wurden.",
     "config": "Konfiguration",
@@ -26,7 +26,7 @@
     "ping": "**Bot-Latenz**: `%s`ms\n**API-Latenz**: `%s`ms",
     "deleteMessagesLimit0": "Keine Nachrichten werden gelöscht, weil Modus 0 eingestellt ist.",
     "deleteMessagesLimit1": "Nach %s wird ein gesendete Nachricht gelöscht.",
-    "deleteMessagesLimit3": "Nach %s Nachrichten werden alle Nachrichten gelöscht.",
+    "deleteMessagesLimit3": "Nach %s Nachrichten, werden alle Nachrichten gelöscht.",
     "deleteMessagesLimit4": "Die neusten %s Nachrichten werden behalten. Die Nachrichten davor werden gelöscht.",
     "status": "Wenn du das lesen kannst, dann ist der Bot wohl wahrscheinlich online.\nWeitere Informationen über den Status erhältst du auf der [**Statusseite**](%s) und auf unserem [**Discord Server**](%s).",
     "botinfo": "EazyAutodelete ist ein einfacher Bot, den du benutzen kannst, um die Kanäle auf deinem Server sauber zu halten.\nDie vielen Einstellungen erlauben es dir, den Bot komplett an deine Bedürfnisse anzupassen.",
@@ -40,5 +40,8 @@
     "invalidMessageId": "**Die Nachricht mit dieser ID konnte nicht geladen werden.**\nIst die Nachricht in einem anderen Kanal? Wurde die Nachricht gelöscht? Ist die ID gültig?",
     "deleteMessagesLimit2": "Nach %s werden alle Nachrichten gelöscht.",
     "supportTitle": "🔎 Du weißt nicht weiter?",
-    "support": "Auf unserem [**Support Server**](%s) gibt es viele hilfsbereite Benutzer und Teammitglieder, die dir helfen können.\nDu kannst auch selbst in der [**Dokumentation**](%s) nach einer Lösung suchen."
+    "support": "Auf unserem [**Support Server**](%s) gibt es viele hilfsbereite Benutzer und Teammitglieder, die dir helfen können.\nDu kannst auch selbst in der [**Dokumentation**](%s) nach einer Lösung suchen.",
+    "invalidLanguage": "**Du musst eine gültige Sprache angeben.**\nVerfügbare Sprachen:\n%s",
+    "notUserOfButton": "Nur der Benutzer, der den Befehl benutzt hat, kann diesen Button benutzen. (<@!%s>)",
+    "commandNotFound": "Der Befehl **/%s** wurde nicht gefunden."
 }
