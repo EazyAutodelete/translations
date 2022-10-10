@@ -49,8 +49,9 @@ You can find detailed instructions on how to use Weblate here: https://docs.webl
 5. You will see all the sentences that have not been translated yet. There you will see the English version and the name of the sentence. [![](https://cdn.eazyautodelete.xyz/assets/298a9c5f-5d1f-463b-948c-be305927be69)]()
 6. Write your translation into the empty field. Pay attention to the number of asterisks (\*), number of paragraphs and the correct use of %s.
 
-    - ** = written in bold
+    - ** = written in bold (translate words in stars too)
     - %s = will be replaced by the corresponding value
+    - /something = Name of command, don't translate that
 
 7. When you have finished entering the translation, click "Suggest". Your translation is now saved and will be sent to the team for review.
 8. You will be automatically redirected to the next translation. Start there again with step 6.
