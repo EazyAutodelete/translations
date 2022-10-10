@@ -30,5 +30,7 @@
     "invalidMessageId": "**Wiadomość z tym ID nie może być załadowane.**\nCzy wiadomość jest na innym kanale? Czy wiadomość została usunięta? Czy ID jest poprawny?",
     "deleteMessagesLimit3": "Po %s wiadomościach, wszystkie wiadomości zostaną usunięte.",
     "deleteMessagesLimit4": "Najnowsze %s wiadomości są zachowane. Wiadomości przed tym są usunięte.",
-    "supportTitle": "🔎 Ups.. utknąłeś/aś?"
+    "supportTitle": "🔎 Ups.. utknąłeś/aś?",
+    "deleteMessagesLimit0": "Żadne wiadomości nie zostaną usunięte, ponieważ tryb jest ustawiony na 0.",
+    "deleteMessagesLimit1": "Po %s wiadomości wysłane wiadomości są usunięte."
 }
