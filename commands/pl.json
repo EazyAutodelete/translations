@@ -14,5 +14,11 @@
     "mode1": "Usuń wysłaną wiadomość po <time>.",
     "mode2": "Usuń wszystkie wiadomości po <time>.",
     "mode3": "Po <limit> wiadomości usuń wszystkie wiadomości.",
-    "mode4": "Zachowaj najnowsze <limit> wiadomości"
+    "mode4": "Zachowaj najnowsze <limit> wiadomości",
+    "deleteMessagesBefore": "Usuń wiadomości wysłane przed <messageID>",
+    "filter": "Usuń tylko wiadomości, które odpowiadają do filtrów.",
+    "filterBehaviorAll": "Usuń tylko wiadomości, które odpowiadają do **WSZYSTKICH filtrów**",
+    "filterBehaviorOne": "Usuń tylko wiadomości pasujące do **przynajmniej JEDEN filtr**.",
+    "filterBehavior": "Czy usuwać wiadomości, które pasują do *przynajmniej jednego filtra*, czy usuwać tylko wiadomości pasujące do *wszystkich filtrów*.",
+    "mode": "Zmienia sposób działania algorytmu usuwania."
 }
