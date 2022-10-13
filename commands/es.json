@@ -25,5 +25,13 @@
     "limit": "El límite con el que debería funcionar el algoritmo de eliminación.\nEspecificado como duración o número, según el modo establecido.",
     "config": "Configuración",
     "savedChannelSettings": "**La configuración se ha guardado correctamente.**",
-    "invalidMessageId": "**No se pudo cargar el mensaje con este ID.**\n¿El mensaje está en otro canal? ¿Se ha eliminado el mensaje? ¿Es válida la ID?"
+    "invalidMessageId": "**No se pudo cargar el mensaje con este ID.**\n¿El mensaje está en otro canal? ¿Se ha eliminado el mensaje? ¿Es válida la ID?",
+    "deleteMessagesLimit0": "No se eliminan mensajes porque el modo está establecido en 0.",
+    "deleteMessagesLimit1": "Después de %s, se elimina un mensaje enviado.",
+    "deleteMessagesLimit2": "Después de %s, se eliminan todos los mensajes.",
+    "deleteMessagesLimit3": "Después de %s mensajes, se eliminan todos los mensajes.",
+    "deleteMessagesLimit4": "Se conservan los últimos %s mensajes. Los mensajes anteriores se eliminan.",
+    "supportTitle": "🔎 ¿Estás atascado?",
+    "support": "En nuestro [**Servidor de soporte**](%s) hay muchos usuarios útiles y miembros del equipo que pueden ayudarlo.\nTambién puede buscar una solución usted mismo en la [**Documentación**](%s).",
+    "onCooldown": "Eres un poco demasiado rápido.\nVuelva a intentarlo en `%s`."
 }
