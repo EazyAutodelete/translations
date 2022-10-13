@@ -25,5 +25,5 @@
     "limit": "El límite con el que debería funcionar el algoritmo de eliminación.\nEspecificado como duración o número, según el modo establecido.",
     "config": "Configuración",
     "savedChannelSettings": "**La configuración se ha guardado correctamente.**",
-    "invalidMessageId": "**No se pudo cargar el mensaje con este ID.**\n¿El mensaje está en otro canal? ¿Se ha eliminado el mensaje? ¿Es válida la identificación?"
+    "invalidMessageId": "**No se pudo cargar el mensaje con este ID.**\n¿El mensaje está en otro canal? ¿Se ha eliminado el mensaje? ¿Es válida la ID?"
 }
