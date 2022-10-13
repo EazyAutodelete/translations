@@ -33,5 +33,14 @@
     "deleteMessagesLimit4": "Se conservan los últimos %s mensajes. Los mensajes anteriores se eliminan.",
     "supportTitle": "🔎 ¿Estás atascado?",
     "support": "En nuestro [**Servidor de soporte**](%s) hay muchos usuarios útiles y miembros del equipo que pueden ayudarlo.\nTambién puede buscar una solución usted mismo en la [**Documentación**](%s).",
-    "onCooldown": "Eres un poco demasiado rápido.\nVuelva a intentarlo en `%s`."
+    "onCooldown": "Eres un poco demasiado rápido.\nVuelva a intentarlo en `%s`.",
+    "languageEditFooter": "Es posible que algunos idiomas aún no estén completamente traducidos.",
+    "status": "Si puede leer esto, es probable que el bot esté en línea.\nPuede obtener más información sobre el estado en la [**Página de estado**](%s) y en nuestro [**Discord Server**](%s).",
+    "botinfo": "EazyAutodelete es un bot simple que puede usar para mantener limpios los canales en su servidor.\nLas muchas configuraciones le permiten personalizar el bot según sus necesidades.",
+    "userNotInDatabase": "Este usuario no está en la base de datos.",
+    "guildNotInDatabase": "Este gremio no está en la base de datos.",
+    "invalidLanguage": "**Debe especificar un idioma válido.**\nIdiomas Disponibles:\n%s",
+    "notUserOfButton": "Solo el usuario que usó el comando puede usar este botón. (<@!%s>)",
+    "channelNotInDatabase": "Este canal no está en la base de datos.",
+    "commandNotFound": "No se encontró el comando **/%s**."
 }
