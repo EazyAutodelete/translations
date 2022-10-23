@@ -66,4 +66,4 @@ You can find detailed instructions on how to use Weblate here: https://docs.webl
   - qreepex (English, German)
   - SaaKuu_ (Polish)
   - iTz Arshia (Persian)
-  - Dunkelrot (Spanish)
+  - Dunkelrot (Spanish, Japanese, German)
