@@ -1,4 +1,21 @@
 {
     "invite": "**Je kunt me hier uitnodigen: %s**",
-    "languageEdit": "Je taal is veranderd in: **%s**."
+    "languageEdit": "Je taal is veranderd in: **%s**.",
+    "example": "Voorbeeld",
+    "languageShow": "Uw taal is momenteel ingesteld op: **%s**.\nGebruik `/language` om je taal te veranderen.",
+    "nukeConfirmSent": "Bevestig je actie in <#%s>. **[Klik hier](%s)**",
+    "nukeConfirmTitle": "Weet je zeker dat je dit kanaal wilt vernietigen?",
+    "nukeConfirmDescription": "**ALLE** berichten in dit kanaal zullen voor altijd **VERGETEN** zijn.",
+    "usage": "Gebruik",
+    "overview": "Gebruik `/help <commando>` voor meer informatie.",
+    "missingPerms": "Je mag dat commando niet gebruiken.",
+    "missingBotPerms": "Ik mis de volgende rechten om dat commando uit te voeren:\n`%s`",
+    "invalidChannelType": "Type van gegeven kanaal wordt niet ondersteund.\nDe volgende kanaaltypen (**[?](%s)**) worden momenteel ondersteund:\n`%s`",
+    "mode0": "Gedeactiveerd",
+    "mode1": "Verwijder het verzonden bericht na <tijd>.",
+    "mode2": "Verwijder alle berichten na <tijd>.",
+    "mode3": "Na <limit> berichten, alle berichten verwijderen.",
+    "mode4": "Bewaar de laatste <limit> berichten. Berichten daarvoor worden verwijderd.",
+    "filter": "Verwijder alleen berichten die overeenkomen met de filters.",
+    "filterBehaviorAll": "Verwijder alleen berichten die overeenkomen met **ALLE FILTERS**."
 }
