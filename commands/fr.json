@@ -36,5 +36,6 @@
     "support": "Sur notre [**Serveur support**](%s) il y a de nombreux utilisateurs utiles et les membres de l'équipes qui peuvent vous assister.\nVous pouvez également chercher une solution seul dans la [**Documentation**](%s).",
     "onCooldown": "Vous êtes un peu trop rapide.\nEssayez à nouveau dans `%s`.",
     "status": "Si vous lisez ceci, alors le bot va probablement devenir en ligne.\nVous pouvez avoir plus d'informations sur le statut sur la [**Page de statut**](%s) et notre [**Serveur discord**](%s).",
-    "commandNotFound": "La commande **/%s** n'a pas été retrouvé."
+    "commandNotFound": "La commande **/%s** n'a pas été retrouvé.",
+    "mode2": "Supprimez tous les messages après <time>."
 }
