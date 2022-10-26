@@ -1,1 +1,20 @@
-{}
+{
+    "invite": "**Beni burdan davet edebilirsin: %s**",
+    "languageEdit": "Kullanıcı dilin değiştirildi: **%s**.",
+    "nukeConfirmSent": "Lütfen işleminizi buradan onaylayınız <#%s>. **[Buraya tıklayın](%s)**",
+    "nukeConfirmDescription": "Bu kanaldaki **TÜM** mesajlar **SONSUZA KADAR** silinecektir.",
+    "example": "Misal",
+    "usage": "Kullanım şekli",
+    "overview": "Daha fazla bilgi için `/help <command>` kulanabilirsiniz.",
+    "missingPerms": "Bu komutu kullanamazsınız.",
+    "missingBotPerms": "Bu komutu gerçekleştirmek için aşağıdaki yetkilere sahip değilim:\n`%s`",
+    "invalidChannelType": "Verilen kanalın Türü desteklenmemektedir.\nGüncel olarak aşağıdaki Kanal Türleri (**[?](%s)**) desteklenmektedir:\n`%s`",
+    "mode0": "Devre dışı",
+    "mode1": "Gönderilen mesajı <time> sonra silin.",
+    "mode2": "<time> sonra tüm mesajları sil.",
+    "mode3": "<limit> mesajdan sonra tüm mesajları silinecektir.",
+    "mode4": "En güncel <limit> mesajları muhafaza edin. Bundan öncesindeki mesajlar silinecektir.",
+    "filter": "Sadece filtrelerle eşleşen mesajları sil.",
+    "filterBehaviorAll": "Yalnızca **TÜM filtrelerle** uyuşan mesajları sil.",
+    "filterBehaviorOne": "Yalnızca **EN AZ BİR filtreyle** uyumlu mesajları sil."
+}
