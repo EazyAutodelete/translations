@@ -61,7 +61,7 @@ You can find detailed instructions on how to use Weblate here: https://docs.webl
   
   ## Translators
   
-  A huge thank you, to all who helped to translate EasyAutodelete:
+  A huge thank you, to all who helped to translate EazyAutodelete:
   
   - qreepex (English, German)
   - SaaKuu_ (Polish)
