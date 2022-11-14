@@ -43,5 +43,6 @@
     "invalidLanguage": "**Du musst eine gültige Sprache angeben.**\nVerfügbare Sprachen:\n%s",
     "notUserOfButton": "Nur der Benutzer, der den Befehl benutzt hat, kann diesen Button benutzen. (<@!%s>)",
     "commandNotFound": "Der Befehl **/%s** wurde nicht gefunden.",
-    "languageEditFooter": "Einige Sprachen sind möglicherweise noch nicht vollständig übersetzt."
+    "languageEditFooter": "Einige Sprachen sind möglicherweise noch nicht vollständig übersetzt.",
+    "currently": "Derzeit eingestellt auf:"
 }
