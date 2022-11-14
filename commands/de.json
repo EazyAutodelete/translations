@@ -44,5 +44,6 @@
     "notUserOfButton": "Nur der Benutzer, der den Befehl benutzt hat, kann diesen Button benutzen. (<@!%s>)",
     "commandNotFound": "Der Befehl **/%s** wurde nicht gefunden.",
     "languageEditFooter": "Einige Sprachen sind möglicherweise noch nicht vollständig übersetzt.",
-    "currently": "Derzeit eingestellt auf:"
+    "currently": "Derzeit eingestellt auf:",
+    "commandDisabled": "Der **/%s** Befehl ist aktuell deaktiviert:\\n`%s`"
 }
