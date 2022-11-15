@@ -45,5 +45,5 @@
     "commandNotFound": "Der Befehl **/%s** wurde nicht gefunden.",
     "languageEditFooter": "Einige Sprachen sind möglicherweise noch nicht vollständig übersetzt.",
     "currently": "Derzeit eingestellt auf:",
-    "commandDisabled": "Der **/%s** Befehl ist aktuell deaktiviert: \\n`%s`"
+    "commandDisabled": "Der **/%s** Befehl ist aktuell deaktiviert:\n`%s`"
 }
