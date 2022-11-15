@@ -45,5 +45,5 @@
     "commandNotFound": "The command **/%s** was not found.",
     "languageEditFooter": "Some languages may not be completely translated yet.",
     "currently": "Currently set to:",
-    "commandDisabled": "The **/%s** command is currently disabled: \\n`%s`"
+    "commandDisabled": "The **/%s** command is currently disabled:\n`%s`"
 }
