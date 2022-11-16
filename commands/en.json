@@ -46,5 +46,6 @@
     "languageEditFooter": "Some languages may not be completely translated yet.",
     "currently": "Currently set to:",
     "commandDisabled": "The **/%s** command is currently disabled:\n`%s`",
-    "userIsNew": "It looks like you are using EazyAutodelete for the first time.\nThe best way to start is to set your language. Use **/language** for this.\n\nAfter that you can continue with **/setup** to set up EazyAutodelete for a channel.\n\nFor information about a command, use **/help**.\nIf you have any questions or problems, you can always get help with **/support**."
+    "userIsNew": "It looks like you are using EazyAutodelete for the first time.\nThe best way to start is to set your language. Use **/language** for this.\n\nAfter that you can continue with **/setup** to set up EazyAutodelete for a channel.\n\nFor information about a command, use **/help**.\nIf you have any questions or problems, you can always get help with **/support**.",
+    "userWelcome": "👋 Welcome to EazyAutodelete!"
 }
