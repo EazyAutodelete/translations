@@ -45,5 +45,7 @@
     "commandNotFound": "Der Befehl **/%s** wurde nicht gefunden.",
     "languageEditFooter": "Einige Sprachen sind möglicherweise noch nicht vollständig übersetzt.",
     "currently": "Derzeit eingestellt auf:",
-    "commandDisabled": "Der **/%s** Befehl ist aktuell deaktiviert:\n`%s`"
+    "commandDisabled": "Der **/%s** Befehl ist aktuell deaktiviert:\n`%s`",
+    "userIsNew": "Es sieht so aus, als wenn du EazyAutodelete zum ersten mal benutzen würdest.\nFange am besten damit an, deine Sprache einzustellen. Benutze dafür **/language**.\n\nDanach kannst du mit **/setup** fortfahren, um EazyAutodelete für einen Kanal einzurichten.\n\nInformationen zu einem Befehl, findest du mit **/help**.\nBei Fragen und Problemen kannst du jederzeit über **/support** Hilfe bekommen.",
+    "userWelcome": "👋 Willkommen bei EazyAutodelete!"
 }
