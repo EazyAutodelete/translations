@@ -65,5 +65,6 @@
     "invalidDuration": "**The duration entered is invalid.**\nPlease make sure that the time is entered in the correct format.",
     "supportedTimeFormats": "Use of time units",
     "right": "Correct use",
-    "incorrect": "Incorrect use"
+    "incorrect": "Incorrect use",
+    "correct": "Correct use"
 }
