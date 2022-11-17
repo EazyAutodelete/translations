@@ -54,5 +54,6 @@
     "setupUpdateMode3": "**Settings have been saved successfully.**\nMode **3**: Delete all messages every `%s` messages.",
     "setupUpdateMode4": "**Settings have been saved successfully.**\nMode **4**: Keep the latest `%s` messages and delete messages before that.",
     "setupUpdateFilters": "**Settings have been saved successfully.**\nThe following filters are now __enabled__:\n%s",
-    "none": "None"
+    "none": "None",
+    "limitMode1": "The limit with which the deletion algorithm should work. Specified as a **duration**, since mode 1 is activated.\nExample: `1m 30s`"
 }
