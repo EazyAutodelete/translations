@@ -19,7 +19,7 @@
     "filter": "Only delete messages that match the filters.",
     "filterBehaviorAll": "Only delete messages that match **ALL filters**.",
     "filterBehaviorOne": "Only delete messages that match **AT LEAST ONE filter**.",
-    "filterBehavior": "Only delete messages that match **__AT LEAST ONE__ filter**.\nor\nonly delete messages that match **__ALL__ filters**.",
+    "filterBehavior": "Only delete messages that match **__AT LEAST ONE__ filter** *or* only delete messages that match **__ALL__ filters**.",
     "mode": "Changes the way the deletion algorithm works.\nCurrently set to: **%s**\n> :warning: __*The changes will be applied immediately and the bot will continue to work with the limit of the previous mode.*__",
     "deleteMessagesBefore": "Delete only messages that were sent before a specific message.",
     "deleteMessagesAfter": "Delete only messages that were sent after a specific message.",
