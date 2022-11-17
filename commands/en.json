@@ -16,7 +16,7 @@
     "mode2": "Delete all messages after <time>.",
     "mode3": "After <limit> messages, delete all messages.",
     "mode4": "Keep the latest <limit> messages. Messages before that will be deleted.",
-    "filter": "Only delete messages that match the filters.",
+    "filter": "Choose from multiple filters which filter the messages must meet in order to be deleted.\nMessages that do not meet the filters will not be deleted.",
     "filterBehaviorAll": "Only delete messages that match **ALL filters**.",
     "filterBehaviorOne": "Only delete messages that match **AT LEAST ONE filter**.",
     "filterBehavior": "Choose to either\n> 1) delete only messages that match ** AT LEAST ONE filter** *or* \n> 2) delete only messages that match **ALL filters**.",
