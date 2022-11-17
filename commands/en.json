@@ -59,5 +59,6 @@
     "limitMode2": "The limit with which the deletion algorithm should work. Specified as a **duration**, since mode 2 is activated.\nExample: `2m 30s`",
     "limitMode3": "The limit with which the deletion algorithm should work. Specified as a **number**, since mode 3 is activated.\nExample: `15`",
     "limitMode4": "The limit with which the deletion algorithm should work. Specified as a **number**, since mode 4 is activated.\nExample: `10`",
-    "updateDeleteMessagesBefore": "**Settings have been saved successfully.**\nFrom now on, only messages sent before the [specified message](%s) will be deleted."
+    "updateDeleteMessagesBefore": "**Settings have been saved successfully.**\nFrom now on, only messages sent before the [specified message](%s) will be deleted.",
+    "updateDeleteMessagesAfter": "**Settings have been saved successfully.**\nFrom now on, only messages sent after the [specified message](%s) will be deleted."
 }
