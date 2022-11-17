@@ -52,5 +52,6 @@
     "setupUpdateMode0": "**Settings have been saved successfully.**\nMode **0**: No messages will be deleted.",
     "setupUpdateMode2": "**Settings have been saved successfully.**\nMode **2**: Delete all messages every `%s`.",
     "setupUpdateMode3": "**Settings have been saved successfully.**\nMode **3**: Delete all messages every `%s` messages.",
-    "setupUpdateMode4": "**Settings have been saved successfully.**\nMode **4**: Keep the latest `%s` messages and delete messages before that."
+    "setupUpdateMode4": "**Settings have been saved successfully.**\nMode **4**: Keep the latest `%s` messages and delete messages before that.",
+    "setupUpdateFilters": "**Settings have been saved successfully.**\nThe following filters are enabled:\n%s"
 }
