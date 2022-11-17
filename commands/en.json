@@ -15,7 +15,7 @@
     "mode1": "Delete the sent message after a specified time (e.g. after 30 secs)",
     "mode2": "Deletes messages at a specified interval (e.g. every 30 secs).",
     "mode3": "Delete all messages after a certain amount of messages (e.g. every 10 messages)",
-    "mode4": "Keep a certain number of the newest messages and delete the messages before (e.g. keep 10 newest messages)",
+    "mode4": "Keep certain number of newest messages and delete messages before (e.g. keep 10 newest messages)",
     "filter": "Choose from multiple filters which filter the messages must meet in order to be deleted.\nMessages that do not meet the filters will not be deleted.",
     "filterBehaviorAll": "Only delete messages that match **ALL filters**.",
     "filterBehaviorOne": "Only delete messages that match **AT LEAST ONE filter**.",
