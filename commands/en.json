@@ -20,7 +20,7 @@
     "filterBehaviorAll": "Only delete messages that match **ALL filters**.",
     "filterBehaviorOne": "Only delete messages that match **AT LEAST ONE filter**.",
     "filterBehavior": "Whether to delete messages that match *at least one filter*, or whether to delete only messages that match *all filters*.",
-    "mode": "Changes the way the deletion algorithm works.\nCurrently set to: **%s**\n__*:warning: The changes will be applied immediately and the bot will continue to work with the limit of the previous mode.*__",
+    "mode": "Changes the way the deletion algorithm works.\nCurrently set to: **%s**\n> :warning: __*The changes will be applied immediately and the bot will continue to work with the limit of the previous mode.*__",
     "deleteMessagesBefore": "Delete messages sent before <messageID>.",
     "deleteMessagesAfter": "Delete messages sent after <messageID>.",
     "limit": "The limit with which the delete algorithm should work.\nSpecified as duration or number, depending on the mode set.",
