@@ -62,7 +62,7 @@
     "updateDeleteMessagesBefore": "**Settings have been saved successfully.**\nFrom now on, only messages sent before the [specified message](%s) will be deleted.",
     "updateDeleteMessagesAfter": "**Settings have been saved successfully.**\nFrom now on, only messages sent after the [specified message](%s) will be deleted.",
     "resetSetting": "**Settings have been saved successfully.**\nThe setting has been disabled and no longer affects the deletion of messages.",
-    "invalidDuration": "**The duration entered is invalid.**\nPlease make sure that the time is entered in the correct format.",
+    "invalidDuration": "**The duration entered is invalid.**\nPlease make sure that the time is entered in the correct format. The duration must be more than 10 seconds and less than 7 days",
     "supportedTimeFormats": "Use of time units",
     "incorrect": "Incorrect use",
     "correct": "Correct use"
