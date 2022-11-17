@@ -57,5 +57,6 @@
     "none": "None",
     "limitMode1": "The limit with which the deletion algorithm should work. Specified as a **duration**, since mode 1 is activated.\nExample: `1m 30s`",
     "limitMode2": "The limit with which the deletion algorithm should work. Specified as a **duration**, since mode 2 is activated.\nExample: `2m 30s`",
-    "limitMode3": "The limit with which the deletion algorithm should work. Specified as a **number**, since mode 3 is activated.\nExample: `15`"
+    "limitMode3": "The limit with which the deletion algorithm should work. Specified as a **number**, since mode 3 is activated.\nExample: `15`",
+    "limitMode4": "The limit with which the deletion algorithm should work. Specified as a **number**, since mode 4 is activated.\nExample: `10`"
 }
