@@ -56,5 +56,6 @@
     "setupUpdateFilters": "**Settings have been saved successfully.**\nThe following filters are now __enabled__:\n%s",
     "none": "None",
     "limitMode1": "The limit with which the deletion algorithm should work. Specified as a **duration**, since mode 1 is activated.\nExample: `1m 30s`",
-    "limitMode2": "The limit with which the deletion algorithm should work. Specified as a **duration**, since mode 2 is activated.\nExample: `2m 30s`"
+    "limitMode2": "The limit with which the deletion algorithm should work. Specified as a **duration**, since mode 2 is activated.\nExample: `2m 30s`",
+    "limitMode3": "The limit with which the deletion algorithm should work. Specified as a **number**, since mode 3 is activated.\nExample: `15`"
 }
