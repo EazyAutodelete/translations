@@ -64,5 +64,6 @@
     "resetSetting": "**Settings have been saved successfully.**\nThe setting has been disabled and no longer affects the deletion of messages.",
     "invalidDuration": "**The duration entered is invalid.**\nPlease make sure that the time is entered in the correct format.",
     "supportedTimeFormats": "Use of time units",
-    "right": "Correct use"
+    "right": "Correct use",
+    "incorrect": "Incorrect use"
 }
