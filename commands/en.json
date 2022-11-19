@@ -65,5 +65,6 @@
     "invalidDuration": "**The duration entered is invalid.**\nPlease make sure that the time is entered in the correct format. The duration must be more than 10 seconds and less than 7 days",
     "supportedTimeFormats": "Use of time units",
     "incorrect": "Incorrect use",
-    "correct": "Correct use"
+    "correct": "Correct use",
+    "noDMs": "Commands in direct messages are not supported, you need to add EazyAutodelete to a server!"
 }
