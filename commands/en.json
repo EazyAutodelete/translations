@@ -80,5 +80,5 @@
     "filter10name": "Does not match RegEx",
     "filter11name": "Author is Bot",
     "filter12name": "Author is not Bot",
-    "filter2name": "Does not contain Emojis"
+    "filter2name": "Does not contain Emoji(s)"
 }
