@@ -78,5 +78,6 @@
     "filter7name": "Is pinned",
     "filter8name": "Is not pinned",
     "filter9name": "Matches RegEx",
-    "filter10name": "Does not match RegEx"
+    "filter10name": "Does not match RegEx",
+    "filter11name": "Author is Bot"
 }
