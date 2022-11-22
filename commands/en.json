@@ -79,5 +79,6 @@
     "filter9name": "Matches RegEx",
     "filter10name": "Does not match RegEx",
     "filter11name": "Author is Bot",
-    "filter12name": "Author is not Bot"
+    "filter12name": "Author is not Bot",
+    "filter2nam": "Does not contain Emojis"
 }
