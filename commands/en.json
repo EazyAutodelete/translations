@@ -72,5 +72,6 @@
     "filter1name": "Contains  Emojis",
     "filter2Name": "Does not contain Emojis",
     "filter3name": "Contains Link(s)",
-    "filter4name": "Does not contain Link(s)"
+    "filter4name": "Does not contain Link(s)",
+    "filter5name": "Has Attachments"
 }
