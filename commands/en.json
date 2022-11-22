@@ -74,5 +74,6 @@
     "filter3name": "Contains Link(s)",
     "filter4name": "Does not contain Link(s)",
     "filter5name": "Has Attachments",
-    "filter6name": "Does not have Attachments"
+    "filter6name": "Does not have Attachments",
+    "filter7name": "Is pinned"
 }
