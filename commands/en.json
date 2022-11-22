@@ -77,5 +77,6 @@
     "filter6name": "Does not have Attachments",
     "filter7name": "Is pinned",
     "filter8name": "Is not pinned",
-    "filter9name": "Matches RegEx"
+    "filter9name": "Matches RegEx",
+    "filter10name": "Does not match RegEx"
 }
