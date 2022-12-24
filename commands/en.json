@@ -45,7 +45,7 @@
     "commandNotFound": "The command **/%s** was not found.",
     "languageEditFooter": "Some languages may not be completely translated yet.",
     "currently": "Currently set to:",
-    "commandDisabled": "The **/%s** command is currently disabled:\n`%s`",
+    "commandDisabled": "The **/%s** command is currently disabled!\nReason: `%s`",
     "userIsNew": "It looks like you are using EazyAutodelete for the first time.\nThe best way to start is to set your language. Use **/language** for this.\n\nAfter that you can continue with **/setup** to set up EazyAutodelete for a channel.\n\nFor information about a command, use **/help**.\nIf you have any questions or problems, you can always get help with **/support**.",
     "userWelcome": "👋 Welcome to EazyAutodelete!",
     "setupUpdateMode1": "**Settings have been saved successfully.**\nMode **1**: __Delete the sent message after a specified time (e.g. after 30 secs)__.\n\nClick on the __Change Limit__ button to set a duration after which a message gets deleted.",
