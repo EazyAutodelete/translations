@@ -80,5 +80,6 @@
     "filter10name": "Does not match RegEx",
     "filter11name": "Author is Bot",
     "filter12name": "Author is not Bot",
-    "filter2name": "Does not contain Emoji(s)"
+    "filter2name": "Does not contain Emoji(s)",
+    "limitMode0": "The limit with which the deletion algorithm should work. This option is disabled, since mode 0 is activated and no messages will be deleted."
 }
