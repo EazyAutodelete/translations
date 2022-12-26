@@ -82,5 +82,6 @@
     "filter12name": "Author is not Bot",
     "filter2name": "Does not contain Emoji(s)",
     "limitMode0": "The limit with which the deletion algorithm should work. This option is disabled, since mode 0 is activated and no messages will be deleted.",
-    "messages": "Messages"
+    "messages": "Messages",
+    "invalidAmount": "Please make sure that the amount of messages is entered in the correct format. The amount of messages must be more than 1 and less than %s."
 }
