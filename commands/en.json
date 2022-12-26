@@ -62,7 +62,7 @@
     "updateDeleteMessagesBefore": "**Settings have been saved successfully.**\nFrom now on, only messages sent before the [specified message](%s) will be deleted.",
     "updateDeleteMessagesAfter": "**Settings have been saved successfully.**\nFrom now on, only messages sent after the [specified message](%s) will be deleted.",
     "resetSetting": "**Settings have been saved successfully.**\nThe setting has been disabled and no longer affects the deletion of messages.",
-    "invalidDuration": "**The duration entered is invalid.**\nPlease make sure that the time is entered in the correct format. The duration must be more than 10 seconds and less than 7 days",
+    "invalidDuration": "**The duration entered is invalid.**\nPlease make sure that the time is entered in the correct format. The duration must be more than 10 seconds and less than 7 days.",
     "supportedTimeFormats": "Use of time units",
     "incorrect": "Incorrect use",
     "correct": "Correct use",
@@ -83,5 +83,5 @@
     "filter2name": "Does not contain Emoji(s)",
     "limitMode0": "The limit with which the deletion algorithm should work. This option is disabled, since mode 0 is activated and no messages will be deleted.",
     "messages": "Messages",
-    "invalidAmount": "Please make sure that the amount of messages is entered in the correct format. The amount of messages must be more than 1 and less than %s."
+    "invalidAmount": "Please make sure that the amount of messages is entered in the correct format. The amount of messages must be more than 3 and less than %s."
 }
