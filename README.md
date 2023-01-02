@@ -1,6 +1,6 @@
 # Translations
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Thank you for your interest in our project!!
@@ -70,6 +70,7 @@ You can find detailed instructions on how to use Weblate here: https://docs.webl
   <tbody>
     <tr>
       <td align="center"><a href="http://qreepex.xyz"><img src="https://avatars.githubusercontent.com/u/65496825?v=4?s=100" width="100px;" alt="qreepex"/><br /><sub><b>qreepex</b></sub></a><br /><a href="https://github.com/EazyAutodelete/translations/commits?author=qreepex" title="Documentation">📖</a> <a href="#translation-qreepex" title="Translation">🌍</a></td>
+      <td align="center"><a href="https://phill030.de"><img src="https://avatars.githubusercontent.com/u/50775241?v=4?s=100" width="100px;" alt="Phill"/><br /><sub><b>Phill</b></sub></a><br /><a href="#translation-Phill030" title="Translation">🌍</a></td>
     </tr>
   </tbody>
 </table>
