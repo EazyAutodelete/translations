@@ -71,6 +71,7 @@ You can find detailed instructions on how to use Weblate here: https://docs.webl
     <tr>
       <td align="center"><a href="http://qreepex.xyz"><img src="https://avatars.githubusercontent.com/u/65496825?v=4?s=100" width="100px;" alt="qreepex"/><br /><sub><b>qreepex</b></sub></a><br /><a href="https://github.com/EazyAutodelete/translations/commits?author=qreepex" title="Documentation">📖</a> <a href="#translation-qreepex" title="Translation">🌍</a></td>
       <td align="center"><a href="https://github.com/iTzArshia"><img src="https://avatars.githubusercontent.com/u/89854127?v=4?s=100" width="100px;" alt="iTzArshia"/><br /><sub><b>iTzArshia</b></sub></a><br /><a href="#translation-iTzArshia" title="Translation">🌍</a></td>
+      <td align="center"><a href="https://weblate.org/hosting/"><img src="https://avatars.githubusercontent.com/u/1607653?v=4?s=100" width="100px;" alt="Weblate (bot)"/><br /><sub><b>Weblate (bot)</b></sub></a><br /><a href="#infra-weblate" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
     </tr>
   </tbody>
 </table>
