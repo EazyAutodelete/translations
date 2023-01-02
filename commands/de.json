@@ -28,7 +28,7 @@
     "deleteMessagesLimit3": "Alle Nachrichten nach **%s** Nachrichten löschen.",
     "deleteMessagesLimit4": "Die **%s** neusten Nachrichten behalten und die Nachrichten davor löschen.",
     "status": "Wenn du das lesen kannst, dann ist der Bot wohl wahrscheinlich online.\nWeitere Informationen über den Status erhältst du auf der [**Statusseite**](%s) und auf unserem [**Discord Server**](%s).",
-    "botinfo": "EazyAutodelete ist ein einfacher Bot, den du benutzen kannst, um die Kanäle auf deinem Server sauber zu halten.\nDie vielen Einstellungen erlauben es dir, den Bot komplett an deine Bedürfnisse anzupassen.",
+    "botinfo": "**EazyAutodelete** ist ein einfacher Discord Bot, um automatisch Nachrichten zu löschen.\nDie vielen Einstellungen erlauben es dir, den Bot komplett an deine Bedürfnisse anzupassen.",
     "onCooldown": "Du bist ein bisschen zu schnell.\nVersuche es noch einmal in `%s`.",
     "channelNotInDatabase": "Dieser Kanal ist nicht in der Datenbank.",
     "userNotInDatabase": "Dieser Benutzer ist nicht in der Datenbank.",
@@ -45,7 +45,7 @@
     "commandNotFound": "Der Befehl **/%s** wurde nicht gefunden.",
     "languageEditFooter": "Einige Sprachen sind möglicherweise noch nicht vollständig übersetzt.",
     "currently": "Derzeit eingestellt auf:",
-    "commandDisabled": "Der **/%s** Befehl ist aktuell deaktiviert:\n`%s`",
+    "commandDisabled": "Der **/%s** Befehl ist aktuell deaktiviert!\nGrund: `%s`",
     "userIsNew": "Es sieht so aus, als wenn du EazyAutodelete zum ersten mal benutzen würdest.\nFange am besten damit an, deine Sprache einzustellen. Benutze dafür **/language**.\n\nDanach kannst du mit **/setup** fortfahren, um EazyAutodelete für einen Kanal einzurichten.\n\nInformationen zu einem Befehl, findest du mit **/help**.\nBei Fragen und Problemen kannst du jederzeit über **/support** Hilfe bekommen.",
     "userWelcome": "👋 Willkommen bei EazyAutodelete!",
     "limitMode2": "Das Limit, mit dem der Löschungsalgorithmus arbeiten soll. Angegeben als **Dauer**, da Modus 2 aktiviert ist.\nBeispiel: `2m 30s`",
@@ -80,5 +80,10 @@
     "filter11name": "Verfasser ist Bot",
     "filter12name": "Verfasser ist kein Bot",
     "filter10name": "Entspricht nicht RegEx",
-    "filter2name": "Beinhaltet keine Emoji(s)"
+    "filter2name": "Beinhaltet keine Emoji(s)",
+    "limitMode0": "Das Limit, mit dem der Löschalgorithmus arbeiten soll. Diese Option ist deaktiviert, da Modus 0 aktiviert ist und keine Nachrichten gelöscht werden.",
+    "messages": "Nachrichten",
+    "invalidAmount": "Bitte achte darauf, dass die Anzahl der Nachrichten im richtigen Format eingegeben wird. Die Anzahl der Nachrichten muss größer als 3 und kleiner als %s sein.",
+    "setupUpdateIgnore": "**Einstellungen wurden erfolgreich gespeichert.**\nNachrichten von Mitgliedern mit einer oder mehreren der folgenden Rollen werden __ignoriert__:\n%s",
+    "ignoreRoles": "Lösch keine Nachrichten von Mitgliedern, die eine oder mehrere der angegebenen Rollen haben."
 }
