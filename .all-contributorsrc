@@ -17,6 +17,15 @@
       ]
     },
     {
+      "login": "Phill030",
+      "name": "Phill",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50775241?v=4",
+      "profile": "https://phill030.de",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
       "login": "iTzArshia",
       "name": "iTzArshia",
       "avatar_url": "https://avatars.githubusercontent.com/u/89854127?v=4",
@@ -33,8 +42,8 @@
       "contributions": [
         "translation"
       ]
-     },
-     {
+    },
+    {
       "login": "weblate",
       "name": "Weblate (bot)",
       "avatar_url": "https://avatars.githubusercontent.com/u/1607653?v=4",
