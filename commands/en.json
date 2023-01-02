@@ -36,7 +36,7 @@
     "support": "On our [**Support Server**](%s) there are many helpful users and team members who can assist you.\nYou can also search for a solution yourself in the [**Documentation**](%s).",
     "onCooldown": "You're a little too fast.\nTry again in `%s`.",
     "status": "If you can read this, then the bot will probably be online.\nYou can get more information about the status on the [**Status Page**](%s) and on our [**Discord Server**](%s).",
-    "botinfo": "EazyAutodelete is a simple bot that you can use to keep the channels on your server clean.\nThe many settings allow you to customize the bot to your needs.",
+    "botinfo": "**EazyAutodelete** is a simple Discord Bot to automatically delete messages.\nThe many settings allow you to customize the bot to your needs.",
     "channelNotInDatabase": "This channel is not in the database.",
     "userNotInDatabase": "This user is not in the database.",
     "guildNotInDatabase": "This guild is not in the database.",
