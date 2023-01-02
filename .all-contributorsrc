@@ -26,6 +26,15 @@
       ]
     },
     {
+      "login": "gustavogrubba",
+      "name": "gustavogrubba",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50772317?v=4",
+      "profile": "https://github.com/gustavogrubba",
+      "contributions": [
+        "translation"
+      ]
+     },
+     {
       "login": "weblate",
       "name": "Weblate (bot)",
       "avatar_url": "https://avatars.githubusercontent.com/u/1607653?v=4",
