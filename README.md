@@ -70,7 +70,9 @@ You can find detailed instructions on how to use Weblate here: https://docs.webl
   <tbody>
     <tr>
       <td align="center"><a href="http://qreepex.xyz"><img src="https://avatars.githubusercontent.com/u/65496825?v=4?s=100" width="100px;" alt="qreepex"/><br /><sub><b>qreepex</b></sub></a><br /><a href="https://github.com/EazyAutodelete/translations/commits?author=qreepex" title="Documentation">📖</a> <a href="#translation-qreepex" title="Translation">🌍</a></td>
-      <td align="center"><a href="https://github.com/Dunkelrot4104"><img src="https://avatars.githubusercontent.com/u/115803205?v=4?s=100" width="100px;" alt="Dunkelrot"/><br /><sub><b>Dunkelrot</b></sub></a><br /><a href="#translation-Dunkelrot4104" title="Translation">🌍</a></td>
+
+      <td align="center"><a href="https://github.com/martinbndr"><img src="https://avatars.githubusercontent.com/u/55140357?v=4?s=100" width="100px;" alt="Martin"/><br /><sub><b>Martin</b></sub></a><br /><a href="#translation-martinbndr" title="Translation">🌍</a></td>
+
     </tr>
   </tbody>
 </table>
