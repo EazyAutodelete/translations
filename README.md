@@ -1,4 +1,7 @@
 # Translations
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Thank you for your interest in our project!!
 It is only thanks to the generous support of our translators that the bot can be offered in so many languages.
@@ -61,6 +64,20 @@ You can find detailed instructions on how to use Weblate here: https://docs.webl
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="http://qreepex.xyz"><img src="https://avatars.githubusercontent.com/u/65496825?v=4?s=100" width="100px;" alt="qreepex"/><br /><sub><b>qreepex</b></sub></a><br /><a href="https://github.com/EazyAutodelete/translations/commits?author=qreepex" title="Documentation">📖</a> <a href="#translation-qreepex" title="Translation">🌍</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 
