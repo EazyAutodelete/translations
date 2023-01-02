@@ -65,7 +65,7 @@
     "setupUpdateMode1": "**Einstellungen wurden erfolgreich gespeichert.**\nModus **1**: __Eine gesendete Nachricht nach der festgelegten Zeit löschen (bspw. nach 30 sek)__.\n\nKlicke auf die Schaltfläche __Limit ändern__, um eine Dauer festzulegen, nach der eine Nachricht gelöscht wird.",
     "incorrect": "Falsche Verwendung",
     "correct": "Richtige Verwendung",
-    "invalidDuration": "**Die eingegebene Dauer ist ungültig.**\nBitte stelle sicher, dass die Zeit im richtigen Format eingegeben wird. Die Dauer muss mehr als 10 Sekunden und weniger als 7 Tage betragen",
+    "invalidDuration": "**Die eingegebene Dauer ist ungültig.**\nBitte stelle sicher, dass die Zeit im richtigen Format eingegeben wird. Die Dauer muss mehr als 10 Sekunden und weniger als 7 Tage betragen.",
     "noDMs": "Befehle in direkten Nachrichten werden nicht unterstützt, du musst EazyAutodelete zu einem Server hinzufügen!",
     "expiredSelect": "⏰ Du kannst keine Auswahl-Menüs verwenden, die älter als 5 Minuten sind.",
     "expiredButton": "⏰ Du kannst keine Knöpfe verwenden, die älter als 5 Minuten sind.",
