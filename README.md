@@ -57,13 +57,3 @@ You can find detailed instructions on how to use Weblate here: https://docs.webl
 7. When you have finished entering the translation, click "Suggest". Your translation is now saved and will be sent to the team for review.
 8. You will be automatically redirected to the next translation. Start there again with step 6.
   </details>
-  
-  
-  ## Translators
-  
-  A huge thank you, to all who helped to translate EazyAutodelete:
-  
-  - qreepex (English, German)
-  - SaaKuu_ (Polish)
-  - iTz Arshia (Persian)
-  - Dunkelrot (Spanish, Japanese, German)
