@@ -15,6 +15,15 @@
         "doc",
         "translation"
       ]
+    },
+    {
+      "login": "Phill030",
+      "name": "Phill",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50775241?v=4",
+      "profile": "https://phill030.de",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
