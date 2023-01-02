@@ -17,12 +17,22 @@
       ]
     },
     {
+      "login": "martinbndr",
+      "name": "Martin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55140357?v=4",
+      "profile": "https://github.com/martinbndr",
+      "contributions": [
+        "translation",
+        "test"
+      ]
+    },
+    {
       "login": "Phill030",
       "name": "Phill",
       "avatar_url": "https://avatars.githubusercontent.com/u/50775241?v=4",
       "profile": "https://phill030.de",
       "contributions": [
-        "translation"
+        "translation",
       ]
     },
     {
