@@ -9,5 +9,12 @@
     "usage": "Uso",
     "overview": "Use `/help <comando>` para obter mais informações.",
     "missingPerms": "Você não tem permissão para usar esse comando.",
-    "missingBotPerms": "Estou sem as seguintes permissões para executar esse comando:\n`%s`"
+    "missingBotPerms": "Estou sem as seguintes permissões para executar esse comando:\n`%s`",
+    "mode2": "Elimina mensagens em um intervalo especificado (por exemplo, a cada 30 segundos).",
+    "invalidChannelType": "O tipo de determinado canal não é suportado.\nOs seguintes tipos de canal (**[?](%s)**) são suportados atualmente:\n`%s`",
+    "mode0": "Desativado",
+    "mode1": "Eliminar uma mensagem enviada após o tempo definido (por exemplo, após 30 seg.).",
+    "mode3": "Apagar todas as mensagens após uma certa quantidade de mensagens (por exemplo, a cada 10 mensagens).",
+    "filter": "Escolha entre vários filtros que filtram as mensagens para que elas possam ser apagadas.\nAs mensagens que não se encontram com os filtros não serão deletadas.",
+    "filterBehaviorAll": "Somente excluir mensagens que correspondam a TODOS os filtros."
 }
