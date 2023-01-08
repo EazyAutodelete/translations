@@ -85,5 +85,6 @@
     "messages": "Messages",
     "invalidAmount": "Please make sure that the amount of messages is entered in the correct format. The amount of messages must be more than 3 and less than %s.",
     "setupUpdateIgnore": "**Settings have been saved successfully.**\nMessages from members with one or more of the following roles will be __ignored__:\n%s",
-    "ignoreRoles": "Do not delete messages from members that have one or more of the specified roles."
+    "ignoreRoles": "Do not delete messages from members that have one or more of the specified roles.",
+    "vote": "You can vote for EazyAutodelete here:"
 }
