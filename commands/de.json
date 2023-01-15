@@ -85,5 +85,12 @@
     "messages": "Nachrichten",
     "invalidAmount": "Bitte achte darauf, dass die Anzahl der Nachrichten im richtigen Format eingegeben wird. Die Anzahl der Nachrichten muss größer als 3 und kleiner als %s sein.",
     "setupUpdateIgnore": "**Einstellungen wurden erfolgreich gespeichert.**\nNachrichten von Mitgliedern mit einer oder mehreren der folgenden Rollen werden __ignoriert__:\n%s",
-    "ignoreRoles": "Lösch keine Nachrichten von Mitgliedern, die eine oder mehrere der angegebenen Rollen haben."
+    "ignoreRoles": "Lösch keine Nachrichten von Mitgliedern, die eine oder mehrere der angegebenen Rollen haben.",
+    "vote": "Hier kannst du für EazyAutodelete voten:",
+    "filter13name": "Hat ein Thread",
+    "filter14name": "Hat kein Thread",
+    "filter15name": "Wurde veröffentlicht",
+    "filter16name": "Wurde nicht veröffentlicht",
+    "filter17name": "Ist Crosspost",
+    "filter18name": "Ist kein Crosspost"
 }
