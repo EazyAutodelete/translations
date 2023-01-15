@@ -90,5 +90,6 @@
     "filter13name": "Has a Thread",
     "filter14name": "Does not have a Thread",
     "filter15name": "Was published",
-    "filter16name": "Was not published"
+    "filter16name": "Was not published",
+    "filter17name": "Is crosspost"
 }
