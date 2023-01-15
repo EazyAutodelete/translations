@@ -89,5 +89,6 @@
     "vote": "You can vote for EazyAutodelete here:",
     "filter13name": "Has a Thread",
     "filter14name": "Does not have a Thread",
-    "filter15name": "Was published"
+    "filter15name": "Was published",
+    "filter16name": "Was not published"
 }
