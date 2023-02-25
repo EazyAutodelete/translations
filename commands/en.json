@@ -93,5 +93,6 @@
     "filter16name": "Was not published",
     "filter17name": "Is crosspost",
     "filter18name": "Is not crosspost",
-    "filter19name": "Is a Reply"
+    "filter19name": "Is a Reply",
+    "filter20name": "Is not a Reply"
 }
