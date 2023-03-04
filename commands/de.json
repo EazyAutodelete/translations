@@ -92,5 +92,7 @@
     "filter15name": "Wurde veröffentlicht",
     "filter16name": "Wurde nicht veröffentlicht",
     "filter17name": "Ist Crosspost",
-    "filter18name": "Ist kein Crosspost"
+    "filter18name": "Ist kein Crosspost",
+    "filter19name": "Ist eine Antwort",
+    "filter20name": "Ist keine Antwort"
 }
