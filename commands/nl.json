@@ -15,7 +15,7 @@
     "mode1": "Verwijder verzonden berichten na een bepaalde tijd (vb: na 30 seconden).",
     "mode2": "Verwijdert berichten na een bepaald interval (bijv: elke 30 seconden).",
     "mode3": "Verwijder berichten na een bepaald aantal berichten (vb: elke 10 berichten).",
-    "mode4": "Behoud een bepaald aantal nieuwe berichten en verwijder berichten daarvoor (vb: houd de 10 nieuwste berichten).",
+    "mode4": "",
     "filter": "Kies uit meerdere filters met welk filter de berichten overeen moeten komen om verwijderd te worden.\nBerichten die niet overeenkomen, worden niet verwijderd.",
     "filterBehaviorAll": "Verwijder alleen berichten die overeenkomen met **ALLE filters**.",
     "languageEditFooter": "Sommige talen zijn misschien nog niet volledig vertaald.",
