@@ -100,5 +100,6 @@
     "lazyloadNo": "No, do not load old messages",
     "lazyloadEnabled": "EazyAutodelete will now start loading old messages.",
     "lazyloadDisabled": "EazyAutodelete will not load old messages.",
-    "lazyloadInfo": "This can take from a few minutes up to several hours, depending on the amount of messages in this channel."
+    "lazyloadInfo": "This can take from a few minutes up to several hours, depending on the amount of messages in this channel.",
+    "autodeleteStart": "EazyAutodelete will now start deleting messages according to your configuration."
 }
