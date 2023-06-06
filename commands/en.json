@@ -98,7 +98,6 @@
     "lazyloadAsk": "Do you want EazyAutodelete to load and delete old messages sent before the bot was set up?",
     "lazyloadYes": "Yes, load old messages",
     "lazyloadNo": "No, do not load old messages",
-    "layzloadInfo": "This can take from a few minutes up to several hours, depending on the amount of messages in this channel.",
     "lazyloadEnabled": "EazyAutodelete will now start loading old messages.",
     "lazyloadDisabled": "EazyAutodelete will not load old messages."
 }
