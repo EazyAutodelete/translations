@@ -94,5 +94,6 @@
     "filter17name": "Is crosspost",
     "filter18name": "Is not crosspost",
     "filter19name": "Is a Reply",
-    "filter20name": "Is not a Reply"
+    "filter20name": "Is not a Reply",
+    "lazyloadAsk": "Do you want EazyAutodelete to load and delete old messages sent before the bot was set up?"
 }
