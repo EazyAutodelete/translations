@@ -158,5 +158,7 @@
     "attributes20short": "Have all selected attributes",
     "attributes10desc": "Only delete messages that have ONE OR MORE selected attributes",
     "attributes20desc": "Only delete messages that have ALL selected attributes.",
-    "selectRoles": "Select roles..."
+    "selectRoles": "Select roles...",
+    "messageId": "Message ID (0 to reset)",
+    "enterMessageId": "Enter message ID... (enter 0 to reset)"
 }
