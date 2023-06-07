@@ -133,5 +133,6 @@
     "limitHeading": "Limit / Duration",
     "modeHeading": "Mode",
     "contents20info": "Only delete messages that __contain ALL__ of the selected contents.",
-    "contents10info": "Only delete messages that __contain ONE OR MORE__ of the selected contents."
+    "contents10info": "Only delete messages that __contain ONE OR MORE__ of the selected contents.",
+    "filtersOfConfig": "Filters of Configuration"
 }
