@@ -120,7 +120,7 @@
     "deleteMessagesBeforeShort": "Delete messages before",
     "configMenuInfo": "Run /setup again to select a different config.",
     "modeInfo": "Changes the way the deletion algorithm works.",
-    "types10info": "Only delete messages that __meet ONE ORE MORE__ of the selected types.",
+    "types10info": "Only delete messages that __meet ONE OR MORE__ of the selected types.",
     "types20info": "Only delete message that __meet ALL__ of the selected types.",
     "beforeHeading": "Delete messages before",
     "afterHeading": "Delete messages after",
