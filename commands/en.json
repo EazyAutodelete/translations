@@ -134,5 +134,6 @@
     "modeHeading": "Mode",
     "contents20info": "Only delete messages that __contain ALL__ of the selected contents.",
     "contents10info": "Only delete messages that __contain ONE OR MORE__ of the selected contents.",
-    "filtersOfConfig": "Filters of Configuration"
+    "filtersOfConfig": "Filters of Configuration",
+    "behaviorInfo": "Select either\n> 1) delete only messages that match **AT LEAST ONE filter** of a category *or*.\n> 2) delete only messages that match **ALL filters** of a category."
 }
