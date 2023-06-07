@@ -110,5 +110,6 @@
     "ignoreFooter": "The old ignored roles will be overwritten with new selected roles.",
     "ignoreInfo": "Select roles that you want to ignore. Messages from members who have one or more of these roles are ignored by the bot.",
     "types20": "Only messages that meet __ALL__ of the following types will be deleted:\\n%s",
-    "types10": "Only messages that meet __ONE OR MORE__ of the following types will be deleted:\\n%s"
+    "types10": "Only messages that meet __ONE OR MORE__ of the following types will be deleted:\\n%s",
+    "attributes20": "Only messages that have __ALL__ of the following attributes will be deleted:\\n%s"
 }
