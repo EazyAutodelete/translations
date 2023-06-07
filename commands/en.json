@@ -107,5 +107,6 @@
     "configSelectCreateOrEdit": "Select a config to edit or create a new one",
     "includeThreads": "Include Threads",
     "ignoreThreads": "Ignore Threads",
-    "ignoreFooter": "The old ignored roles will be overwritten with new selected roles."
+    "ignoreFooter": "The old ignored roles will be overwritten with new selected roles.",
+    "ignoreInfo": "Select roles that you want to ignore. Messages from members who have one or more of these roles are ignored by the bot."
 }
