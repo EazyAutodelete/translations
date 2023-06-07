@@ -104,5 +104,7 @@
     "autodeleteStart": "EazyAutodelete will now start deleting messages according to your configuration.",
     "createNewConfig": "Create a new configuration",
     "configSelectEdit": "Select a config to edit",
-    "configSelectCreateOrEdit": "Select a config to edit or create a new one"
+    "configSelectCreateOrEdit": "Select a config to edit or create a new one",
+    "includeThreads": "Include Threads",
+    "ignoreThreads": "Ignore Threads"
 }
