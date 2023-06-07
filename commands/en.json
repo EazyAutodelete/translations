@@ -117,5 +117,6 @@
     "contents10": "Only messages that contain __ONE OR MORE__ of the following contents will be deleted:\n%s",
     "any": "Any (Any message will be deleted)",
     "deleteMessagesAfterShort": "Delete messages after",
-    "deleteMessagesBeforeShort": "Delete messages before"
+    "deleteMessagesBeforeShort": "Delete messages before",
+    "configMenuInfo": "Run /setup again to select a different config"
 }
