@@ -121,5 +121,17 @@
     "configMenuInfo": "Run /setup again to select a different config.",
     "modeInfo": "Changes the way the deletion algorithm works.",
     "types10info": "Delete only messages that match ONE OR MORE of the specified types.",
-    "types20info": "Delete only messages that match ALL of the specified types."
+    "types20info": "Delete only messages that match ALL of the specified types.",
+    "beforeHeading": "Delete messages before",
+    "afterHeading": "Delete messages after",
+    "contentsHeading": "Messages that CONTAIN",
+    "attributesHeading": "Messages that HAVE",
+    "typesHeading": "Messages that ARE",
+    "attributes20info": "Only delete message that __have ALL__ of the selected attributes.",
+    "attributes10info": "Only delete messages that __have ONE OR MORE__ of the selected attributes.",
+    "ignoreHeading": "Ignore roles",
+    "limitHeading": "Limit / Duration",
+    "modeHeading": "mode",
+    "contents20info": "Only delete messages that __contain ALL__ of the selected contents.",
+    "contents10info": "Only delete messages that __contain ONE OR MORE__ of the selected contents."
 }
