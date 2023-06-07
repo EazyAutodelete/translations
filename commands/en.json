@@ -112,5 +112,6 @@
     "types20": "Only messages that meet __ALL__ of the following types will be deleted:\\n%s",
     "types10": "Only messages that meet __ONE OR MORE__ of the following types will be deleted:\\n%s",
     "attributes20": "Only messages that have __ALL__ of the following attributes will be deleted:\\n%s",
-    "attributes10": "Only messages that have __ONE OR MORE__ of the following attributes will be deleted:\\n%s"
+    "attributes10": "Only messages that have __ONE OR MORE__ of the following attributes will be deleted:\\n%s",
+    "contents20": "Only messages that contain __ALL__ of the following contents will be deleted:\\n%s"
 }
