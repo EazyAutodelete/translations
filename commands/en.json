@@ -118,7 +118,7 @@
     "any": "Any (Any message will be deleted)",
     "deleteMessagesAfterShort": "Delete messages after",
     "deleteMessagesBeforeShort": "Delete messages before",
-    "configMenuInfo": "Run /setup again to select a different config",
+    "configMenuInfo": "Run /setup again to select a different config.",
     "modeInfo": "Changes the way the deletion algorithm works.",
     "types10info": "Delete only messages that match ONE OR MORE of the specified types.",
     "types20info": "Delete only messages that match ALL of the specified types."
