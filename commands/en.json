@@ -161,5 +161,6 @@
     "selectRoles": "Select roles...",
     "messageId": "Message ID (0 to reset)",
     "enterMessageId": "Enter message ID... (enter 0 to reset)",
-    "invalidConfig": "Oops! It looks like that this is not a valid configuration. Please try running the command again or contact support."
+    "invalidConfig": "Oops! It looks like that this is not a valid configuration. Please try running the command again or contact support.",
+    "test": "test"
 }
