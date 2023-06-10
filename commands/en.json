@@ -164,5 +164,6 @@
     "invalidConfig": "Oops! It looks like that this is not a valid configuration. Please try running the command again or contact support.",
     "test": "test",
     "configDeleted": "The config was deleted.",
-    "deleteConfigInfo": "Select a config to delete."
+    "deleteConfigInfo": "Select a config to delete.",
+    "deleteConfigConfirm": "Are you sure you want to delete this configuration? This action can NOT be undone."
 }
