@@ -169,5 +169,6 @@
     "deleteConfig": "Delete config",
     "selectConfigToDelete": "Select a config to delete...",
     "yesDelete": "Yes, delete it!",
-    "noKeep": "No, keep it!"
+    "noKeep": "No, keep it!",
+    "enterLimit": "Enter limit..."
 }
