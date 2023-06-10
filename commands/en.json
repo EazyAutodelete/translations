@@ -166,5 +166,7 @@
     "configDeleted": "The config was deleted.",
     "deleteConfigInfo": "Select a config to delete.",
     "deleteConfigConfirm": "Are you sure you want to delete this configuration? This action can NOT be undone.",
-    "deleteConfig": "Delete config"
+    "deleteConfig": "Delete config",
+    "selectConfigToDelete": "Select a config to delete...",
+    "yesDelete": "Yes, delete it!"
 }
