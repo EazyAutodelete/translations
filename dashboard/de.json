@@ -1,9 +1,1 @@
-{
-    "lazyloadAsk": "Möchtest du, dass EazyAutodelete alte Nachricht lädt und löscht, die vor der Einrichtung des Bots gesendet wurden?",
-    "lazyloadYes": "Ja, lade alte Nachrichten",
-    "lazyloadNo": "Nein, lade keine alten Nachrichten",
-    "lazyloadEnabled": "EazyAutodelete beginnt nun, alte Nachrichten zu laden.",
-    "lazyloadDisabled": "EazyAutodelete lädt keine alten Nachrichten.",
-    "test": "tessssttt",
-    "testneeuuuu": "uuwuwuwuwwwoooooo"
-}
+{}
