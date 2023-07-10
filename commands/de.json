@@ -117,5 +117,6 @@
     "modeInfo": "Ändert die Funktionsweise des Löschalgorithmus.",
     "configMenuInfo": "Führe /setup erneut aus, um eine andere Konfiguration auszuwählen.",
     "beforeHeading": "Nachrichten löschen vor",
-    "afterHeading": "Nachrichten löschen nach"
+    "afterHeading": "Nachrichten löschen nach",
+    "attributes20": "Nur Nachrichten, die __ALLE__ der folgenden Attribute haben, werden gelöscht:\n%s"
 }
