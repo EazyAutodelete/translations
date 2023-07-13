@@ -188,5 +188,6 @@
     "attribute2000": "Attachments",
     "attribute2010": "Embeds",
     "attribute2011": "No embeds",
-    "attribute2020": "Threads"
+    "attribute2020": "Threads",
+    "attribute2021": "No threads"
 }
