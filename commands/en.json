@@ -185,5 +185,6 @@
     "type1051": "Not sent by bot",
     "type1060": "Voice messages",
     "type1061": "Not voice message",
-    "attribute2000": "Attachments"
+    "attribute2000": "Attachments",
+    "2001": "No attachments"
 }
