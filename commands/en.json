@@ -205,5 +205,6 @@
     "excludedThreads": "Threads will no longer be included automatically.\n\nThreads that have an individual configuration are still included.",
     "logChannelSet": "The log channel has been successfully set.\nEazyAutodelete now sends notifications there when messages have been deleted.",
     "channelIsLogChannel": "To prevent abuse, EazyAutodelete cannot automatically delete messages in channels that are used as log channels.\n\nThis channel is the log channel for <#%s>.",
-    "logChannelAlreadySetUp": "To prevent abuse, EazyAutodelete cannot use channels where messages are automatically deleted as log channels."
+    "logChannelAlreadySetUp": "To prevent abuse, EazyAutodelete cannot use channels where messages are automatically deleted as log channels.",
+    "logChannelUnset": "The log channel has been unset."
 }
