@@ -181,5 +181,6 @@
     "type1031": "Not edited",
     "type1040": "Reply",
     "type1041": "Not reply",
-    "type1050": "Sent by bot"
+    "type1050": "Sent by bot",
+    "type1051": "Not sent by bot"
 }
