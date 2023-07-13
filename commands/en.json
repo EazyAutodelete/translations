@@ -192,5 +192,6 @@
     "attribute2021": "No threads",
     "attribute2030": "Reactions",
     "content3000": "Contain Emojis",
-    "content3001": "Not contain Emojis"
+    "content3001": "Not contain Emojis",
+    "content3010": "Contain Mentions"
 }
