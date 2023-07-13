@@ -193,5 +193,10 @@
     "attribute2030": "Reactions",
     "content3000": "Contain Emojis",
     "content3001": "Not contain Emojis",
-    "content3010": "Contain Mentions"
+    "content3010": "Contain Mentions",
+    "content3011": "Not contain Mentions",
+    "content3020": "Contain Links",
+    "content3021": "Not contain Links",
+    "content3030": "Will be added soon!",
+    "content3031": "Will be added soon!"
 }
