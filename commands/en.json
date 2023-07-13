@@ -178,5 +178,6 @@
     "type1020": "Crosspost",
     "type1021": "Not crosspost",
     "type1030": "Edited",
-    "type1031": "Not edited"
+    "type1031": "Not edited",
+    "type1040": "Reply"
 }
