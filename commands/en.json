@@ -179,5 +179,7 @@
     "type1021": "Not crosspost",
     "type1030": "Edited",
     "type1031": "Not edited",
-    "type1040": "Reply"
+    "type1040": "Reply",
+    "type1041": "Not reply",
+    "type1050": "Sent by bot"
 }
