@@ -176,5 +176,6 @@
     "type1011": "Not published",
     "type1001": "Not pinned",
     "type1020": "Crosspost",
-    "type1021": "Not crosspost"
+    "type1021": "Not crosspost",
+    "type1030": "Edited"
 }
