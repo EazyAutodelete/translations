@@ -200,5 +200,6 @@
     "content3030": "Will be added soon!",
     "content3031": "Will be added soon!",
     "attribute2001": "No attachments",
-    "attribute2031": "No reactions"
+    "attribute2031": "No reactions",
+    "includedThreads": "Threads will now be included as well.\nThe same configurations automatically apply there as in the parent channel.\n\nUse /setup in a thread to create an individual configuration there."
 }
