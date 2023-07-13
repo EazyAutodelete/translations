@@ -201,5 +201,7 @@
     "content3031": "Will be added soon!",
     "attribute2001": "No attachments",
     "attribute2031": "No reactions",
-    "includedThreads": "Threads will now be automatically included as well.\nThe same configurations automatically apply there as in the parent channel.\n\nUse /setup in a thread to create an individual configuration there."
+    "includedThreads": "Threads will now be automatically included as well.\nThe same configurations automatically apply there as in the parent channel.\n\nUse /setup in a thread to create an individual configuration there.",
+    "excludedThreads": "Threads will no longer be included automatically.\n\nThreads that have an individual configuration are still included.",
+    "logChannelSet": "The log channel has been successfully set.\nEazyAutodelete now sends notifications there when messages have been deleted."
 }
