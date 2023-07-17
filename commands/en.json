@@ -207,5 +207,6 @@
     "channelIsLogChannel": "To prevent abuse, EazyAutodelete cannot automatically delete messages in channels that are used as log channels.\n\nThis channel is the log channel for <#%s>.",
     "logChannelAlreadySetUp": "To prevent abuse, EazyAutodelete cannot use channels where messages are automatically deleted as log channels.",
     "logChannelUnset": "The log channel has been unset.",
-    "logChannelNotSet": "The log channel is not set."
+    "logChannelNotSet": "The log channel is not set.",
+    "logChannelSame": "The log channel cannot be the channel where the messages are deleted."
 }
