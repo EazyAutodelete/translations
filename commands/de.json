@@ -119,5 +119,6 @@
     "beforeHeading": "Nachrichten löschen vor",
     "afterHeading": "Nachrichten löschen nach",
     "attributes20": "Nur Nachrichten, die __ALLE__ der folgenden Attribute haben, werden gelöscht:\n%s",
-    "test": "tessssttt"
+    "test": "tessssttt",
+    "attributes10": "Only messages that have __ONE OR MORE__ of the following attributes will be deleted:\n%s"
 }
