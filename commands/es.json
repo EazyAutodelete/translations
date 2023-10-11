@@ -3,7 +3,6 @@
     "invite": "**Puedes invitarme aquí: %s**",
     "languageEdit": "Su idioma ha sido cambiado a: **%s**.",
     "languageShow": "Su idioma actualmente está establecido en: **%s**.\nUse `/language` para cambiar su idioma.",
-    "nukeConfirmSent": "Confirme su acción en <#%s>. **[Haga clic aquí](%s)**",
     "nukeConfirmDescription": "**TODOS** los mensajes en este canal serán **DESAPARECIDOS PARA SIEMPRE**.",
     "example": "Ejemplo",
     "usage": "Uso",
