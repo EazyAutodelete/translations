@@ -2,7 +2,6 @@
     "invite": "**Você pode me convidar aqui: %s**",
     "languageEdit": "Seu idioma foi mudado para: **%s**.",
     "languageShow": "Seu idioma atual é o: **%s**.\nUse `/language` para mudar seu idioma.",
-    "nukeConfirmTitle": "Você tem certeza que quer destruir esse canal?",
     "example": "Exemplo",
     "usage": "Uso",
     "overview": "Use `/help <comando>` para obter mais informações.",
