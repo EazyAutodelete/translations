@@ -41,7 +41,6 @@
     "onCooldown": "Jesteś trochę za szybki.\nSpróbuj ponownie za `%s`.",
     "commandNotFound": "Nie znaleziono polecenia **/%s**.",
     "currently": "Obecnie ustawione na:",
-    "nukeConfirmTitle": "Czy jesteś pewny że chcesz zniszczyć ten kanał?",
     "languageEditFooter": "Niektóre języki mogą nie być jeszcze w pełni przetłumaczone.",
     "setupUpdateMode4": "**Ustawienia zostały pomyślnie zapisane.**\nTryb **4**: __Zachowaj określoną liczbę najnowszych wiadomości i usuń wiadomości starsze (np. zachowaj 10 najnowszych wiadomości)__.\n\nKliknij przycisk __Change Limit__, aby ustawić liczbę najnowszych wiadomości do zachowania.",
     "setupUpdateMode3": "**Ustawienia zostały pomyślnie zapisane.**\nTryb **3**: __Usuwa wszystkie wiadomości przy określonej ilości wysłanych (np. co 10 wiadomości)__.\n\nKliknij przycisk __Change Limit__, aby ustawić ilość wiadomości, po której wszystkie wiadomości zostaną usunięte.",
