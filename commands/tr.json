@@ -1,7 +1,6 @@
 {
     "invite": "**Beni burdan davet edebilirsin: %s**",
     "languageEdit": "Kullanıcı dilin değiştirildi: **%s**.",
-    "nukeConfirmDescription": "Bu kanaldaki **TÜM** mesajlar **SONSUZA KADAR** silinecektir.",
     "example": "Misal",
     "usage": "Kullanım şekli",
     "overview": "Daha fazla bilgi için `/help <command>` kulanabilirsiniz.",
