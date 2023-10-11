@@ -1,5 +1,4 @@
 {
-    "nukeConfirmSent": "<#%s>에서 작업을 확인하세요. **[Click here](%s)**",
     "nukeConfirmDescription": "이 채널의 **모든** 메시지가 **영원히** 사라집니다.",
     "example": "예시",
     "invite": "**여기에서 초대할 수 있습니다: %s**",
