@@ -2,7 +2,6 @@
     "invite": "**Você pode me convidar aqui: %s**",
     "languageEdit": "Seu idioma foi mudado para: **%s**.",
     "languageShow": "Seu idioma atual é o: **%s**.\nUse `/language` para mudar seu idioma.",
-    "nukeConfirmSent": "Confirme sua ação em <#%s>. **[Clique aqui](%s)**",
     "nukeConfirmTitle": "Você tem certeza que quer destruir esse canal?",
     "nukeConfirmDescription": "**TODAS** menssagens deste canal serão **PERDIDAS PARA SEMPRE**.",
     "example": "Exemplo",
