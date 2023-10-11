@@ -3,7 +3,6 @@
     "languageEdit": "Je taal is veranderd in: **%s**.",
     "example": "Voorbeeld",
     "languageShow": "Uw taal is momenteel ingesteld op: **%s**.\nGebruik `/language` om je taal te veranderen.",
-    "nukeConfirmTitle": "Weet je zeker dat je dit kanaal wilt vernietigen?",
     "usage": "Gebruik",
     "overview": "Gebruik `/help <commando>` voor meer informatie.",
     "missingPerms": "Je mag dat commando niet gebruiken.",
