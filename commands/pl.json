@@ -2,7 +2,6 @@
     "invite": "**Możesz zaprosić mnie tutaj: %s**",
     "languageEdit": "Język został zmieniony na: **%s**.",
     "languageShow": "Język został zmieniony na: **%s**.\nUżyj `/language` aby zmienić język.",
-    "nukeConfirmDescription": "**WSZYSTKIE** wiadomości w tym kanale zostaną usunięte **NA ZAWSZE**.",
     "example": "Przykład",
     "usage": "Używanie",
     "overview": "Użyj ' /help <command> ' aby uzyskać więcej informacji.",
