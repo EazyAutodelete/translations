@@ -6,7 +6,6 @@
     "invite": "**Vous pouvez m'inviter par ici : %s**",
     "languageEdit": "Votre langue à été modifié en : **%s**.",
     "languageShow": "Votre langue est actuellement défini en : **%s**.\nUtilisez `/language` pour modifier votre langue.",
-    "nukeConfirmSent": "Veuillez-confirmer votre action dans <#%s>. **[Click here](%s)**",
     "nukeConfirmDescription": "**TOUS** les message dans ce salon vont **DISPARAÎTRE POUR TOUJOURS**.",
     "example": "Exemple",
     "usage": "Utilisation",
