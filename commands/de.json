@@ -1,7 +1,6 @@
 {
     "invite": "**Du kannst mich unter folgendem Link einladen: %s**",
     "nukeConfirmTitle": "Bist du dir sicher, dass du diesen Kanal nuken möchtest?",
-    "nukeConfirmSent": "Bitte bestätige deine Aktion in <#%s>. **[Klicke hier](%s)**",
     "example": "Beispiel",
     "usage": "Benutzung",
     "languageEdit": "Deine Sprache wurde zu **%s** geändert.",
