@@ -5,7 +5,6 @@
     "usage": "Benutzung",
     "languageEdit": "Deine Sprache wurde zu **%s** geändert.",
     "languageShow": "Deine Sprache ist aktuell auf **%s** eingestellt.\nBenutze `/language`, um eine andere Sprache festzulegen.",
-    "nukeConfirmDescription": "**ALLE** Nachrichten in diesem Kanal werden **FÜR IMMER GELÖSCHT**.",
     "overview": "Benutze `/help <befehl>`, um mehr Informationen zu einem Befehl zu erhalten.",
     "invalidChannelType": "Der Typ des angegebenen Kanals wird nicht unterstützt.\nFolgende Kanal-Typen (**[?](%s)**) werden aktuell unterstützt:\n`%s`",
     "mode0": "Deaktiviert",
