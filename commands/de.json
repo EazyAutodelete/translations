@@ -117,6 +117,6 @@
     "afterHeading": "Nachrichten löschen nach",
     "attributes20": "Nur Nachrichten, die __ALLE__ der folgenden Attribute haben, werden gelöscht:\n%s",
     "test": "tessssttt",
-    "attributes10": "",
+    "attributes10": "Es werden nur Nachrichten gelöscht, die __EINE ODER MEHR__ der folgenden Attribute aufweisen:\n%s",
     "languageName": "German"
 }
