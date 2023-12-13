@@ -208,5 +208,6 @@
     "logChannelSame": "The log channel cannot be the channel where the messages are deleted.",
     "languageName": "English",
     "checkSocials": "Check out our socials: ",
-    "hasAllPermissions": "EazyAutodelete has **all** permissions that are required to run the deletion algorithm in that channel."
+    "hasAllPermissions": "EazyAutodelete has **all** permissions that are required to run the deletion algorithm in that channel.",
+    "noConfigs": "There are no configs in this channel."
 }
