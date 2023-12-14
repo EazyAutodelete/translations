@@ -211,5 +211,6 @@
     "hasAllPermissions": "EazyAutodelete has **all** permissions that are required to run the deletion algorithm in that channel.",
     "noConfigs": "There are no configs in this channel.",
     "changeLimit2": "Click on the __%s__ button to set the interval at which the bot deletes messages in the channel.",
-    "changeLimit1": "Click on the __%s__ button to set a duration after which each message gets deleted."
+    "changeLimit1": "Click on the __%s__ button to set a duration after which each message gets deleted.",
+    "changeLimit3": "Click the __%s__ button to set the amout of messages after which all messages get deleted."
 }
