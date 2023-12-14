@@ -209,5 +209,6 @@
     "languageName": "English",
     "checkSocials": "Check out our socials: ",
     "hasAllPermissions": "EazyAutodelete has **all** permissions that are required to run the deletion algorithm in that channel.",
-    "noConfigs": "There are no configs in this channel."
+    "noConfigs": "There are no configs in this channel.",
+    "changeLimit0": "Click on the __%s__ button to set a duration after which each message gets deleted."
 }
