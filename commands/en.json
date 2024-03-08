@@ -213,5 +213,6 @@
     "changeLimit2": "Click on the __%s__ button to set the interval at which the bot deletes messages in the channel.",
     "changeLimit1": "Click on the __%s__ button to set a duration after which each message gets deleted.",
     "changeLimit3": "Click the __%s__ button to set the amout of messages after which all messages get deleted.",
-    "changeLimit4": "Click on the __%s__ button to set the number of new messages to keep."
+    "changeLimit4": "Click on the __%s__ button to set the number of new messages to keep.",
+    "botNotReady": "Bot is not ready yet. Please wait a few seconds and try again."
 }
