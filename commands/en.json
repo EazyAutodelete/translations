@@ -98,7 +98,7 @@
     "lazyloadEnabled": "EazyAutodelete will now start loading old messages.",
     "lazyloadDisabled": "EazyAutodelete will not load old messages.",
     "lazyloadInfo": "This can take from a few minutes up to several hours, depending on the amount of messages in this channel.",
-    "autodeleteStart": "EazyAutodelete will now start deleting messages according to your configuration.",
+    "autodeleteStart": "EazyAutodelete starts deleting messages according to your configurations one minute after the last change.",
     "createNewConfig": "Create a new configuration",
     "configSelectEdit": "Select a config to edit",
     "configSelectCreateOrEdit": "Select a config to edit or create a new one",
