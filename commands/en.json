@@ -216,5 +216,6 @@
     "changeLimit4": "Click on the __%s__ button to set the number of new messages to keep.",
     "botNotReady": "Bot is not ready yet. Please wait a few seconds and try again. %s",
     "guildsConfigs": "Configs in %s",
-    "prev": "Previous Page"
+    "prev": "Previous Page",
+    "next": "Next Page"
 }
