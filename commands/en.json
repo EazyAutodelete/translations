@@ -217,5 +217,6 @@
     "botNotReady": "Bot is not ready yet. Please wait a few seconds and try again. %s",
     "guildsConfigs": "Configs in %s",
     "prev": "Previous Page",
-    "next": "Next Page"
+    "next": "Next Page",
+    "page": "Page"
 }
