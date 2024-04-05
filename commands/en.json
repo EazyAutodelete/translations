@@ -218,5 +218,6 @@
     "guildsConfigs": "Configs in %s",
     "prev": "Previous Page",
     "next": "Next Page",
-    "page": "Page"
+    "page": "Page",
+    "anyShort": "Any"
 }
