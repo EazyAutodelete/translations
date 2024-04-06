@@ -219,5 +219,6 @@
     "prev": "Previous Page",
     "next": "Next Page",
     "page": "Page",
-    "anyShort": "Any"
+    "anyShort": "Any",
+    "channelNotFound": "Can not find this channel. You can only debug channels within this guild."
 }
