@@ -220,5 +220,6 @@
     "next": "Next Page",
     "page": "Page",
     "anyShort": "Any",
-    "channelNotFound": "Can not find this channel. You can only debug channels within this guild."
+    "channelNotFound": "Can not find this channel. You can only debug channels within this guild.",
+    "memberCached": "You can now start using the Dashboard by clicking the button below."
 }
