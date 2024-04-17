@@ -232,5 +232,12 @@
     "rolesDesc": "You can select roles to either target or ignore.",
     "setupUpdateTarget": "Only delete messages from members with one or more of the following roles:\n%s",
     "filtersShort": "Filters",
-    "type1070": "WebHooks"
+    "type1070": "WebHooks",
+    "attribute2040": "Images",
+    "type1080": "System messages",
+    "type1071": "Not WebHooks",
+    "type1081": "Not system messages",
+    "attribute2041": "No images",
+    "attribute2050": "Existing Source Message",
+    "attribute2051": "No existing Source Message"
 }
