@@ -222,5 +222,6 @@
     "anyShort": "Any",
     "channelNotFound": "Can not find this channel. You can only debug channels within this guild.",
     "memberCached": "You can now start using the Dashboard by clicking the button below.",
-    "failedToCacheMember": "This didn't work. Please try again later or contact support."
+    "failedToCacheMember": "This didn't work. Please try again later or contact support.",
+    "changeRoles": "Change Target/Ignore Roles"
 }
