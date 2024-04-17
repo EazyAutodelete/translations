@@ -232,6 +232,5 @@
     "rolesDesc": "You can select roles to either target or ignore.",
     "setupUpdateTarget": "Only delete messages from members with one or more of the following roles:\n%s",
     "filtersShort": "Filters",
-    "type1090": "System messages",
     "type1070": "WebHooks"
 }
