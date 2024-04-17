@@ -227,5 +227,8 @@
     "rolesInfo": "You can select roles to either target or ignore.\n\n**Target Roles:**\n- Only delete messages from members with one or more of the roles.\n\n**Ignore Roles:**\n- Ignore messages from members with one or more of the roles.",
     "rolesFooter": "Setting \"Target Roles\" clears \"Ignore Roles\", and vice versa.",
     "selectTarget": "Roles to Target…",
-    "selectIgnore": "Roles to Ignore…"
+    "selectIgnore": "Roles to Ignore…",
+    "rolesHeading": "Target/Ignore Roles",
+    "rolesDesc": "You can select roles to either target or ignore.",
+    "setupUpdateTarget": "Only delete messages from members with one or more of the following roles:\n%s"
 }
