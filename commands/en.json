@@ -230,5 +230,6 @@
     "selectIgnore": "Roles to Ignore…",
     "rolesHeading": "Target/Ignore Roles",
     "rolesDesc": "You can select roles to either target or ignore.",
-    "setupUpdateTarget": "Only delete messages from members with one or more of the following roles:\n%s"
+    "setupUpdateTarget": "Only delete messages from members with one or more of the following roles:\n%s",
+    "filtersShort": "Filters"
 }
