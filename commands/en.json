@@ -245,5 +245,8 @@
     "configNotInThisGuild": "You can only share configs from this server.",
     "configAlreadyShared": "This config is already shared. Here is your share link:\\n%s",
     "configShared": "The config has been shared. This is your share code: `%s`\\nSee your share at: **%s**",
-    "shareNotFound": "This share doesn't exist."
+    "shareNotFound": "This share doesn't exist.",
+    "channelConfigLimitReached": "You reached the maximum amount of %s configs per channel.\\n:sparkles: The [premium plan](%s) allows you to create up to %s configs per channel.",
+    "genericError": "An unknown Error happened. Please contact the Support Server at **https://eazyautodelete.xyz/discord**.",
+    "configCopied": "The config was copied successfully!"
 }
