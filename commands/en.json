@@ -244,5 +244,6 @@
     "configNotFound": "This config doesn't exist.",
     "configNotInThisGuild": "You can only share configs from this server.",
     "configAlreadyShared": "This config is already shared. Here is your share link:\\n%s",
-    "configShared": "The config has been shared. This is your share code: `%s`\\nSee your share at: **%s**"
+    "configShared": "The config has been shared. This is your share code: `%s`\\nSee your share at: **%s**",
+    "shareNotFound": "This share doesn't exist."
 }
