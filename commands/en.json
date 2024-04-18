@@ -239,5 +239,8 @@
     "type1081": "Not system messages",
     "attribute2041": "No images",
     "attribute2050": "Existing Source Message",
-    "attribute2051": "No existing Source Message"
+    "attribute2051": "No existing Source Message",
+    "missingConfigId": "You must provide an ID of a config.",
+    "configNotFound": "This config doesn't exist.",
+    "configNotInThisGuild": "You can only share configs from this server."
 }
