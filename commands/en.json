@@ -242,5 +242,6 @@
     "attribute2051": "No existing Source Message",
     "missingConfigId": "You must provide an ID of a config.",
     "configNotFound": "This config doesn't exist.",
-    "configNotInThisGuild": "You can only share configs from this server."
+    "configNotInThisGuild": "You can only share configs from this server.",
+    "configAlreadyShared": "This config is already shared. Here is your share link:\\n%s"
 }
