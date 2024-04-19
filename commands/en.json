@@ -248,5 +248,6 @@
     "shareNotFound": "This share doesn't exist.",
     "channelConfigLimitReached": "You reached the maximum amount of %s configs per channel.\n:sparkles: The [premium plan](%s) allows you to create up to %s configs per channel.",
     "genericError": "An unknown Error happened. Please contact the Support Server at **https://eazyautodelete.xyz/discord**.",
-    "configCopied": "The config was copied successfully!"
+    "configCopied": "The config was copied successfully!",
+    "copyConfirm": "Are you sure you want to copy that config to this channel? This can lead to many messages being deleted.\nNote: Target/Ignore roles are not copied if the config to copy is from a different server."
 }
