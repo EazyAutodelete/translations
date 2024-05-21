@@ -257,5 +257,10 @@
     "autodeleteIntro": "Welcome to **EazyAutodelete**! 🎉\n\nI'm a fully customizable Discord Bot that automatically deletes messages based on your decisions.\n\nHere is how I work and how you can easily set me up to autodelete messages in your server.\n\nIf you have not added me to your server yet, please read [__how to add me to Your Server__](https://docs.eazyautodelete.xyz/add-to-server) first!\n\nIf you have any questions or problems, visit our [support server](https://eazyautodelete.xyz/support).",
     "changeLimit0": "Select a mode to continue.",
     "onlineLogsInfo": ":rocket: You can access the logs in the online dashboard [here](%s).",
-    "onlineLogs": "Online Logs"
+    "onlineLogs": "Online Logs",
+    "channelLogs": "Logs of channel <#%s>",
+    "noLogs": "There are no logs to display.",
+    "guildsLogs": "Logs for this server",
+    "guildsChannelLogs": "Logs of channels in this server",
+    "notificationsLogs": "Notifications"
 }
