@@ -264,8 +264,9 @@
     "guildsChannelLogs": "Logs of channels in this server",
     "notificationsLogs": "Notifications",
     "modRoles": "Moderator Roles",
-    "serverRolesDescription": "You can select specific roles that will give members access to specific commands.\nMembers with an Administrator Role can create, edit and delete configurations, shares and more.\nMembers with a Moderator Role have access to the logs.",
+    "serverRolesDescription": "You can select specific roles that will give members access to specific commands.\n`>` Members with an Administrator Role can create, edit and delete configurations, shares and more.\n`>` Members with a Moderator Role have access to the logs.",
     "adminRoles": "Administrator Roles",
     "serverRoles": "Server Roles Permissions",
-    "serverRolesWarning": "Be very careful with these settings. Especially with an Administrator Role, wrong users can do a lot of damage to your server."
+    "serverRolesWarning": "Be very careful with these settings. Especially with an Administrator Role, wrong users can do a lot of damage to your server.",
+    "serverRolesUpdated": "The Server Roles Permissions have been updated."
 }
