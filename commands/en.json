@@ -268,5 +268,7 @@
     "adminRoles": "Administrator Roles",
     "serverRoles": "Server Roles Permissions",
     "serverRolesWarning": "Be very careful with these settings. Especially with an Administrator Role, wrong users can do a lot of damage to your server.",
-    "serverRolesUpdated": "The Server Roles Permissions have been updated."
+    "serverRolesUpdated": "The Server Roles Permissions have been updated.",
+    "adminRolesPlaceholder": "Select Administrator Roles...",
+    "modRolesPlaceholder": "Select Moderator Roles..."
 }
