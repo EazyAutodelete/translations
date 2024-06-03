@@ -270,5 +270,6 @@
     "serverRolesWarning": "Be very careful with these settings. Especially with an Administrator Role, wrong users can do a lot of damage to your server.",
     "serverRolesUpdated": "The Server Roles Permissions have been updated.",
     "adminRolesPlaceholder": "Select Administrator Roles...",
-    "modRolesPlaceholder": "Select Moderator Roles..."
+    "modRolesPlaceholder": "Select Moderator Roles...",
+    "invalidNickname": "This nickname isn't valid. Nicknames can be between 3 and 24 characters long. They can only contain characters and digits as well as `(`, `)`, ` ` , `,`, `.`, `-`, `_` and ` `."
 }
