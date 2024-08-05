@@ -12,6 +12,5 @@
     "example": "Contoh",
     "overview": "Gunakan `/help <command>` untuk mendapatkan informasi selengkapnya.",
     "missingBotPerms": "Aku tidak punya perizinan berikut ini untuk bisa menjalankan perintah tersebut:\n`%s`",
-    "mode2": "Hapus pesan-pesan pada interval yang dispesifikasikan (mis. setiap 30 detik).",
-    "filter": "Pilihlah dari beberapa filter yang mana pesan-pesan harus memenuhi pemfilteran tersebut agar bisa dihapus.\nPesan-Pesan yang tidak memenuhi pemfilteran tidak akan dihapus."
+    "mode2": "Hapus pesan-pesan pada interval yang dispesifikasikan (mis. setiap 30 detik)."
 }
