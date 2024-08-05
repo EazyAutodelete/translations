@@ -37,7 +37,6 @@
     "userIsNew": "Es sieht so aus, als wenn du EazyAutodelete zum ersten mal benutzen würdest.\nFange am besten damit an, deine Sprache einzustellen. Benutze dafür **/language**.\n\nDanach kannst du mit **/setup** fortfahren, um EazyAutodelete für einen Kanal einzurichten.\n\nInformationen zu einem Befehl, findest du mit **/help**.\nBei Fragen und Problemen kannst du jederzeit über **/support** Hilfe bekommen.",
     "userWelcome": "👋 Willkommen bei EazyAutodelete!",
     "limitMode2": "Das Limit, mit dem der Löschungsalgorithmus arbeiten soll. Angegeben als **Dauer**, da Modus 2 aktiviert ist.\nBeispiel: `2m 30s`",
-    "setupUpdateMode0": "**Einstellungen wurden erfolgreich gespeichert.**\nModus **0**: Es werden keine Nachrichten gelöscht.",
     "setupUpdateMode2": "**Einstellungen wurden erfolgreich gespeichert.**\nModus **1**: __Lösche Nachrichten in einem festgelegten Intervall (bspw. alle 30 sek)__.\n\nKlicke auf die Schaltfläche __Limit ändern__, um das Intervall festzulegen, in dem der Bot Nachrichten im Kanal löscht.",
     "limitMode3": "Das Limit, mit dem der Löschungsalgorithmus arbeiten soll. Angegeben als **Zahl**, da Modus 3 aktiviert ist.\nBeispiel: `15`",
     "setupUpdateMode3": "**Einstellungen wurden erfolgreich gespeichert.**\nModus **3**: __ Lösche alle Nachrichten nach einer bestimmten Anzahl an Nachrichten (bspw. alle 10 Nachrichten)__.\n\nKlicke auf die Schaltfläche __Limit ändern__, um die Anzahl der Nachrichten festzulegen, nach der alle Nachrichten gelöscht werden.",
