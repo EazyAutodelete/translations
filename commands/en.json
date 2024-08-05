@@ -36,7 +36,6 @@
     "commandDisabled": "The **/%s** command is currently disabled!\nReason: `%s`",
     "userIsNew": "It looks like you are using EazyAutodelete for the first time.\nThe best way to start is to set your language. Use **/language** for this.\n\nAfter that you can continue with **/setup** to set up EazyAutodelete for a channel.\n\nFor information about a command, use **/help**.\nIf you have any questions or problems, you can always get help with **/support**.",
     "userWelcome": "👋 Welcome to EazyAutodelete!",
-    "setupUpdateMode0": "**Settings have been saved successfully.**\nMode **0**: No messages will be deleted.",
     "setupUpdateMode2": "**Settings have been saved successfully.**\nMode **2**: __Delete all messages at a specified interval (e.g. every 30 secs)__.\n\nClick on the __Change Limit__ button to set the interval at which the bot deletes messages in the channel.",
     "setupUpdateMode3": "**Settings have been saved successfully.**\nMode **3**: __Delete all messages after a certain amount (e.g. every 10 messages)__.\n\nClick the __Change Limit__ button to set the amout of messages after which all messages get deleted.",
     "setupUpdateMode4": "**Settings have been saved successfully.**\nMode **4**: __Keep a certain number of the newest messages and delete the messages before (e.g. keep 10 newest messages)__.\n\nClick on the __Change Limit__ button to set the number of new messages to keep.",
