@@ -164,7 +164,6 @@
     "logChannelUnset": "로그 채널이 설정 해제되었습니다.",
     "logChannelNotSet": "로그 채널이 설정되지 않았습니다.",
     "support": "[**지원 서버**](%s)에 도움을 줄 수 있는 사용자와 팀 구성원이 많이 있습니다.\n[**문서**](%s)를 보고 직접 해결방법을 찾을 수 있습니다.",
-    "botinfo": "**EazyAutodelete**는 메시지를 자동으로 삭제하는 간단한 Discord Bot입니다.\n많은 설정을 통해 필요에 따라 봇을 커스터마이징 할 수 있습니다.",
     "commandNotFound": "**/%s** 명령어를 찾을 수 없습니다.",
     "commandDisabled": "**/%s** 명령어는 현재 사용할 수 없습니다!\n이유: `%s`",
     "userIsNew": "EazyAutodelete를 처음 사용하시는 것 같습니다.\n가장 먼저 **/language** 명령어를 사용해 언어를 변경하는 것을 추천합니다.\n\n그런 다음 채널에서 **/setup** 를 사용해 EazyAutodelete를 설정할 수 있습니다.\n\n명령어에 대한 정보를 보려면 **/help** 를 사용하세요.\n질문이나 문제가 있는 경우 언제든지 **/suppoert**로 도움을 받을 수 있습니다.",
