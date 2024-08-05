@@ -12,7 +12,6 @@
     "mode2": "<time> sonra tüm mesajları sil.",
     "mode3": "<limit> mesajdan sonra tüm mesajları silinecektir.",
     "mode4": "En güncel <limit> mesajları muhafaza edin. Bundan öncesindeki mesajlar silinecektir.",
-    "filter": "Sadece filtrelerle eşleşen mesajları sil.",
     "filterBehaviorAll": "Yalnızca **TÜM filtrelerle** uyuşan mesajları sil.",
     "filterBehaviorOne": "Yalnızca **EN AZ BİR filtreyle** uyumlu mesajları sil.",
     "languageEditFooter": "Bazı diller henüz tamamen çevrilmemiş olabilir.",
