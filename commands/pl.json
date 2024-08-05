@@ -14,7 +14,6 @@
     "mode3": "Po <limit> wiadomości usuń wszystkie wiadomości.",
     "mode4": "Zachowaj najnowsze <limit> wiadomości. Wiadomości przed będą usunięte.",
     "deleteMessagesBefore": "Usuwa tylko te wiadomości, które zostały wysłane przed określoną wiadomością.\nWprowadź `0`, aby wyłączyć.",
-    "filter": "Wybierz jeden z wielu filtrów, które muszą spełniać wiadomości, aby mogły zostać usunięte.\nWiadomości, które nie spełniają wymogów filtrów, nie zostaną usunięte.",
     "filterBehaviorAll": "Usuń tylko wiadomości, które odpowiadają do **WSZYSTKICH filtrów**.",
     "filterBehaviorOne": "Usuń tylko wiadomości pasujące do **przynajmniej JEDEN filtr**.",
     "filterBehavior": "Wybierz\n> 1) usuwać tylko wiadomości pasujące do ** Przynajmniej jednego filtra** *lub*\n> 2) usuwać tylko wiadomości pasujące do **Wszystkich filtrów**.",
