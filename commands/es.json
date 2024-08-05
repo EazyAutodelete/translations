@@ -28,7 +28,6 @@
     "onCooldown": "Eres un poco demasiado rápido.\nVuelva a intentarlo en `%s`.",
     "languageEditFooter": "Es posible que algunos idiomas aún no estén completamente traducidos.",
     "status": "Si puede leer esto, es probable que el bot esté en línea.\nPuede obtener más información sobre el estado en la [**Página de estado**](%s) y en nuestro [**Discord Server**](%s).",
-    "botinfo": "EazyAutodelete es un bot simple que puede usar para mantener limpios los canales en su servidor.\nLas muchas configuraciones le permiten personalizar el bot según sus necesidades.",
     "userNotInDatabase": "Este usuario no está en la base de datos.",
     "guildNotInDatabase": "Este gremio no está en la base de datos.",
     "invalidLanguage": "**Debe especificar un idioma válido.**\nIdiomas Disponibles:\n%s",
