@@ -26,7 +26,6 @@
     "supportTitle": "🔎 ¿Estás atascado?",
     "support": "En nuestro [**Servidor de soporte**](%s) hay muchos usuarios útiles y miembros del equipo que pueden ayudarlo.\nTambién puede buscar una solución usted mismo en la [**Documentación**](%s).",
     "onCooldown": "Eres un poco demasiado rápido.\nVuelva a intentarlo en `%s`.",
-    "languageEditFooter": "Es posible que algunos idiomas aún no estén completamente traducidos.",
     "status": "Si puede leer esto, es probable que el bot esté en línea.\nPuede obtener más información sobre el estado en la [**Página de estado**](%s) y en nuestro [**Discord Server**](%s).",
     "userNotInDatabase": "Este usuario no está en la base de datos.",
     "guildNotInDatabase": "Este gremio no está en la base de datos.",
