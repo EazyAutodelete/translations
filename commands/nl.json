@@ -16,7 +16,6 @@
     "languageEditFooter": "Sommige talen zijn misschien nog niet volledig vertaald.",
     "notUserOfButton": "Alleen de gebruiker die het commando heeft gebruikt kan deze knop gebruiken. (<@!%s>)",
     "commandNotFound": "Het commando **/%s** is niet gevonden.",
-    "filterBehaviorOne": "Verwijder alleen berichten die overeenkomen met **MINSTENS EEN filter**.",
     "config": "Configuratie",
     "mode": "Verandert de manier waarop het detectie algoritme werkt. \nMomenteel ingesteld op: **%s**",
     "deleteMessagesBefore": "Delete only messages that were sent before a specific message.\nEnter `0` to disable.",
