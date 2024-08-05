@@ -38,7 +38,6 @@
     "userWelcome": "👋 Welcome to EazyAutodelete!",
     "setupUpdateMode2": "**Settings have been saved successfully.**\nMode **2**: __Delete all messages at a specified interval (e.g. every 30 secs)__.\n\nClick on the __Change Limit__ button to set the interval at which the bot deletes messages in the channel.",
     "setupUpdateMode3": "**Settings have been saved successfully.**\nMode **3**: __Delete all messages after a certain amount (e.g. every 10 messages)__.\n\nClick the __Change Limit__ button to set the amout of messages after which all messages get deleted.",
-    "setupUpdateMode4": "**Settings have been saved successfully.**\nMode **4**: __Keep a certain number of the newest messages and delete the messages before (e.g. keep 10 newest messages)__.\n\nClick on the __Change Limit__ button to set the number of new messages to keep.",
     "setupUpdateFilters": "**Settings have been saved successfully.**\nThe following filters are now __enabled__:\n%s",
     "none": "None",
     "limitMode1": "The limit with which the deletion algorithm should work. Specified as a **duration**, since mode 1 is activated.\nExample: `1m 30s`",
