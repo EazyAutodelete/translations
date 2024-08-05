@@ -13,7 +13,6 @@
     "mode2": "Eliminar todos los mensajes después de <hora>.",
     "mode3": "Después de <limitar> mensajes, elimine todos los mensajes.",
     "mode4": "Mantenga los mensajes <limit> más recientes. Los mensajes anteriores serán eliminados.",
-    "deleteMessagesBefore": "Eliminar mensajes enviados antes de <messageID>.",
     "deleteMessagesAfter": "Eliminar mensajes enviados después de <messageID>.",
     "limit": "El límite con el que debería funcionar el algoritmo de eliminación.\nEspecificado como duración o número, según el modo establecido.",
     "config": "Configuración",
