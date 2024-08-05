@@ -37,7 +37,6 @@
     "userWelcome": "👋 Welkom bij EazyAutodelete!",
     "setupUpdateFilters": "**Instellingen zijn succesvol opgeslagen.**\nDe volgende filters zijn __geactiveerd__:\n%s",
     "none": "Geen",
-    "setupUpdateMode3": "**Instellingen zijn succesvol opgeslagen.**\nModus **3**: __Verwijdert alle berichten na een bepaald aantal (vb: elke 10 berichten)__.\n\nGebruik de __\"Change Limit\"__ knop om het aantal benodigde berichten te wijzigen.",
     "userIsNew": "Zo te zien gebruikt u EazyAutodelete voor het eerst.\nHandig is uw taal naar keuze in te stellen. Doe dit met het **/language** commando.\n\nBegin daarna met het opzetten van EazyAutodelete in een kanaal met **/setup**.\n\nGebruik **/help** voor informatie over een commando.\nVoor vragen of problemen kunt u altijd **/support** gebruiken.",
     "limitMode1": "Het limiet waar het verwijder algoritme mee moet werken, gespecificeerd als een **tijdsduur**, omdat modus 1 is geactiveerd.\nVoorbeeld: `1m 30s`",
     "limitMode2": "Het limiet waar het verwijder algoritme mee moet werken, gespecificeerd als een **tijdsduur**, omdat modus 2 is geactiveerd.\nVoorbeeld: `2m 30s`",
