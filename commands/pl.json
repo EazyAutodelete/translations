@@ -27,7 +27,6 @@
     "deleteMessagesLimit1": "Po %s wiadomości wysłane wiadomości są usunięte.",
     "notUserOfButton": "Tylko użytkownik, który użył polecenia, może użyć tego przycisku. (<@!%s>)",
     "status": "Jeśli możesz to przeczytać, bot prawdopodobnie będzie online.\nYou can get more information about the status on the [**Stronie Statusu**](%s) i na naszym [**Serwerze Discord**](%s).",
-    "botinfo": "EazyAutodelete to prosty bot, którego możesz użyć do utrzymania czystości kanałów na swoim serwerze.\nWiele ustawień pozwala dostosować bota do swoich potrzeb.",
     "channelNotInDatabase": "Tego kanału nie ma w bazie danych.",
     "userNotInDatabase": "Ten użytkownik nie jest w bazie danych.",
     "guildNotInDatabase": "Ta gildia nie znajduje się w bazie danych.",
