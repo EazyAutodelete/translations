@@ -21,7 +21,6 @@
     "userNotInDatabase": "이 사용자는 데이터베이스에 없습니다.",
     "guildNotInDatabase": "이 길드는 데이터베이스에 없습니다.",
     "invalidLanguage": "**올바른 언어를 입력하세요.**\n사용 가능한 언어:\n%s",
-    "languageEditFooter": "일부 언어는 아직 완전히 번역되지 않았을 수 있습니다.",
     "currently": "현재 설정:",
     "userWelcome": "👋 EazyAutodelete에 오신 것을 환영합니다!",
     "deleteMessagesLimit1": "**%s** 이후에 보낸 메시지를 삭제합니다.",
