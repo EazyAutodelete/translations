@@ -31,7 +31,6 @@
     "userNotInDatabase": "This user is not in the database.",
     "guildNotInDatabase": "This guild is not in the database.",
     "invalidLanguage": "**You must specify a valid language.**\nAvailable languages:\n%s",
-    "notUserOfButton": "Only the user who used the command can use this button. (<@!%s>)",
     "commandNotFound": "The command **/%s** was not found.",
     "languageEditFooter": "Some languages may not be completely translated yet.",
     "currently": "Currently set to:",
