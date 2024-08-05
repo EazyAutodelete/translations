@@ -1,7 +1,6 @@
 {
     "languageEditFooter": "Certaines langues n'ont pas étés complétement traduit pour le moment.",
     "invalidLanguage": "**Vous devez préciser une langue valide.**\nLes langues disponibles :\n%s",
-    "notUserOfButton": "Uniquement l'utilisateur ayant utilisé cette commande peut utiliser ce bouton. (<@!%s>)",
     "invite": "**Vous pouvez m'inviter par ici : %s**",
     "languageEdit": "Votre langue à été modifié en : **%s**.",
     "languageShow": "Votre langue est actuellement défini en : **%s**.\nUtilisez `/language` pour modifier votre langue.",
