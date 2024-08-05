@@ -49,7 +49,6 @@
     "supportedTimeFormats": "Use of time units",
     "incorrect": "Incorrect use",
     "correct": "Correct use",
-    "noDMs": "Commands in direct messages are not supported, you need to add EazyAutodelete to a server!",
     "expiredSelect": "⏰ You can not use select menus older than 5 minutes.",
     "expiredButton": "⏰ You can not use buttons older than 5 minutes.",
     "filter1name": "Contains Emoji(s)",
