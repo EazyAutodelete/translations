@@ -25,7 +25,6 @@
     "supportTitle": "🔎 Ups.. utknąłeś/aś?",
     "deleteMessagesLimit0": "Żadne wiadomości nie zostaną usunięte, ponieważ tryb jest ustawiony na 0.",
     "deleteMessagesLimit1": "Po %s wiadomości wysłane wiadomości są usunięte.",
-    "notUserOfButton": "Tylko użytkownik, który użył polecenia, może użyć tego przycisku. (<@!%s>)",
     "status": "Jeśli możesz to przeczytać, bot prawdopodobnie będzie online.\nYou can get more information about the status on the [**Stronie Statusu**](%s) i na naszym [**Serwerze Discord**](%s).",
     "channelNotInDatabase": "Tego kanału nie ma w bazie danych.",
     "userNotInDatabase": "Ten użytkownik nie jest w bazie danych.",
