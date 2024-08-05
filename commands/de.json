@@ -28,7 +28,6 @@
     "channelNotInDatabase": "Dieser Kanal ist nicht in der Datenbank.",
     "userNotInDatabase": "Dieser Benutzer ist nicht in der Datenbank.",
     "guildNotInDatabase": "Dieser Server ist nicht in der Datenbank.",
-    "filterBehavior": "Wähle entweder\n> 1) nur Nachrichten löschen, die **MINDESTENS EINEM Filter** entsprechen *oder*\n> 2) nur Nachrichten löschen, die **allen Filtern** entsprechen.",
     "mode": "Ändert die Art, wie der Löschalgorithmus arbeitet.\nDerzeit eingestellt auf: **%s**",
     "limit": "Das Limt, mit dem der Löschalgorithmus arbeiten soll.\nAngabe als Dauer oder Zahl, je nach eingestelltem Modus.",
     "invalidMessageId": "**Die Nachricht mit dieser ID konnte nicht geladen werden.**\nIst die Nachricht in einem anderen Kanal? Wurde die Nachricht gelöscht? Ist die ID gültig?",
