@@ -13,7 +13,6 @@
     "mode2": "Verwijdert berichten na een bepaald interval (bijv: elke 30 seconden).",
     "mode3": "Verwijder berichten na een bepaald aantal berichten (vb: elke 10 berichten).",
     "mode4": "Keep certain number of newest messages and delete messages before (e.g. keep 10 newest messages).",
-    "filterBehaviorAll": "Verwijder alleen berichten die overeenkomen met **ALLE filters**.",
     "languageEditFooter": "Sommige talen zijn misschien nog niet volledig vertaald.",
     "notUserOfButton": "Alleen de gebruiker die het commando heeft gebruikt kan deze knop gebruiken. (<@!%s>)",
     "commandNotFound": "Het commando **/%s** is niet gevonden.",
