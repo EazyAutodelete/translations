@@ -15,7 +15,6 @@
     "mode0": "Desactivé",
     "mode3": "Après <limit> messages, supprimez tous les messages.",
     "mode4": "Gardez les <limit> derniers messages. Les messages précédents vont être supprimés.",
-    "deleteMessagesBefore": "Supprimez les messages envoyés avant <messageID>.",
     "deleteMessagesAfter": "Supprimez les messages envoyés après <messageID>.",
     "limit": "La limite avec laquelle l'algorithme de suppression doit fonctionner.\nSpécifié comme une durée ou un nombre, il dépend du mode défini.",
     "config": "Configuration",
