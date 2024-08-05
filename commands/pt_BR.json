@@ -12,7 +12,6 @@
     "mode0": "Desativado",
     "mode1": "Eliminar uma mensagem enviada após o tempo definido (por exemplo, após 30 seg.).",
     "mode3": "Apagar todas as mensagens após uma certa quantidade de mensagens (por exemplo, a cada 10 mensagens).",
-    "filterBehavior": "Escolha um dos dois\n> 1) eliminar apenas mensagens que correspondam ** PELO MENOS UM filtro** *ou*\n> 2) eliminar apenas mensagens que coincidam **TODOS OS filtros***.",
     "mode": "Muda a maneira como o algoritmo de eliminação funciona.\nAtualmente ajustado para: **%s**",
     "deleteMessagesBefore": "Excluir somente mensagens que foram enviadas antes de uma mensagem específica.\nDigite `0` para desativar."
 }
