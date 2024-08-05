@@ -36,7 +36,6 @@
     "commandDisabled": "Het **/%s** commando is momenteel uitgeschakeld!\nReden: `%s`",
     "setupUpdateMode2": "**Instellingen zijn succesvol opgeslagen.**\nModus **2**: __Verwijdert berichten na een bepaald interval (vb: elke 30 seconden)__.\n\nGebruik de __\"Change Limit\"__ knop om het interval te wijzigen.",
     "userWelcome": "👋 Welkom bij EazyAutodelete!",
-    "setupUpdateMode0": "**Instellingen zijn succesvol opgeslagen.**\nModus **0**: Er worden geen berichten verwijderd.",
     "setupUpdateFilters": "**Instellingen zijn succesvol opgeslagen.**\nDe volgende filters zijn __geactiveerd__:\n%s",
     "none": "Geen",
     "setupUpdateMode3": "**Instellingen zijn succesvol opgeslagen.**\nModus **3**: __Verwijdert alle berichten na een bepaald aantal (vb: elke 10 berichten)__.\n\nGebruik de __\"Change Limit\"__ knop om het aantal benodigde berichten te wijzigen.",
