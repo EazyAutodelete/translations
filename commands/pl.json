@@ -33,6 +33,5 @@
     "onCooldown": "Jesteś trochę za szybki.\nSpróbuj ponownie za `%s`.",
     "commandNotFound": "Nie znaleziono polecenia **/%s**.",
     "currently": "Obecnie ustawione na:",
-    "setupUpdateMode3": "**Ustawienia zostały pomyślnie zapisane.**\nTryb **3**: __Usuwa wszystkie wiadomości przy określonej ilości wysłanych (np. co 10 wiadomości)__.\n\nKliknij przycisk __Change Limit__, aby ustawić ilość wiadomości, po której wszystkie wiadomości zostaną usunięte.",
     "limitMode3": "Limit, z którym powinien działać algorytm usuwania. Określony jako **liczba**, ponieważ aktywny jest tryb 3.\nPrzykład: `15`"
 }
