@@ -40,7 +40,6 @@
     "userIsNew": "Zo te zien gebruikt u EazyAutodelete voor het eerst.\nHandig is uw taal naar keuze in te stellen. Doe dit met het **/language** commando.\n\nBegin daarna met het opzetten van EazyAutodelete in een kanaal met **/setup**.\n\nGebruik **/help** voor informatie over een commando.\nVoor vragen of problemen kunt u altijd **/support** gebruiken.",
     "limitMode1": "Het limiet waar het verwijder algoritme mee moet werken, gespecificeerd als een **tijdsduur**, omdat modus 1 is geactiveerd.\nVoorbeeld: `1m 30s`",
     "limitMode2": "Het limiet waar het verwijder algoritme mee moet werken, gespecificeerd als een **tijdsduur**, omdat modus 2 is geactiveerd.\nVoorbeeld: `2m 30s`",
-    "noDMs": "Commando's in privéberichten worden niet ondersteund, u moet EazyAutodelete toevoegen aan een server!",
     "limitMode0": "De limiet waarmee het verwijderingsalgoritme zou moeten werken. Deze optie is uitgeschakeld, aangezien modus 0 is geactiveerd. Er worden geen berichten verwijderd.",
     "updateDeleteMessagesBefore": "**Instellingen zijn succesvol opgeslagen.**\nVanaf nu worden alleen berichten verwijderd die gestuurd zijn voor het [gespecificeerde](%s) bericht.",
     "updateDeleteMessagesAfter": "**Instellingen zijn succesvol opgeslagen.**\nVanaf nu worden alleen berichten verwijderd die gestuurd zijn na het [gespecificeerde](%s) bericht.",
