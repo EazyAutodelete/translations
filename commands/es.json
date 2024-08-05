@@ -1,5 +1,4 @@
 {
-    "filterBehavior": "Si se eliminan los mensajes que coinciden con *al menos un filtro* o si se eliminan solo los mensajes que coinciden con *todos los filtros*.",
     "invite": "**Puedes invitarme aquí: %s**",
     "languageEdit": "Su idioma ha sido cambiado a: **%s**.",
     "languageShow": "Su idioma actualmente está establecido en: **%s**.\nUse `/language` para cambiar su idioma.",
