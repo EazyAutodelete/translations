@@ -12,7 +12,6 @@
     "mode2": "Löscht alle Nachrichten in einem festgelegten Intervall (bspw. alle 30 sek).",
     "missingBotPerms": "Mir fehlen folgende Berechtigungen, um diesen Befehl ausführen zu können:\n`%s`",
     "mode3": "Lösche alle Nachrichten nach einer bestimmten Anzahl an Nachrichten (bspw. alle 10 Nachrichten).",
-    "filterBehaviorOne": "Nur Nachrichten löschen, die MINDESTENS EINEM Filter entsprechen.",
     "missingPerms": "Du hast nicht die benötigten Berechtigungen, um diesen Befehl nutzen zu können.",
     "deleteMessagesAfter": "Nur Nachrichten löschen, die nach einer bestimmten Nachricht gesendet wurden.\nZum deaktivieren \"0\" eingeben.",
     "config": "Konfiguration",
