@@ -275,5 +275,5 @@
     "nicknameRemoved": "The nickname of config `%s` has been removed.",
     "nicknameAdded": "The nickname **%s** has been added to config `%s`.",
     "configDoesNotHaveNickname": "Config `%s` does not have a nickname.",
-    "upgradeForMoreConfigs": "You have reached the limit of `%s` configs in this channel.\nUpgrade to **EazyAutodelete Premium** to create up to **%s configs** in this channel."
+    "upgradeForMoreConfigs": "You have reached the limit of %s configs in this channel.\nUpgrade to **EazyAutodelete Premium** to create up to **%s configs** in this channel."
 }
