@@ -266,5 +266,6 @@
     "rolesLimit": "You have reached the limit of %s Roles.\nUpgrade to **EazyAutodelete Premium ✨** to select up to **%s Roles**.",
     "configNotInDatabase": "This config doesn't exist in the database.",
     "upgradeForBetterDurations": "Upgrade to **EazyAutodelete Premium ✨** to unlock durations between **%s** and **%s**.",
-    "upgradeForBetterAmounts": "Upgrade to **EazyAutodelete Premium ✨** to unlock amounts between **%s** and **%s**."
+    "upgradeForBetterAmounts": "Upgrade to **EazyAutodelete Premium ✨** to unlock amounts between **%s** and **%s**.",
+    "freeConfigLimitExceeded": "You exceed the number of configs available in the free plan. You must first delete %s config(s) to be able to edit any config.\nAlternatively, you can subscribe to **EazyAutodelete Premium ✨** to get access to %s configs per channel."
 }
