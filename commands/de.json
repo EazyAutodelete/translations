@@ -21,7 +21,6 @@
     "deleteMessagesLimit3": "Alle Nachrichten nach **%s** Nachrichten löschen.",
     "deleteMessagesLimit4": "Die **%s** neusten Nachrichten behalten und die Nachrichten davor löschen.",
     "status": "Wenn du das lesen kannst, dann ist der Bot wohl wahrscheinlich online.\nWeitere Informationen über den Status erhältst du auf der [**Statusseite**](%s) und auf unserem [**Discord Server**](%s).",
-    "botinfo": "**EazyAutodelete** ist ein einfacher Discord Bot, um automatisch Nachrichten zu löschen.\nDie vielen Einstellungen erlauben es dir, den Bot komplett an deine Bedürfnisse anzupassen.",
     "onCooldown": "Du bist ein bisschen zu schnell.\nVersuche es noch einmal in `%s`.",
     "channelNotInDatabase": "Dieser Kanal ist nicht in der Datenbank.",
     "userNotInDatabase": "Dieser Benutzer ist nicht in der Datenbank.",
