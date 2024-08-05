@@ -278,5 +278,6 @@
     "upgradeForMoreConfigs": "You have reached the limit of %s configs in this channel.\nUpgrade to **EazyAutodelete Premium ✨** to create up to **%s configs** in this channel.",
     "adminRolesLimit": "You can only select up to %s Administrator Roles in your server.\nUpgrade to **EazyAutodelete Premium ✨** to select up to **%s Administrator Roles**.",
     "modRolesLimit": "You can only select up to %s Moderator Roles in your server.\nUpgrade to **EazyAutodelete Premium ✨** to select up to **%s Moderator Roles**.",
-    "rolesLimit": "You have reached the limit of %s Roles.\nUpgrade to **EazyAutodelete Premium ✨** to select up to **%s Roles**."
+    "rolesLimit": "You have reached the limit of %s Roles.\nUpgrade to **EazyAutodelete Premium ✨** to select up to **%s Roles**.",
+    "configNotInDatabase": "This config doesn't exist in the database."
 }
