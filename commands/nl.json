@@ -34,7 +34,6 @@
     "invalidLanguage": "**U moet een geldige taal opgeven.**\nBeschikbare talen:\n%s",
     "currently": "Momenteel ingesteld op:",
     "commandDisabled": "Het **/%s** commando is momenteel uitgeschakeld!\nReden: `%s`",
-    "setupUpdateMode2": "**Instellingen zijn succesvol opgeslagen.**\nModus **2**: __Verwijdert berichten na een bepaald interval (vb: elke 30 seconden)__.\n\nGebruik de __\"Change Limit\"__ knop om het interval te wijzigen.",
     "userWelcome": "👋 Welkom bij EazyAutodelete!",
     "setupUpdateFilters": "**Instellingen zijn succesvol opgeslagen.**\nDe volgende filters zijn __geactiveerd__:\n%s",
     "none": "Geen",
