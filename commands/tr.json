@@ -18,7 +18,6 @@
     "botinfo": "EazyAutodelete, sunucunuzdaki kanalları temiz tutmak için kullanabileceğiniz basit bir bottur.\nBirçok ayar, botu ihtiyaçlarınıza göre özelleştirmenize olanak tanır.",
     "userNotInDatabase": "Bu kullanici veri tabanıda bulunmamaktadir.",
     "guildNotInDatabase": "Bu sunucu veri tabanıda bulunmamaktadir.",
-    "filterBehavior": "*En az bir filtreyle* eşleşen mesajlar mi silinsin yoksa *tüm filtrelerle* eşleşen mesajlar mi silinsin.",
     "mode": "Silme algoritmasının işleme şeklini değiştiriyor.",
     "deleteMessagesBefore": "<mesajID>'den önce gönderilen mesajları sil.",
     "deleteMessagesAfter": "<mesajID>'dan sonra gönderilen mesajları sil.",
