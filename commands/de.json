@@ -40,7 +40,6 @@
     "setupUpdateMode2": "**Einstellungen wurden erfolgreich gespeichert.**\nModus **1**: __Lösche Nachrichten in einem festgelegten Intervall (bspw. alle 30 sek)__.\n\nKlicke auf die Schaltfläche __Limit ändern__, um das Intervall festzulegen, in dem der Bot Nachrichten im Kanal löscht.",
     "limitMode3": "Das Limit, mit dem der Löschungsalgorithmus arbeiten soll. Angegeben als **Zahl**, da Modus 3 aktiviert ist.\nBeispiel: `15`",
     "setupUpdateMode3": "**Einstellungen wurden erfolgreich gespeichert.**\nModus **3**: __ Lösche alle Nachrichten nach einer bestimmten Anzahl an Nachrichten (bspw. alle 10 Nachrichten)__.\n\nKlicke auf die Schaltfläche __Limit ändern__, um die Anzahl der Nachrichten festzulegen, nach der alle Nachrichten gelöscht werden.",
-    "setupUpdateMode4": "**Einstellungen wurden erfolgreich gespeichert.**\nModus **4**: __Behalte eine Anzahl an Nachrichten und lösche die Nachrichten davor (bspw. neusten 10 Nachrichten)__.\n\nKlicke die auf die Schaltfläche __Limit ändern__, um die Anzahl der neuen Nachrichten festzulegen, die behalten werden sollen.",
     "limitMode1": "Das Limit, mit dem der Löschalgorithmus arbeiten soll. Angegeben als **Dauer**, da Modus 1 aktiviert ist.\nBeispiel: `1m 30s`",
     "resetSetting": "**Einstellungen wurden erfolgreich gespeichert.**\nDie Einstellung wurde deaktiviert und wirkt sich nicht mehr auf das Löschen von Nachrichten aus.",
     "limitMode4": "Das Limit, mit dem der Löschungsalgorithmus arbeiten soll. Angegeben als **Zahl**, da Modus 4 aktiviert ist.\nBeispiel: `10`",
