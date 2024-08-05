@@ -31,7 +31,6 @@
     "userNotInDatabase": "Este usuario no está en la base de datos.",
     "guildNotInDatabase": "Este gremio no está en la base de datos.",
     "invalidLanguage": "**Debe especificar un idioma válido.**\nIdiomas Disponibles:\n%s",
-    "notUserOfButton": "Solo el usuario que usó el comando puede usar este botón. (<@!%s>)",
     "channelNotInDatabase": "Este canal no está en la base de datos.",
     "commandNotFound": "No se encontró el comando **/%s**."
 }
