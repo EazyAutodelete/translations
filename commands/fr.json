@@ -15,7 +15,6 @@
     "mode0": "Desactivé",
     "mode3": "Après <limit> messages, supprimez tous les messages.",
     "mode4": "Gardez les <limit> derniers messages. Les messages précédents vont être supprimés.",
-    "filterBehaviorOne": "Supprimez uniquement les messages qui correspondent **À AU MOINS UN filtre**.",
     "mode": "Changez la façon dont l'algorithme fonctionne.",
     "deleteMessagesBefore": "Supprimez les messages envoyés avant <messageID>.",
     "deleteMessagesAfter": "Supprimez les messages envoyés après <messageID>.",
