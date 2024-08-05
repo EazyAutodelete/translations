@@ -266,5 +266,6 @@
     "modRolesLimit": "You can only select up to %s Moderator Roles in your server.\nUpgrade to **EazyAutodelete Premium ✨** to select up to **%s Moderator Roles**.",
     "rolesLimit": "You have reached the limit of %s Roles.\nUpgrade to **EazyAutodelete Premium ✨** to select up to **%s Roles**.",
     "configNotInDatabase": "This config doesn't exist in the database.",
-    "upgradeForBetterDurations": "Upgrade to **EazyAutodelete Premium ✨** to unlock durations between **%s** and **%s**."
+    "upgradeForBetterDurations": "Upgrade to **EazyAutodelete Premium ✨** to unlock durations between **%s** and **%s**.",
+    "upgradeForBetterAmounts": "Upgrade to **EazyAutodelete Premium ✨** to unlock amounts between **%s** and **%s**."
 }
