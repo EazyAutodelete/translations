@@ -50,7 +50,6 @@
     "setupUpdateFilters": "**Einstellungen wurden erfolgreich gespeichert.**\nDie folgenden Filter sind jetzt __aktiviert__:\n%s",
     "none": "Keine",
     "supportedTimeFormats": "Verwendung von Zeiteinheiten",
-    "setupUpdateMode1": "**Einstellungen wurden erfolgreich gespeichert.**\nModus **1**: __Eine gesendete Nachricht nach der festgelegten Zeit löschen (bspw. nach 30 sek)__.\n\nKlicke auf die Schaltfläche __Limit ändern__, um eine Dauer festzulegen, nach der eine Nachricht gelöscht wird.",
     "incorrect": "Falsche Verwendung",
     "correct": "Richtige Verwendung",
     "invalidDuration": "**Die eingegebene Dauer ist ungültig.**\nBitte stelle sicher, dass die Zeit im richtigen Format eingegeben wird. Die Dauer muss mehr als 10 Sekunden und weniger als 7 Tage betragen.",
