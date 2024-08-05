@@ -10,7 +10,6 @@
     "mode4": "Behalte eine Anzahl an Nachrichten und lösche die Nachrichten davor (bspw. neusten 10 Nachrichten).",
     "mode1": "Eine gesendete Nachricht nach der festgelegten Zeit löschen (bspw. nach 30 sek).",
     "mode2": "Löscht alle Nachrichten in einem festgelegten Intervall (bspw. alle 30 sek).",
-    "filter": "Wähle aus mehreren Filtern aus, welche Filter die Nachrichten erfüllen müssen, um gelöscht zu werden.\nNachrichten, die die Filter nicht erfüllen, werden nicht gelöscht.",
     "missingBotPerms": "Mir fehlen folgende Berechtigungen, um diesen Befehl ausführen zu können:\n`%s`",
     "mode3": "Lösche alle Nachrichten nach einer bestimmten Anzahl an Nachrichten (bspw. alle 10 Nachrichten).",
     "filterBehaviorOne": "Nur Nachrichten löschen, die MINDESTENS EINEM Filter entsprechen.",
