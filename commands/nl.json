@@ -30,7 +30,6 @@
     "support": "Op onze [**Support Server**](%s) staan veel behulpzame gebruikers en teamleden die u kunnen helpen.\nU kunt ook zelf een oplossing zoeken in de [**Documentatie**](%s).",
     "onCooldown": "Je bent een beetje te snel.\nProbeer het opnieuw in `%s`.",
     "status": "Als u dit kunt lezen, is de bot waarschijnlijk online.\nU kunt meer informatie over de status krijgen op de [**Statuspagina**](%s) en op onze [**Discordserver**](%s).",
-    "botinfo": "**EazyAutodelete** is een eenvoudige Discord Bot die automatisch berichten verwijdert.\nMet de vele instellingen kunt u de bot aanpassen aan uw behoeften.",
     "channelNotInDatabase": "Dit kanaal zit niet in de database.",
     "userNotInDatabase": "Deze gebruiker zit niet in de database.",
     "guildNotInDatabase": "Deze gilde zit niet in de database.",
