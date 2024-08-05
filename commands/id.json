@@ -6,7 +6,6 @@
     "mode3": "Hapus semua pesan setelah jumlah pesan yang ditentukan (mis. setiap 10 pesan).",
     "invalidChannelType": "Jenis channel yang diberikan tidak didukung.\nJenis-Jenis Channel berikut (**[?](%s)**) saat ini didukung:\n`%s`",
     "mode4": "Simpan jumlah pesan terbaru yang ditentukan dan hapus pesan-pesan sebelumnya (mis. simpan 10 pesan terbaru).",
-    "filterBehaviorAll": "Hanya hapus pesan-pesan yang cocok dengan SEMUA filter.",
     "languageEdit": "Bahasa kamu telah diubah menjadi: **%s**.",
     "languageShow": "Bahasa kamu yang disetel saat ini: **%s**.\nGunakan `/language` untuk mengubah bahasa kamu.",
     "example": "Contoh",
