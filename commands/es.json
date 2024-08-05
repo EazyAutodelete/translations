@@ -14,7 +14,6 @@
     "mode2": "Eliminar todos los mensajes después de <hora>.",
     "mode3": "Después de <limitar> mensajes, elimine todos los mensajes.",
     "mode4": "Mantenga los mensajes <limit> más recientes. Los mensajes anteriores serán eliminados.",
-    "filter": "Solo elimine los mensajes que coincidan con los filtros.",
     "filterBehaviorAll": "Solo elimine mensajes que coincidan con **TODOS los filtros**.",
     "filterBehaviorOne": "Solo elimine los mensajes que coincidan con **AL MENOS UN filtro**.",
     "mode": "Cambia la forma en que funciona el algoritmo de eliminación.",
