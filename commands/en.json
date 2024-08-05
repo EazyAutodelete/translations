@@ -32,7 +32,6 @@
     "guildNotInDatabase": "This guild is not in the database.",
     "invalidLanguage": "**You must specify a valid language.**\nAvailable languages:\n%s",
     "commandNotFound": "The command **/%s** was not found.",
-    "languageEditFooter": "Some languages may not be completely translated yet.",
     "currently": "Currently set to:",
     "commandDisabled": "The **/%s** command is currently disabled!\nReason: `%s`",
     "userIsNew": "It looks like you are using EazyAutodelete for the first time.\nThe best way to start is to set your language. Use **/language** for this.\n\nAfter that you can continue with **/setup** to set up EazyAutodelete for a channel.\n\nFor information about a command, use **/help**.\nIf you have any questions or problems, you can always get help with **/support**.",
