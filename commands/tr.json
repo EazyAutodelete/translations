@@ -12,7 +12,6 @@
     "mode2": "<time> sonra tüm mesajları sil.",
     "mode3": "<limit> mesajdan sonra tüm mesajları silinecektir.",
     "mode4": "En güncel <limit> mesajları muhafaza edin. Bundan öncesindeki mesajlar silinecektir.",
-    "languageEditFooter": "Bazı diller henüz tamamen çevrilmemiş olabilir.",
     "status": "Eğer bunu okuyabiliyorsanız, bot muhtemelen erişime açık olacaktır.\nDurum hakkında daha fazla bilgiyi [**Statü Sayfası**](%s) ve [**Discord Sunucusunda**](%s) bulabilirsiniz.",
     "userNotInDatabase": "Bu kullanici veri tabanıda bulunmamaktadir.",
     "guildNotInDatabase": "Bu sunucu veri tabanıda bulunmamaktadir.",
