@@ -15,7 +15,6 @@
     "mode0": "Desactivé",
     "mode3": "Après <limit> messages, supprimez tous les messages.",
     "mode4": "Gardez les <limit> derniers messages. Les messages précédents vont être supprimés.",
-    "filterBehaviorAll": "Supprimez uniquement les messages qui correspondent à **TOUT les filtres**.",
     "filterBehaviorOne": "Supprimez uniquement les messages qui correspondent **À AU MOINS UN filtre**.",
     "filterBehavior": "Il s'agit de supprimer les messages qui correspondent *à au moins un filtre*, ou de supprimer les messages qui correspondent *à tous les filtres*.",
     "mode": "Changez la façon dont l'algorithme fonctionne.",
