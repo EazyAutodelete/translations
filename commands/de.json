@@ -15,7 +15,6 @@
     "missingPerms": "Du hast nicht die benötigten Berechtigungen, um diesen Befehl nutzen zu können.",
     "deleteMessagesAfter": "Nur Nachrichten löschen, die nach einer bestimmten Nachricht gesendet wurden.\nZum deaktivieren \"0\" eingeben.",
     "config": "Konfiguration",
-    "deleteMessagesBefore": "Nur Nachrichten löschen, die vor einer bestimmten Nachricht gesendet wurden.\nZum deaktivieren \"0\" eingeben.",
     "savedChannelSettings": "**Die Einstellungen wurden erfolgreich gespeichert.**",
     "deleteMessagesLimit0": "Keine Nachrichten werden gelöscht, weil Modus 0 eingestellt ist.",
     "deleteMessagesLimit1": "Eine gesendete Nachricht nach **%s** löschen.",
