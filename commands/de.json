@@ -21,7 +21,7 @@
     "deleteMessagesLimit3": "Alle Nachrichten nach **%s** Nachrichten löschen.",
     "deleteMessagesLimit4": "Die **%s** neusten Nachrichten behalten und die Nachrichten davor löschen.",
     "status": "Wenn du das lesen kannst, dann ist der Bot wohl wahrscheinlich online.\nWeitere Informationen über den Status erhältst du auf der [**Statusseite**](%s) und auf unserem [**Discord Server**](%s).",
-    "onCooldown": "Du bist ein bisschen zu schnell.\nVersuche es noch einmal in `%s`.",
+    "onCooldown": "Du bist ein bisschen zu schnell. Versuche es in `%s` noch einmal.\nDu kannst diesen Cooldown umgehen, indem du **für EazyAutodelete** votest.",
     "channelNotInDatabase": "Dieser Kanal ist nicht in der Datenbank.",
     "userNotInDatabase": "Dieser Benutzer ist nicht in der Datenbank.",
     "guildNotInDatabase": "Dieser Server ist nicht in der Datenbank.",
