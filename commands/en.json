@@ -268,5 +268,8 @@
     "upgradeForBetterDurations": "Upgrade to **EazyAutodelete Premium ✨** to unlock durations between **%s** and **%s**.",
     "upgradeForBetterAmounts": "Upgrade to **EazyAutodelete Premium ✨** to unlock amounts between **%s** and **%s**.",
     "freeConfigLimitExceeded": "You exceed the number of configs available in the free plan. You must first delete %s config(s) to be able to edit any config.\nAlternatively, you can subscribe to **EazyAutodelete Premium ✨** to get access to %s configs per channel.",
-    "guildUnavailable": "I'm sorry, it looks like your guild is currently unavailable. Try again later please.%s"
+    "guildUnavailable": "I'm sorry, it looks like your guild is currently unavailable. Try again later please.%s",
+    "premiumTitle": ":sparkles: EazyAutodelete Premium",
+    "premiumInfo": "Subscribe to EazyAutodelete Premium to get access to more features, better limits and support the development of the project.\n\nWe use your payments to finance the server infrastructure, domains, licenses and other costs",
+    "premiumFooter": "Better limits and more configs result in higher server load. Therefore, premium users have better limits as they help cover the server costs. The limits are experimental and may be changed in the future."
 }
