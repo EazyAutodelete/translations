@@ -8,5 +8,10 @@
     "websiteIntro": "is an easy to use Discord Bot that deletes messages - 100% automatically. With EazyAutodelete's advanced configuration options, you can automatically remove messages based on user roles, mentions, a large number of filters or time intervals. Tailor each channel's settings for a clutter free and organized chat experience. Whether managing temporary conversations or specific user interactions, the configurations offer full flexibility for your server.",
     "hey": "Hey, I'm ",
     "subad": "Completely free & in unlimited channels!",
-    "ad": "The best & most customizable Autodelete Bot for Discord."
+    "ad": "The best & most customizable Autodelete Bot for Discord.",
+    "addToDc": "Add To Discord",
+    "last30days": "Last 30 days",
+    "lastYear": "last Year",
+    "deletedMessages": "Deleted Messages",
+    "last7days": "Last 7 days"
 }
