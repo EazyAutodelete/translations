@@ -17,7 +17,10 @@
     "today": "today",
     "hour": "hour",
     "useCases": "Use Cases",
-    "terms": "Terms",
+    "terms": "Terms of Service",
     "rightow": "Right of Withdrawal",
-    "privacy": "Privacy Policy"
+    "privacy": "Privacy Policy",
+    "legal": "Legal",
+    "docs": "Documentation",
+    "licenses": "Licenses"
 }
