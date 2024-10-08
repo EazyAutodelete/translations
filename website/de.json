@@ -8,7 +8,12 @@
     "youDecide": "Du entscheidest, was gelöscht wird",
     "hey": "Hey, Ich bin ",
     "addToDc": "Zu Discord hinzufügen",
-    "deletedMessages": "Gelöscht Nachrichten",
+    "deletedMessages": "Gelöscht eNachrichten",
     "subad": "Komplett kostenlos & in unbegrenzten Kanälen!",
-    "ad": "Der beste & anpassbarste Autodelete Bot für Discord."
+    "ad": "Der beste & anpassbarste Autodelete Bot für Discord.",
+    "last30days": "letzte 30 Tage",
+    "lastYear": "letztes Jahr",
+    "today": "heute",
+    "last7days": "letzte 7 Tage",
+    "hour": "letzte Stunde"
 }
