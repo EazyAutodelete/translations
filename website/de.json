@@ -6,5 +6,9 @@
     "features": "Funktionen",
     "websiteIntro": "ist ein einfach zu bedienender Discord Bot, der Nachrichten löscht - 100% automatisch. Mit den vielseitigen Konfigurationsoptionen von EazyAutodelete kannst Du Nachrichten auf der Grundlage von Benutzerrollen, Erwähnungen, einer großen Anzahl von Filtern oder Zeitintervallen automatisch löschen. Passe die Einstellungen für jeden Kanal an, um ein übersichtliches und organisiertes Chaterlebnis zu schaffen. Ob temporäre Unterhaltungen oder spezifische Benutzerinteraktionen verwalten, die Konfigurationen bieten volle Flexibilität für deinen Server.",
     "youDecide": "Du entscheidest, was gelöscht wird",
-    "hey": "Hey, Ich bin "
+    "hey": "Hey, Ich bin ",
+    "addToDc": "Zu Discord hinzufügen",
+    "deletedMessages": "Gelöscht Nachrichten",
+    "subad": "Komplett kostenlos & in unbegrenzten Kanälen!",
+    "ad": "Der beste & anpassbarste Autodelete Bot für Discord."
 }
