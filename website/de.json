@@ -15,5 +15,12 @@
     "lastYear": "letztes Jahr",
     "today": "heute",
     "last7days": "letzte 7 Tage",
-    "hour": "letzte Stunde"
+    "hour": "letzte Stunde",
+    "useCases": "Beispiele",
+    "terms": "Nutzungsbedingungen",
+    "rightow": "Rücktrittsrecht",
+    "legal": "Rechtliches",
+    "privacy": "Datenschutzerklärung",
+    "docs": "Dokumentation",
+    "licenses": "Lizensen"
 }
