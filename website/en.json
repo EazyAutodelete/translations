@@ -4,5 +4,7 @@
     "adjustable": "Adjustable to your needs",
     "noLimits": "No limitations & highly performant",
     "features": "Features",
-    "youDecide": "You decide what to delete"
+    "youDecide": "You decide what to delete",
+    "websiteIntro": "is an easy to use Discord Bot that deletes messages - 100% automatically. With EazyAutodelete's advanced configuration options, you can automatically remove messages based on user roles, mentions, a large number of filters or time intervals. Tailor each channel's settings for a clutter free and organized chat experience. Whether managing temporary conversations or specific user interactions, the configurations offer full flexibility for your server.",
+    "hey": "Hey, I'm "
 }
