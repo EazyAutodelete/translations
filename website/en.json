@@ -35,5 +35,6 @@
     "longDurations": "Long durations",
     "userConfigsText": "EazyAutodelete being the most customizable Autodelete Discord Bot allows you to create multiple fully editable individual configurations for your channels.\nYou have full control & flexibility about what messages are when deleted.",
     "modesText": "Choose from 4 different Modes that delete the messages.\nYou can delete the messages after a certain number of messages, a certain duration or many other criteria.",
-    "longDurationsText": "EazyAutodelete is designed to offer maximum flexibility and control. Therefore, you can set the duration of the messages to be deleted to up to 14 days - depending on your mode and more."
+    "longDurationsText": "EazyAutodelete is designed to offer maximum flexibility and control. Therefore, you can set the duration of the messages to be deleted to up to 14 days - depending on your mode and more.",
+    "filtersForEverythingText": "You can choose from a large amout of Filters that the messages must match to be deleted.\nYou decide whether messages must match all Filters or just a single filter to be deleted.\nUsing EazyAutodelete's Filters, you can automatically delete pinned messages, messages that are not pinned, message that contain mentions, links or emojis as well as messages that have (no) attachments or voice messages."
 }
