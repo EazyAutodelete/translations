@@ -23,5 +23,14 @@
     "legal": "Legal",
     "docs": "Documentation",
     "licenses": "Licenses",
-    "trusted": "Trusted by large & partnered Servers"
+    "trusted": "Trusted by large & partnered Servers",
+    "filtersForEverything": "Filters for Everything",
+    "ignoreTarget": "Ignore / Target Roles & Bots",
+    "lazyload": "Load up old messages",
+    "unlimitedChannels": "Unlimited channels",
+    "fast": "Fast & reliable 🚀",
+    "modes": "Multiple modes",
+    "freeToUse": "Free to add & use",
+    "userConfigs": "User-defined configs",
+    "longDurations": "Long durations"
 }
