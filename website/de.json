@@ -55,5 +55,9 @@
     "useCasesHeading": "Nutzungsbeispiele von EazyAutodelete",
     "premiumHandledFirst": "Du & deine Kanäle werden als erst abgearbeitet",
     "premiumLimits": "Bessere Limits (Siehe hier)",
-    "startUsing": "Loslegen"
+    "startUsing": "Loslegen",
+    "statusInfo": "EazyAutodelete ist zur besseren Leistung in Shards aufgeteilt. Jeder Shard verwaltet etwa 1.000 Server.",
+    "noShards": "Keine Shards gefunden",
+    "checkStatusPage": "Besuche die %statusPage für mehr Informationen.",
+    "enterGuildId": "Gib deine Server ID ein"
 }
