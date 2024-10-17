@@ -58,5 +58,6 @@
     "useCasesHeading": "Example Use Cases of EazyAutodelete",
     "statusInfo": "EazyAutodelete is split into shards for better performance. Each shard handles around 1,000 servers.",
     "noShards": "No Shards found",
-    "checkStatusPage": "Check the %statusPage for more information."
+    "checkStatusPage": "Check the %statusPage for more information.",
+    "enterGuildId": "Enter your guild id"
 }
