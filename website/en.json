@@ -55,5 +55,8 @@
     "premiumLimits": "Better limits (See here)",
     "startUsing": "Start Using",
     "useCasesText": "Here are some examples of how people have used EazyAutodelete to enhance their server.",
-    "useCasesHeading": "Example Use Cases of EazyAutodelete"
+    "useCasesHeading": "Example Use Cases of EazyAutodelete",
+    "statusInfo": "EazyAutodelete is split into shards for better performance. Each shard handles around 1,000 servers.",
+    "noShards": "No Shards found",
+    "checkStatusPage": "Check the %statusPage for more information."
 }
