@@ -53,5 +53,7 @@
     "premiumMoreRoles": "More than 10 Target/Ignore Roles",
     "premiumHandledFirst": "You & your channels are handled first",
     "premiumLimits": "Better limits (See here)",
-    "startUsing": "Start Using"
+    "startUsing": "Start Using",
+    "useCasesText": "Here are some examples of how people have used EazyAutodelete to enhance their server.",
+    "useCasesHeading": "Example Use Cases of EazyAutodelete"
 }
