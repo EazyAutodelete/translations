@@ -46,5 +46,11 @@
     "subscribe": "Subscribe to EazyAutodelete Premium to get access to more features, better limits and support the development of the project.",
     "moneyUse": "We use your payments to finance the server infrastructure, domains, licenses and other costs.",
     "premiumCommand": "You can subscribe to EazyAutodelete Premium by running %command in your Discord Server and clicking the first blue button!",
-    "premiumDisclaimer": "Better limits and more configs result in higher server load. Therefore, premium users have better limits as they help cover the server costs. The limits are experimental and may be changed in the future."
+    "premiumDisclaimer": "Better limits and more configs result in higher server load. Therefore, premium users have better limits as they help cover the server costs. The limits are experimental and may be changed in the future.",
+    "premiumCommands": "All commands",
+    "premiumMoreConfigs": "More than 3 configs per channel",
+    "premiumFilters": "All filters",
+    "premiumMoreRoles": "More than 10 Target/Ignore Roles",
+    "premiumHandledFirst": "You & your channels are handled first",
+    "premiumLimits": "Better limits (See here)"
 }
