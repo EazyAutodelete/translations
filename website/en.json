@@ -33,5 +33,6 @@
     "freeToUse": "Free to add & use",
     "userConfigs": "User-defined configs",
     "longDurations": "Long durations",
-    "userConfigsText": "EazyAutodelete being the most customizable Autodelete Discord Bot allows you to create multiple fully editable individual configurations for your channels.\nYou have full control & flexibility about what messages are when deleted."
+    "userConfigsText": "EazyAutodelete being the most customizable Autodelete Discord Bot allows you to create multiple fully editable individual configurations for your channels.\nYou have full control & flexibility about what messages are when deleted.",
+    "modesText": "Choose from 4 different Modes that delete the messages.\nYou can delete the messages after a certain number of messages, a certain duration or many other criteria."
 }
