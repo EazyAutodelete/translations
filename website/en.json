@@ -1,5 +1,4 @@
 {
-    "test": "test",
     "imprint": "Imprint",
     "adjustable": "Adjustable to your needs",
     "noLimits": "No limitations & highly performant",
@@ -71,5 +70,22 @@
     "seeUseCases": "Here are some examples of how people enhanced their server by using ",
     "seeStatusPage": "See the Status of the Bot & Shards of ",
     "gettingStarted": "Getting Started",
-    "sharedConfigs": "Shared configs"
+    "sharedConfigs": "Shared configs",
+    "howToAdd": "How to add EazyAutodelete to my server?",
+    "howToUse": "How do I use EazyAutodelete?",
+    "howManyChannels": "How many channels can I use EazyAutodelete in?",
+    "howManyConfigs": "How many configurations can I create?",
+    "supportedChannels": "Does EazyAutodelete work with Announcement, Thread, Voice or Forum Channels?",
+    "supportedLanguages": "Which languages are supported?",
+    "whatAreTheLimits": "What are the limits of EazyAutodelete?",
+    "isTheBotOnline": "Is EazyAutodelete online 24/7?",
+    "getHelp": "Where can I get help?",
+    "whyNotDelete": "Why does EazyAutodelete not delete messages?",
+    "howToReportBugs": "How can I report bugs?",
+    "howToRequestFeatures": "How can I request features?",
+    "howToReportAbuse": "How can I report abuse?",
+    "howToContact": "How can I contact the team?",
+    "howToSupport": "How can I support the EazyAutodelete?",
+    "whatIsPremium": "What is EazyAutodelete Premium?",
+    "howToTranslate": "How can I help translate EazyAutodelete?"
 }
