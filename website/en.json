@@ -88,7 +88,18 @@
     "howToSupport": "How can I support the EazyAutodelete?",
     "whatIsPremium": "What is EazyAutodelete Premium?",
     "howToTranslate": "How can I help translate EazyAutodelete?",
-    "gotOtherQuestions": "Got any other questions? Join our %server!",
+    "gotOtherQuestions": "Got any other questions? Join our Support Server!",
     "supportFeatures": "Supported Features",
-    "contribution": "Contribution"
+    "contribution": "Contribution",
+    "reportBugs": "If you encounter a bug, you can report it on our Support Server. Please provide as much information as possible, so we can reproduce the bug and fix it.",
+    "requestFeatures": "If you have a feature request, you can submit it on our Support Server. Please provide as much information as possible, so we can understand your request and decide if it fits our roadmap.",
+    "reportAbuse": "If you encounter abuse or misuse of EazyAutodelete, you can report it on our Support Server. Please provide as much information as possible, so we can understand the situation and take appropriate action.",
+    "contactTeam": "You can contact the team on our Support Server. We are happy to help you with any questions or issues you might have.",
+    "manyChannels": "You can use EazyAutodelete in as many channels as you want. There is no limit on how many channels you can use it.",
+    "manyConfigs": "You can create up to 3 configurations per channel. If you want to create more, you can upgrade to EazyAutodelete Premium.",
+    "channelTypes": "Yes, EazyAutodelete works with Announcement Channels, Text Channels, Thread Channels, Voice Channels and Forum Channels.",
+    "helpTranslate": "If you want to help translate EazyAutodelete into your language, you can do so on our Translation Platform. A short introduction to translating EazyAutodelete is available on our GitHub Profile at eazyautodelete.xyz/translate.",
+    "supportedLanguagesDesc1": "EazyAutodelete is available in multiple Languages. Those Languages include English, German, French, Japanese, Dutch, Korean, Spanish, Turkish, Portuguese and Polish. You can see the translation Progress for every language below.",
+    "supportedLanguagesDesc2": "Some languages only have some parts translated. Untranslated strings are shown in English. If you are missing translations or have found an issue with a translation, please contact us on Discord.",
+    "supportedLanguagesDesc3": "If you want to help us translating, click on the charts above or visit eazyautodelete.xyz/translate."
 }
