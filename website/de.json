@@ -68,5 +68,22 @@
     "premiumTitle": "Premium 🚀 Upgrade auf Premium",
     "seeLegalInfo": "Zeige Rechtliche Information über %topic von ",
     "seeUseCases": "Hier sind einige Beispiele dafür, wie Nutzer ihren Server verbessern mit ",
-    "seeStatusPage": "Siehe den Status des Bots & der Shards von "
+    "seeStatusPage": "Siehe den Status des Bots & der Shards von ",
+    "howToAdd": "Wie füge ich EazyAutodelete zu meinem Server hinzu?",
+    "howToUse": "Wie benutze ich EazyAutodelete?",
+    "howManyChannels": "In wie vielen Kanälen kann ich EazyAutodelete verwenden?",
+    "howManyConfigs": "Wie viele Konfigurationen kann ich erstellen?",
+    "supportedChannels": "Funktioniert EazyAutodelete mit Ankündigungs-, Thread-, Sprach- oder Forum-Kanälen?",
+    "supportedLanguages": "Welche Sprachen werden unterstützt?",
+    "whatAreTheLimits": "Was sind die Limits von EazyAutodelete?",
+    "isTheBotOnline": "Ist EazyAutodelete 24/7 online?",
+    "getHelp": "Wo kann ich Hilfe bekommen?",
+    "whyNotDelete": "Warum löscht EazyAutodelete keine Nachrichten?",
+    "howToReportBugs": "Wie kann ich Bugs melden?",
+    "howToRequestFeatures": "Wie kann ich neue Funktionen vorschlagen?",
+    "howToReportAbuse": "Wie kann ich Missbrauch melden?",
+    "howToContact": "Wie kann ich das Team kontaktieren?",
+    "howToSupport": "Wie kann ich EazyAutodelete unterstützen?",
+    "whatIsPremium": "Was ist EazyAutodelete Premium?",
+    "howToTranslate": "Wie kann ich bei der Übersetzung von EazyAutodelete helfen?"
 }
