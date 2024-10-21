@@ -62,5 +62,12 @@
     "enterGuildId": "Enter your guild id",
     "shardsStatus": "Status of the Shards",
     "descSuffix": "EazyAutodelete - the best & most customizable Autodelete Bot for Discord. Completely free & in unlimited channels. With EazyAutodelete's advanced configuration options, you can autodelete messages based on user roles, mentions, a large number of filters or time intervals. Set durations like 5 minutes, 1 hour, 1 day, 24 hour or 1 week.",
-    "seeLegalInfo": "See legal Information about the %topic of "
+    "seeLegalInfo": "See legal Information about the %topic of ",
+    "seeFAQ": "See Frequently Asked Questions of users of ",
+    "seeUseCaseExample": "How %user enhanced their Server %server with ",
+    "useCaseTitle": "How %user enhanced %server",
+    "returnTitle": "Thanks, for adding me to your server!",
+    "premiumTitle": "Premium 🚀 Upgrade to Premium",
+    "seeUseCases": "Here are some examples of how people enhanced their server by using ",
+    "seeStatusPage": "See the Status of the Bot & Shards of "
 }
