@@ -1,4 +1,8 @@
 {
     "test": "test",
-    "testneeuuuu": "gdfj,hgsdfjgbfdsghjfdsg"
+    "testneeuuuu": "gdfj,hgsdfjgbfdsghjfdsg",
+    "cancelConfirmHeader": "Are you sure you want to cancel your subscription?",
+    "cancelAccesUntil": "Your Premium Features will remain accessible until %timestamp. After this, you will lose access to all premium features, including enhanced limits and exclusive modes.",
+    "cancelConfigsReset": "Configs exceeding free limits will be deactivated immediately upon subscription expiry.",
+    "cancelReactivate": "You can reactivate your subscription anytime before %timestamp to retain your premium perks. After expiration, a new subscription is required to regain access to premium features."
 }
