@@ -272,5 +272,10 @@
     "premiumTitle": ":sparkles: EazyAutodelete Premium",
     "premiumInfo": "Subscribe to EazyAutodelete Premium to get access to more features, better limits and support the development of the project.\n\nWe use your payments to finance the server infrastructure, domains, licenses and other costs.\n### When having an active Premium Subscription, you will receive following perks:\n:gear: Create up to %s configs per channel\n:busts_in_silhouette: More Target, Ignore, Mod & Admin Roles ([**?**](<https://docs.eazyautodelete.xyz/config/roles>))\n:chart_with_upwards_trend: Better limits up to `%s`\n:one: You & your channels are handled first!\n…and more to follow\n### If you have any questions:\n`>` Read the FAQ in our </support:1069983727855349796> server\n`>` Feel free to ask in our </support:1069983727855349796> server\n`>` Read in the [Docs](<https://docs.eazyautodelete.xyz/premium>)\n\n__You can subscribe to EazyAutodelete Premium by clicking the first Button below!__\n\n-# Better limits and more configs result in higher server load. Therefore, premium users have access to better limits as they help cover the server costs.",
     "premiumFooter": "Better limits and more configs result in higher server load. Therefore, premium users have better limits as they help cover the server costs.",
-    "sameLimit": "That's the same limit as before."
+    "sameLimit": "That's the same limit as before.",
+    "stopConfirm": "**Do you only want to stop all configs in this channel or on the entire server?**\nThe affected configs are stopped, the mode is set to 0 and the limit is reset.",
+    "channelStopped": "All configs in this channel have been stopped.",
+    "stopChannel": "**Are you sure you want to stop ALL configs in this channel?**\nThe affected configs are stopped immediately, the mode is set to 0 and the limit is reset.",
+    "stopServer": "**Are you sure you want to stop ALL configs in this server?**\nThe affected configs are stopped immediately, the mode is set to 0 and the limit is reset.",
+    "serverStopped": "All configs in this server have been stopped."
 }
