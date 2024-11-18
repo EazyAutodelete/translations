@@ -278,6 +278,8 @@
     "stopChannel": "**Are you sure you want to stop ALL configs in this channel?**\nThe affected configs are stopped immediately, the mode is set to 0 and the limit is reset.",
     "stopServer": "**Are you sure you want to stop ALL configs in this server?**\nThe affected configs are stopped immediately, the mode is set to 0 and the limit is reset.",
     "serverStopped": "All configs in this server have been stopped.",
-    "content3040": "Contain forwarded messages",
-    "content3041": "Not contain forwarded messages"
+    "content3040": "Contain Stickers",
+    "content3041": "Not contain Stickers",
+    "content3051": "Not contain forwarded messages",
+    "content3050": "Contain forwarded messages"
 }
