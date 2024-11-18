@@ -282,7 +282,7 @@
     "content3041": "Not contain Stickers",
     "content3051": "Not contain forwarded messages",
     "content3050": "Contain forwarded messages",
-    "autodeleteNoticeTitle": "Message in this channel are automatically deleted",
+    "autodeleteNoticeTitle": "Messages in this channel are automatically deleted",
     "noActiveConfigs": "This channel does not have any active configs.\nCreate one using </setup:%s> first and run this command again.",
     "autodeleteNoticeSuccess": "The Autodelete notice has been sent. Feel free to pin it.\nEazyAutodelete will not delete that message, but you can delete or resend it at any time.",
     "autodeleteNoticeError": "Sending the Autodelete notice has failed. Please check whether I have the permission to send messages and use embed links.",
