@@ -277,5 +277,7 @@
     "channelStopped": "All configs in this channel have been stopped.",
     "stopChannel": "**Are you sure you want to stop ALL configs in this channel?**\nThe affected configs are stopped immediately, the mode is set to 0 and the limit is reset.",
     "stopServer": "**Are you sure you want to stop ALL configs in this server?**\nThe affected configs are stopped immediately, the mode is set to 0 and the limit is reset.",
-    "serverStopped": "All configs in this server have been stopped."
+    "serverStopped": "All configs in this server have been stopped.",
+    "content3040": "Contain forwarded messages",
+    "content3041": "Not contain forwarded messages"
 }
