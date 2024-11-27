@@ -295,5 +295,5 @@
     "enterTime": "Enter a time in HH:mm 24 hour format.",
     "mode5": "Delete all messages daily at a specific time.",
     "timeShort": "Time",
-    "limitMode5": "The time to run the daily message deletion at. Specified as a **HH:mm** (24h format), since mode 5 is activated. Provice UTC Time. Midnight for EazyAutodelete is %s.\nExample: `16:30`"
+    "limitMode5": "The time to run the daily message deletion at. Specified as **HH:mm** (24h format), since mode 5 is activated. Provice UTC Time. Midnight for EazyAutodelete is %s.\nExample: `16:30`"
 }
