@@ -294,5 +294,6 @@
     "mode5timeSet": "Delete all messages daily at <t:%s:t>.\nNext message deletion in <t:%s:R> on <t:%s:f>.",
     "enterTime": "Enter a time in HH:mm 24 hour format.",
     "mode5": "Delete all messages daily at a specific time.",
-    "timeShort": "Time"
+    "timeShort": "Time",
+    "limitMode5": "The time to run the daily message deletion at. Specified as a **HH:mm** (24h format), since mode 5 is activated.\nExample: `16:30`"
 }
