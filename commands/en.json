@@ -302,6 +302,6 @@
     "enterInterval": "Enter Interval, e.g. 5min, 1h or 24h…",
     "invalidTime": "Sorry, this is not a valid time. Enter the time in **HH:mm** 24-hour format. Use the time zone UTC±0. Midnight is %s for me.",
     "noCancel": "No, cancel",
-    "purgeConfirm": "### Are you sure you want to delete %s messages now?\nThis action cannot be undone. This command does __NOT__ respect any EazyAutodelete configurations in this channel nor its parents.\n\n-# Depending on EazyAutodelete's cu rrent workload, this command might take a few seconds.",
+    "purgeConfirm": "### Are you sure you want to delete %s messages now?\nThis action cannot be undone. This command does __NOT__ respect any EazyAutodelete configurations in this channel nor its parents.\n\n-# Depending on EazyAutodelete's current workload, this command might take a few seconds.",
     "yesDeleteXmessages": "Yes, delete %s messages"
 }
