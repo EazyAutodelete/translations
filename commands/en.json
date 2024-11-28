@@ -299,5 +299,6 @@
     "startTimeLabel": "Start time in HH:mm 24 hour format and UTC±0",
     "enterTimeShort": "HH:mm 24 hour, UTC±0, Leave empty for current time",
     "intervalShort": "Interval: Delete all messages every x",
-    "enterInterval": "Enter Interval, e.g. 5min, 1h or 24h…"
+    "enterInterval": "Enter Interval, e.g. 5min, 1h or 24h…",
+    "invalidTime": "Sorry, this is not a valid time. Enter the time in **HH:mm** 24-hour format. Use the time zone UTC±0. Midnight is %s for me."
 }
