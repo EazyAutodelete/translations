@@ -39,7 +39,7 @@
     "setupUpdateFilters": "**Settings have been saved successfully.**\nThe following filters are now __enabled__:\n%s",
     "none": "None",
     "limitMode1": "The limit with which the deletion algorithm should work. Specified as a **duration**, since mode 1 is activated.\nExample: `1m 30s`",
-    "limitMode2": "The limit with which the deletion algorithm should work. Specified as a **duration**, since mode 2 is activated.\nExample: `2m 30s`",
+    "limitMode2": "The interval in which the messages will be deleted. Specified as a **duration**, since mode 2 is activated. Additionally, you can provide a starttime as **HH:mm** (24h format). Provide UTC±0 Time. Midnight for EazyAutodelete is %s.\nExample: `2m 30s`",
     "limitMode3": "The limit with which the deletion algorithm should work. Specified as a **number**, since mode 3 is activated.\nExample: `15`",
     "limitMode4": "The limit with which the deletion algorithm should work. Specified as a **number**, since mode 4 is activated.\nExample: `10`",
     "updateDeleteMessagesBefore": "From now on, only messages sent before the [specified message](%s) will be deleted.",
@@ -289,11 +289,12 @@
     "automatedMessage": "This is an automated message by <@%s>.",
     "autodeleteNoticeDescription": "This server uses [**EazyAutodelete** ](https://eazyautodelete.xyz) to automatically delete messages in this channel. The following autodelete configurations are active in this channel.",
     "changeTime": "Change Time",
-    "timeLabel": "Enter daily message deletion time as HH:mm",
+    "timeLabel": "Daily message deletion time in HH:mm 24 hour format and UTC±0",
     "changeTime5": "Click the __%s__ button to set the daily message deletion time.",
     "mode5timeSet": "Delete all messages daily at <t:%s:t>.\nNext message deletion <t:%s:R> on <t:%s:f>.",
-    "enterTime": "Enter a time in HH:mm 24 hour format.",
+    "enterTime": "Enter a time in HH:mm 24 hour format and UTC±0.",
     "mode5": "Delete all messages daily at a specific time.",
     "timeShort": "Time",
-    "limitMode5": "The time to run the daily message deletion at. Specified as **HH:mm** (24h format), since mode 5 is activated. Provide UTC Time. Midnight for EazyAutodelete is %s.\nExample: `16:30`"
+    "limitMode5": "The time to run the daily message deletion at. Specified as **HH:mm** (24h format), since mode 5 is activated. Provide UTC±0 Time. Midnight for EazyAutodelete is %s.\nExample: `16:30`",
+    "startTimeLabel": "Start time in HH:mm 24 hour format and UTC±0 (Leave empty to use current time)"
 }
