@@ -20,7 +20,7 @@
     "invalidMessageId": "**The message with this ID could not be loaded.**\nIs the message in another channel? Has the message been deleted? Is the ID valid?",
     "deleteMessagesLimit0": "No messages are deleted because the mode is set to 0.",
     "deleteMessagesLimit1": "Delete a sent message after **%s**.",
-    "deleteMessagesLimit2": "Delete all messages every **%s**.",
+    "deleteMessagesLimit2": "Delete all messages every **%s**. The Start Time is set to %s. The interval of %s will start %s.",
     "deleteMessagesLimit3": "Delete all messages after **%s** messages.",
     "deleteMessagesLimit4": "Keep **%s** newest messages and delete messages before that.",
     "supportTitle": "🔎 You are stuck?",
@@ -299,5 +299,5 @@
     "startTimeLabel": "Start time in HH:mm 24 hour format and UTC±0",
     "enterTimeShort": "HH:mm 24 hour, UTC±0, Leave empty for current time",
     "intervalShort": "Interval: Delete all messages every x",
-    "enterInterval": "Enter Interval, e.g. 5min, 1h or 24h..."
+    "enterInterval": "Enter Interval, e.g. 5min, 1h or 24h…"
 }
