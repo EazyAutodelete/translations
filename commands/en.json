@@ -306,5 +306,6 @@
     "yesDeleteXmessages": "Yes, delete %s messages",
     "purgeSuccess": "EazyAutodelete purged %s messages in this channel. Skipped %s messages.\nTook `%s`.",
     "purgeProgress": "%s EazyAutodelete is purging %s messages in this channel.\n\nProgress: %s of %s messages purged\n%s (%s%)",
-    "purgeStart": "%s EazyAutodelete started to purge %s messags in this channel."
+    "purgeStart": "%s EazyAutodelete started to purge %s messags in this channel.",
+    "purgeError": "The command could not be executed completely. There may be various reasons for this. Check whether the requirements for the channel are met. EazyAutodelete may have a higher load at the moment, you can try again in a few minutes.\n\nProgress: %s of %s messages purged\n%s (%s%)"
 }
