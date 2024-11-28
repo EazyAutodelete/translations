@@ -303,5 +303,8 @@
     "invalidTime": "Sorry, this is not a valid time. Enter the time in **HH:mm** 24-hour format. Use the time zone UTC±0. Midnight is %s for me.",
     "noCancel": "No, cancel",
     "purgeConfirm": "### Are you sure you want to delete %s messages now?\nThis action cannot be undone. This command does __NOT__ respect any EazyAutodelete configurations in this channel nor its parents.\n\n-# Depending on EazyAutodelete's current workload, this command might take a few seconds.",
-    "yesDeleteXmessages": "Yes, delete %s messages"
+    "yesDeleteXmessages": "Yes, delete %s messages",
+    "purgeSuccess": "EazyAutodelete purged %s messages in this channel.",
+    "purgeProgress": "%s EazyAutodelete is purging %s messages in this channel.\n\nProgress: %s of %s messages purged (%s%)",
+    "purgeStart": "%s EazyAutodelete started to purge %s messags in this channel."
 }
