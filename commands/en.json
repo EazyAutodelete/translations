@@ -302,10 +302,12 @@
     "enterInterval": "Enter Interval, e.g. 5min, 1h or 24h…",
     "invalidTime": "Sorry, this is not a valid time. Enter the time in **HH:mm** 24-hour format. Use the time zone UTC±0. Midnight is %s for me.",
     "noCancel": "No, cancel",
-    "purgeConfirm": "### Are you sure you want to delete %s messages now?\nThis action cannot be undone. This command does __NOT__ respect any EazyAutodelete configurations in this channel nor its parents.\n\n-# Depending on EazyAutodelete's current workload, this command might take a few seconds.",
+    "purgeConfirm": "### Are you sure you want to delete %s messages now?\n%s\n\n-# Depending on EazyAutodelete's current workload, this command might take a few seconds.",
     "yesDeleteXmessages": "Yes, delete %s messages",
     "purgeSuccess": "EazyAutodelete purged %s messages in this channel. Skipped %s messages.\nTook `%s`.",
     "purgeProgress": "%s EazyAutodelete is purging %s messages in this channel.\n\nProgress: %s of %s messages purged\n%s (%s%)",
     "purgeStart": "%s EazyAutodelete started to purge %s messags in this channel.",
-    "purgeError": "The command could not be executed completely. There may be various reasons for this. Check whether the requirements for the channel are met. EazyAutodelete may have a higher load at the moment, you can try again in a few minutes.\n\nProgress: %s of %s messages purged\n%s (%s%)"
+    "purgeError": "The command could not be executed completely. There may be various reasons for this. Check whether the requirements for the channel are met. EazyAutodelete may have a higher load at the moment, you can try again in a few minutes.\n\nProgress: %s of %s messages purged\n%s (%s%)",
+    "deleteDisclaimer": "This action can not be undone. This command does __NOT__ respect any EazyAutodelete configurations in this channel nor its parents.",
+    "duplicateConfirm": "### Are you sure you want to duplicate this channel?\nThis will create a copy of this channel with the same settings, name and description, and delete the old channel.\n__ALL MESSAGES IN THIS CHANNEL WILL BE GONE__. %s\n-# The new channel will be assigned a new ID. This can lead to problems with bots that are configured for this specific channel ID."
 }
