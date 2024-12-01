@@ -310,5 +310,8 @@
     "purgeError": "The command could not be executed completely. There may be various reasons for this. Check whether the requirements for the channel are met. EazyAutodelete may have a higher load at the moment, you can try again in a few minutes.\n\nProgress: %s of %s messages purged\n%s (%s%)",
     "deleteDisclaimer": "This action can not be undone. This command does __NOT__ respect any EazyAutodelete configurations in this channel nor its parents.",
     "duplicateConfirm": "### Are you sure you want to duplicate this channel?\nThis will create a copy of this channel with the same settings, name and description, and delete the old channel.\n\n__ALL MESSAGES IN THIS CHANNEL WILL BE GONE__.\n%s\n\n-# The new channel will be assigned a new ID. This can lead to problems with bots that are configured for this specific channel ID.",
-    "duplicateCopyConfig": "**The channel was successfully duplicated to <#%s>.**\n**Do you want to copy this channels configs for EazyAutodelete to the new channel?**\nAfter your selection, this channel will be deleted."
+    "duplicateCopyConfig": "**The channel was successfully duplicated to <#%s>.**\n**Do you want to copy this channels configs for EazyAutodelete to the new channel?**\nAfter your selection, this channel will be deleted.",
+    "duplicateCopyConfigYes": "Yes, copy configs",
+    "duplicateCopyConfigNo": "No, don't copy configs",
+    "jumpToNewChannel": "Jump to new channel"
 }
