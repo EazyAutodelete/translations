@@ -313,5 +313,6 @@
     "duplicateCopyConfig": "**The channel was successfully duplicated to <#%s>.**\n**Do you want to copy this channels configs for EazyAutodelete to the new channel?**\nAfter your selection, this channel will be deleted.",
     "duplicateCopyConfigYes": "Yes, copy configs",
     "duplicateCopyConfigNo": "No, don't copy configs",
-    "jumpToNewChannel": "Jump to new channel"
+    "jumpToNewChannel": "Jump to new channel",
+    "duplicateFailed": "Duplicating this channel failed. You can try again later.\nContact our staff team at **%s** for further assistance. %s"
 }
