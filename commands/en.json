@@ -318,5 +318,6 @@
     "duplicateSuccess": "### Channel successfully duplicated!\nYou now have a new empty channel with the same permissions and settings as before.",
     "startDateLabel": "Start date in YYYY-MM-DD format and UTC±0",
     "enterDateShort": "YYYY-MM-DD, UTC±0, Leave empty for current date",
-    "invalidDate": "Sorry, this is not a valid date. Enter the date in **YYYY-MM-DD** format. Use the time zone UTC±0. Midnight is %s for me."
+    "invalidDate": "Sorry, this is not a valid date. Enter the date in **YYYY-MM-DD** format. Use the time zone UTC±0. Midnight is %s for me.",
+    "invalidPurgeAmount": "Your entered amount is invalid. The amount has to be more than *1** and less than **%s**."
 }
