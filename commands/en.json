@@ -39,7 +39,7 @@
     "setupUpdateFilters": "**Settings have been saved successfully.**\nThe following filters are now __enabled__:\n%s",
     "none": "None",
     "limitMode1": "The limit with which the deletion algorithm should work. Specified as a **duration**, since mode 1 is activated.\nExample: `1m 30s`",
-    "limitMode2": "The interval in which the messages will be deleted. Specified as a **duration**, since mode 2 is activated.\n`>` Additionally, you can provide a starttime as **HH:mm** (24h format) and start date as **YYYY-MM-DD**. Provide UTC±0 Time. Midnight for EazyAutodelete is %s.\nExample: `2m 30s`",
+    "limitMode2": "The interval in which the messages will be deleted. Specified as a **duration**, since mode 2 is activated.\n`>` Additionally, you can provide a start time as **HH:mm** (24h format) and start date as **YYYY-MM-DD**. Provide UTC±0 Time. Midnight for EazyAutodelete is %s.\nExample: `2m 30s`",
     "limitMode3": "The limit with which the deletion algorithm should work. Specified as a **number**, since mode 3 is activated.\nExample: `15`",
     "limitMode4": "The limit with which the deletion algorithm should work. Specified as a **number**, since mode 4 is activated.\nExample: `10`",
     "updateDeleteMessagesBefore": "From now on, only messages sent before the [specified message](%s) will be deleted.",
