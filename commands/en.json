@@ -315,5 +315,7 @@
     "duplicateCopyConfigNo": "No, don't copy configs",
     "jumpToNewChannel": "Jump to new channel",
     "duplicateFailed": "Duplicating this channel failed. You can try again later.\nContact our staff team at **%s** for further assistance. %s",
-    "duplicateSuccess": "### Channel successfully duplicated!\nYou now have a new empty channel with the same rights and settings as before."
+    "duplicateSuccess": "### Channel successfully duplicated!\nYou now have a new empty channel with the same rights and settings as before.",
+    "startDateLabel": "Start date in YYYY-MM-DD format and UTC±0",
+    "enterDateShort": "YYYY-MM-DD, UTC±0, Leave empty for current date"
 }
