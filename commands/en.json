@@ -25,7 +25,7 @@
     "deleteMessagesLimit4": "Keep **%s** newest messages and delete messages before that.",
     "supportTitle": "🔎 You are stuck?",
     "support": "On our [**Support Server**](%s) there are many helpful users and team members who can assist you.\nYou can also search for a solution yourself in the [**Documentation**](%s).",
-    "onCooldown": "You're a little too fast. Try again in `%s`.\nYou can bypass this cooldown by **voting for EazyAutodelete**.",
+    "onCooldown": "You're a little too fast. Try again in `%s`.",
     "status": "If you can read this, then the bot will probably be online.\nYou can get more information about the status on the [**Status Page**](%s) and on our [**Discord Server**](%s).",
     "channelNotInDatabase": "This channel is not in the database.",
     "userNotInDatabase": "This user is not in the database.",
