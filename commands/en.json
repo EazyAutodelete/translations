@@ -316,7 +316,7 @@
     "jumpToNewChannel": "Jump to new channel",
     "duplicateFailed": "Duplicating this channel failed. You can try again later.\nContact our staff team at **%s** for further assistance. %s",
     "duplicateSuccess": "### Channel successfully duplicated!\nYou now have a new empty channel with the same permissions and settings as before.",
-    "startDateLabel": "Start date in YYYY-MM-DD format (UTC±0 Timezone)",
+    "startDateLabel": "Start date (YYYY-MM-DD, UTC±0 Timezone)",
     "enterDateShort": "YYYY-MM-DD, UTC±0, Leave empty for current date",
     "invalidDate": "Sorry, this is not a valid date. Enter the date in **YYYY-MM-DD** format. Use UTC±0 Timezone. Midnight is %s for me.",
     "invalidPurgeAmount": "Your entered amount is invalid. The amount has to be more than *1** and less than **%s**.",
