@@ -296,7 +296,7 @@
     "mode5": "Delete all messages daily at a specific time.",
     "timeShort": "Time",
     "limitMode5": "The time to run the daily message deletion at. Specified as **HH:mm** (24h format), since mode 5 is activated. Provide in UTC±0 Timezone. Midnight for EazyAutodelete is %s.\nExample: `16:30`",
-    "startTimeLabel": "Start time in HH:mm 24 hour format (UTC±0 Timezone)",
+    "startTimeLabel": "Starttime (HH:mm 24 hour, UTC±0 Timezone)",
     "enterTimeShort": "HH:mm 24 hour, UTC±0, Leave empty for current time",
     "intervalShort": "Interval: Delete all messages every x",
     "enterInterval": "Enter Interval, e.g. 5min, 1h or 24h…",
