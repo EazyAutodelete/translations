@@ -33,5 +33,11 @@
     "onCooldown": "Jesteś trochę za szybki.\nSpróbuj ponownie za `%s`.",
     "commandNotFound": "Nie znaleziono polecenia **/%s**.",
     "currently": "Obecnie ustawione na:",
-    "limitMode3": "Limit, z którym powinien działać algorytm usuwania. Określony jako **liczba**, ponieważ aktywny jest tryb 3.\nPrzykład: `15`"
+    "limitMode3": "Limit, z którym powinien działać algorytm usuwania. Określony jako **liczba**, ponieważ aktywny jest tryb 3.\nPrzykład: `15`",
+    "userWelcome": "👋 Witamy na EazyAutodelete!",
+    "setupUpdateFilters": "**Ustawienia zostały pomyślnie zapisane.**\nNastępujące filtry są teraz __włączone__:\n%s",
+    "none": "Brak",
+    "commandDisabled": "Polecenie **/%s** jest obecnie wyłączone!\nPowód: `%s`",
+    "userIsNew": "Wygląda na to, że używasz EazyAutodelete po raz pierwszy.\nNa poczatku proponujemy ustawić język. W tym celu użyj **/language**.\n\nNastępnie możesz kontynuować za pomocą **/setup**, aby skonfigurować EazyAutodelete dla wybranego kanału.\n\nAby uzyskać informacje o poleceniach, użyj **/help**.\nJeśli masz jakieś pytania lub problemy, zawsze możesz uzyskać pomoc przy użyciu komendy **/support**.",
+    "limitMode1": "Limit, z którym powinien działać algorytm usuwania. Określony jako **czas trwania**, od momentu aktywacji trybu 1.\nPrzykład: `1m 30s`"
 }
