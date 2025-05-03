@@ -173,5 +173,7 @@
     "autodeleteIntro": "Willkommen bei **EazyAutodelete**! 🎉\n\nIch bin ein vollständig anpassbarer Discord-Bot, der basierend auf deinen Einstellungen automatisch Nachrichten löscht.\n\nHier erfährst du, wie ich funktioniere und wie du mich ganz einfach zum automatischen Löschen von Nachrichten auf deinem Server einrichten kannst.\n\nWenn du mich noch nicht zu deinem Server hinzugefügt hast, lies bitte zuerst [__wie man mich zu deinem Server hinzufügt__] (https://docs.eazyautodelete.xyz/add-to-server)!\n\nWenn du irgendwelche Fragen oder Probleme hast, besuche unseren [Support-Server](https://eazyautodelete.xyz/support).",
     "serverRolesWarning": "Sei sehr vorsichtig mit diesen Einstellungen. Insbesondere mit einer Administratorrolle können falsche Benutzer Ihrem Server großen Schaden zufügen.",
     "freeConfigLimitExceeded": "Du überschreitest die Anzahl der im kostenlosen Tarif verfügbaren Konfigurationen. Du musst zuerst %s Config(s) löschen, um eine beliebige Konfiguration bearbeiten zu können.\nAlternativ kannst du **EazyAutodelete Premium ✨** abonnieren, um Zugriff auf %s Configs pro Kanal zu erhalten.",
-    "upgradeForBetterDurations": "Upgrade auf **EazyAutodelete Premium ✨**, um Zeiträume zwischen **%s** und **%s** freizuschalten."
+    "upgradeForBetterDurations": "Upgrade auf **EazyAutodelete Premium ✨**, um Zeiträume zwischen **%s** und **%s** freizuschalten.",
+    "inviteToYourServer": "Lade EazyAutodelete auf DEINEN Server ein!",
+    "joinSupportServer": "Bei Fragen, tritt bitte dem [Support Server](%s) bei."
 }
