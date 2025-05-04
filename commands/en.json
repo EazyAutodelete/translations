@@ -323,5 +323,8 @@
     "duplicateSuccessConfigs": "**%s configs** were copied to the new channel.",
     "invalidId": "Thats not a valid ID.",
     "joinSupportServer": "If you have any questions, please join the [Support Server](%s).",
-    "inviteToYourServer": "Invite EazyAutodelete to YOUR server!"
+    "inviteToYourServer": "Invite EazyAutodelete to YOUR server!",
+    "typeOfChannelNotSupported": "The Type of this channel is not supported.",
+    "channelType": "Channel is of Type: %s",
+    "supportedChannelTypes": "Supported Channel Types: %s"
 }
