@@ -329,5 +329,6 @@
     "supportedChannelTypes": "Supported Channel Types: %s",
     "missingPermissions": "Missing Permissions",
     "botIsMissingPerms": "I am missing the following permissions to execute that command:",
-    "createConfig": "Create Config"
+    "createConfig": "Create Config",
+    "edit": "Edit"
 }
