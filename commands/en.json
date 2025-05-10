@@ -330,5 +330,6 @@
     "missingPermissions": "Missing Permissions",
     "botIsMissingPerms": "I am missing the following permissions to execute that command:",
     "createConfig": "Create Config",
-    "edit": "Edit"
+    "edit": "Edit",
+    "configEditInfo": "You can fully modify this Config. If you want to narrow down which messages are deleted, edit the filters below."
 }
