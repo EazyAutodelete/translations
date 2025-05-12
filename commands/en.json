@@ -331,5 +331,11 @@
     "botIsMissingPerms": "I am missing the following permissions to execute that command:",
     "createConfig": "Create Config",
     "edit": "Edit",
-    "configEditInfo": "You can fully modify this Config. If you want to narrow down which messages are deleted, edit the filters below."
+    "configEditInfo": "You can fully modify this Config. If you want to narrow down which messages are deleted, edit the filters below.",
+    "cancel": "Cancel",
+    "mode2short": "Delete every <duration>",
+    "mode3short": "Delete after <messagecount>",
+    "apply": "Apply",
+    "mode5short": "Delete daily at",
+    "mode1short": "Delete after <duration>"
 }
