@@ -337,5 +337,7 @@
     "mode3short": "Delete after <messagecount>",
     "apply": "Apply",
     "mode5short": "Delete daily at",
-    "mode1short": "Delete after <duration>"
+    "mode1short": "Delete after <duration>",
+    "selectMode": "Select a Mode",
+    "selectModeInfo": "The Mode defines how the Deletion Algorithm works. The current Mode is %s. Select a Mode to get a preview and description."
 }
