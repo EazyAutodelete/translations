@@ -339,5 +339,6 @@
     "mode5short": "Delete daily at",
     "mode1short": "Delete after <duration>",
     "selectMode": "Select a Mode",
-    "selectModeInfo": "The Mode defines how the Deletion Algorithm works. The __current Mode is %s__.\nSelect a Mode to get a preview and description."
+    "selectModeInfo": "The Mode defines how the Deletion Algorithm works. The __current Mode is %s__.\nSelect a Mode to get a preview and description.",
+    "limitTitle": "Set Limit for Mode %s"
 }
