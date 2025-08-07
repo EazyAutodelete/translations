@@ -340,5 +340,7 @@
     "mode1short": "Delete after <duration>",
     "selectMode": "Select a Mode",
     "selectModeInfo": "The Mode defines how the Deletion Algorithm works. The __current Mode is %s__.\nSelect a Mode to get a preview and description.",
-    "limitTitle": "Set Limit for Mode %s"
+    "limitTitle": "Set Limit for Mode %s",
+    "currentLanguage": "Your language is currently set to:",
+    "changeLanguage": "Use %s to change it."
 }
