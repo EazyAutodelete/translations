@@ -11,5 +11,6 @@
     "invalidChannelType": "O tipo de determinado canal não é suportado.\nOs seguintes tipos de canal (**[?](%s)**) são suportados atualmente:\n`%s`",
     "mode0": "Desativado",
     "mode1": "Eliminar uma mensagem enviada após o tempo definido (por exemplo, após 30 seg.).",
-    "mode3": "Apagar todas as mensagens após uma certa quantidade de mensagens (por exemplo, a cada 10 mensagens)."
+    "mode3": "Apagar todas as mensagens após uma certa quantidade de mensagens (por exemplo, a cada 10 mensagens).",
+    "languageName": "Portuguese"
 }
