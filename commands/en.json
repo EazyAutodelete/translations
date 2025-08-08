@@ -331,7 +331,7 @@
     "botIsMissingPerms": "I am missing the following permissions to execute that command:",
     "createConfig": "Create Config",
     "edit": "Edit",
-    "configEditInfo": "You can filter which messages get deleted by selecting the basic filters from the 3 categories below and by using role and time filters.\nYou can also modify how the filters work by changing the filter behavior.",
+    "configEditInfo": "You can filter which messages get deleted by selecting the basic filters from the 3 categories below and by using role and time filters. Leave empty to delete all messages.\nYou can also modify how the filters work by changing the filter behavior.",
     "cancel": "Cancel",
     "mode2short": "Delete every <duration>",
     "mode3short": "Delete after <messagecount>",
