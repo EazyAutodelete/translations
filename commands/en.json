@@ -20,7 +20,7 @@
     "invalidMessageId": "**The message with this ID could not be loaded.**\nIs the message in another channel? Has the message been deleted? Is the ID valid?",
     "deleteMessagesLimit0": "No messages are deleted because the mode is set to 0.",
     "deleteMessagesLimit1": "Delete a sent message after **%s**.",
-    "deleteMessagesLimit2": "Delete all messages every **%s**. The Start Time is set to %s. The interval of %s will start %s.",
+    "deleteMessagesLimit2": "Delete all messages every **%s**. The Start Time is set to %s.",
     "deleteMessagesLimit3": "Delete all messages after **%s** messages.",
     "deleteMessagesLimit4": "Keep **%s** newest messages and delete messages before that.",
     "supportTitle": "🔎 You are stuck?",
