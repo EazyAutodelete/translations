@@ -331,7 +331,7 @@
     "botIsMissingPerms": "I am missing the following permissions to execute that command:",
     "createConfig": "Create Config",
     "edit": "Edit",
-    "configEditInfo": "You can filter which messages get deleted by selecting the basic filters from the 3 categories below and by using role and time filters. Leave empty to delete all messages.\nYou can also modify how the filters work by changing the filter behavior.",
+    "configEditInfo": "You can fully modify this Config. If you want to narrow down which messages are deleted, edit the filters below.",
     "cancel": "Cancel",
     "mode2short": "Delete every <duration>",
     "mode3short": "Delete after <messagecount>",
@@ -344,5 +344,7 @@
     "currentLanguage": "Your language is currently set to:",
     "changeLanguage": "Use %s to change it.",
     "attribute2060": "A Poll",
-    "attribute2061": "No Poll"
+    "attribute2061": "No Poll",
+    "changeTimeFilter": "Change Time Filter",
+    "configFilterInfo": "You can filter which messages get deleted by selecting the basic filters from the 3 categories below and by using role and time filters. Leave emtpy to delete all messages.\nYou can also modify how the filters work by changing the filter behavior."
 }
