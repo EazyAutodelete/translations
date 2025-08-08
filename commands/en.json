@@ -346,5 +346,7 @@
     "attribute2060": "A Poll",
     "attribute2061": "No Poll",
     "changeTimeFilter": "Change Time Filter",
-    "configFilterInfo": "You can filter which messages get deleted by selecting basic filters from the 3 categories below and by using role and time filters. Leave emtpy to delete all messages.\nYou can also modify how the filters work by changing the filter behavior."
+    "configFilterInfo": "You can filter which messages get deleted by selecting basic filters from the 3 categories below and by using role and time filters. Leave emtpy to delete all messages.\nYou can also modify how the filters work by changing the filter behavior.",
+    "targetInfo": "Select roles that you want to target. Only messages from members with these roles will be deleted.",
+    "targetHeading": "Target roles"
 }
