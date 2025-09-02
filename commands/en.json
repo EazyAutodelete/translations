@@ -351,5 +351,7 @@
     "targetHeading": "Target roles",
     "learnMore": "Learn More",
     "mode4short": "Keep <amount> newest messages",
-    "lazyloadStart": "EazyAutodelete will start loading old messages in this channel %s. This might take a few minutes."
+    "lazyloadStart": "EazyAutodelete will start loading old messages in this channel %s. This might take a few minutes.",
+    "addFilters": "Add filters",
+    "editFilters": "Edit filters (%s)"
 }
