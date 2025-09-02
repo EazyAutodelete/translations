@@ -350,5 +350,6 @@
     "targetInfo": "Select roles that you want to target. Only messages from members with these roles will be deleted.",
     "targetHeading": "Target roles",
     "learnMore": "Learn More",
-    "mode4short": "Keep <amount> newest messages"
+    "mode4short": "Keep <amount> newest messages",
+    "lazyloadStart": "EazyAutodelete will start loading old messages in this channel %s. This might take a few minutes."
 }
