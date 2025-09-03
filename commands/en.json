@@ -314,7 +314,7 @@
     "duplicateCopyConfigYes": "Yes, copy configs",
     "duplicateCopyConfigNo": "No, don't copy configs",
     "jumpToNewChannel": "Jump to new channel",
-    "duplicateFailed": "Duplicating this channel failed. You can try again later.\nContact our staff team at **%s** for further assistance. %s",
+    "duplicateFailed": "Duplicating this channel failed. You can try again later.\nContact our staff team at **%s** for further assistance.",
     "duplicateSuccess": "### Channel successfully duplicated!\nYou now have a new empty channel with the same permissions and settings as before.",
     "startDateLabel": "Start date (YYYY-MM-DD, UTC±0 Timezone)",
     "enterDateShort": "YYYY-MM-DD, UTC±0, Leave empty for current date",
@@ -353,5 +353,6 @@
     "mode4short": "Keep <amount> newest messages",
     "lazyloadStart": "EazyAutodelete will start loading old messages in this channel %s. This might take a few minutes.",
     "addFilters": "Add filters",
-    "editFilters": "Edit filters (%s)"
+    "editFilters": "Edit filters (%s)",
+    "duplicateStarted": "Duplicating this channel has been started."
 }
