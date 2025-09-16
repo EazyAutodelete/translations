@@ -13,7 +13,7 @@
     "mode2": "Deletes all messages at a specified interval (e.g. every 30 secs).",
     "mode3": "Delete all messages after a certain amount of messages (e.g. every 10 messages).",
     "mode4": "Keep certain number of newest messages and delete messages before (e.g. keep 10 newest messages).",
-    "deleteMessagesAfter": "Delete only messages that were sent after a specific message.\nEnter `0` to disable.",
+    "deleteMessagesAfter": "Only delete messages that were sent after a specific message.\nEnter `0` to disable.",
     "limit": "The limit with which the delete algorithm should work.\nSpecified as duration or number, depending on the mode set.",
     "config": "Configuration",
     "savedChannelSettings": "**Settings have been saved successfully.**",
