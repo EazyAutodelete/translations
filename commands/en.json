@@ -354,5 +354,6 @@
     "lazyloadStart": "EazyAutodelete will start loading old messages in this channel %s. This might take a few minutes.",
     "addFilters": "Add filters",
     "editFilters": "Edit filters (%s)",
-    "duplicateStarted": "Duplicating this channel has been started."
+    "duplicateStarted": "Duplicating this channel has been started.",
+    "goToMessage": "Go To Message"
 }
