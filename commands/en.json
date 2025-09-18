@@ -287,7 +287,7 @@
     "autodeleteNoticeSuccess": "The Autodelete notice has been sent. Feel free to pin it.\nEazyAutodelete will not delete that message, but you can delete or resend it at any time.",
     "autodeleteNoticeError": "Sending the Autodelete notice has failed. Please check whether I have the permission to send messages and use embed links.",
     "automatedMessage": "This is an automated message by <@%s>.",
-    "autodeleteNoticeDescription": "This server uses [**EazyAutodelete** ](https://eazyautodelete.xyz) to automatically delete messages in this channel. The following autodelete configurations are active in this channel.",
+    "autodeleteNoticeDescription": "This server uses [**EazyAutodelete**](https://eazyautodelete.xyz) to automatically delete messages in this channel. The following autodelete configurations are active in this channel.",
     "changeTime": "Change Time",
     "timeLabel": "Deletion time (HH:mm 24h, UTC±0 timezone)",
     "changeTime5": "Click the __%s__ button to set the daily message deletion time.",
