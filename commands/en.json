@@ -355,5 +355,7 @@
     "addFilters": "Add filters",
     "editFilters": "Edit filters (%s)",
     "duplicateStarted": "Duplicating this channel has been started.",
-    "goToMessage": "Go To Message"
+    "goToMessage": "Go To Message",
+    "channel": "Channel",
+    "server": "Server"
 }
