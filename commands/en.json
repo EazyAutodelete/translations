@@ -357,5 +357,6 @@
     "duplicateStarted": "Duplicating this channel has been started.",
     "goToMessage": "Go To Message",
     "channel": "Channel",
-    "server": "Server"
+    "server": "Server",
+    "deleteMessagesLimit5": "Delete all messages daily at <t:%s:t>.\nNext message deletion <t:%s:R> on <t:%s:f>."
 }
