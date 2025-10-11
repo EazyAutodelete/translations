@@ -227,5 +227,6 @@
     "types10short": "Mit einem ausgewählten Typ übereinstimmen",
     "types10desc": "Lösche nur Nachrichten, welche EINEM ODER MEHREREN ausgewählten Typen entsprechen.",
     "channelIsLogChannel": "Um Missbrauch zu vermeiden kann EazyAutodelete Nachrichten in Protokollkanälen nicht löschen.\n\nDieser Kanal ist als Protkoll für <#%s> eingestellt.",
-    "learnMore": "Mehr dazu"
+    "learnMore": "Mehr dazu",
+    "channelLogs": "Logs im Kanal <#%s>"
 }
