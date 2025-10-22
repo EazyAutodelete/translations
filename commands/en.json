@@ -359,5 +359,6 @@
     "channel": "Channel",
     "server": "Server",
     "deleteMessagesLimit5": "Delete all messages daily at <t:%s:t>.\nNext message deletion <t:%s:R> on <t:%s:f>.",
-    "missingPermissionsToAccessPrivateThread": "You have to add me as a member to a private thread in order for me to be able to delete any messages."
+    "missingPermissionsToAccessPrivateThread": "You have to add me as a member to a private thread in order for me to be able to delete any messages.",
+    "logsOnline": "The logs moved online! You can view the logs here: %s"
 }
