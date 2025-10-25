@@ -367,5 +367,6 @@
     "autodeleteOldMessagesInfo": "With EazyAutodelete, you can load messages from up to 14 days ago and process them as if EazyAutodelete had been configured the way it is now when the messages were sent.\nYou can choose to load old messages each time you edit the configuration.\nThis process may take a few minutes if there are many messages in the channel.",
     "autodeleteFiltersInfo": "You can choose from a wide variety of filters and combine them in any way you like.\nTo delete all messages, don't select any filters.\nYou can also configure whether a message must meet all filters or only at least one filter within a category in order to be deleted.",
     "autodeleteLimitInfo": "The \"limit\" is the value with which the specified mode works.\nFor example, if you pick mode 3, the limit decides how many messages to wait before deleting them.",
-    "autodeleteModesInfo": "The mode determines how this configuration works. It alters the way the deletion algorithm works."
+    "autodeleteModesInfo": "The mode determines how this configuration works. It alters the way the deletion algorithm works.",
+    "confirm": "Confirm"
 }
