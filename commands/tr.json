@@ -29,5 +29,6 @@
     "onCooldown": "Biraz fazla hızlısın.\n`%s` sonra tekrar deneyin.",
     "channelNotInDatabase": "Bu kanal veri tabanıda bulunmamaktadir.",
     "invalidLanguage": "**Geçerli bir dil seçmelisiniz.**\nMevcut diller:\n%s",
-    "commandNotFound": "**/%s** komutu bulunamadı."
+    "commandNotFound": "**/%s** komutu bulunamadı.",
+    "languageName": "Turkish"
 }
