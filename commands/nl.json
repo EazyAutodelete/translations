@@ -76,5 +76,6 @@
     "filter11name": "Auteur is Bot",
     "filter20name": "Is niet een Antwoord",
     "filter12name": "Auteur is niet Bot",
-    "filter2name": "Bevat geen Emoji"
+    "filter2name": "Bevat geen Emoji",
+    "languageName": "Dutch"
 }
