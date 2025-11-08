@@ -31,5 +31,6 @@
     "guildNotInDatabase": "Este gremio no está en la base de datos.",
     "invalidLanguage": "**Debe especificar un idioma válido.**\nIdiomas Disponibles:\n%s",
     "channelNotInDatabase": "Este canal no está en la base de datos.",
-    "commandNotFound": "No se encontró el comando **/%s**."
+    "commandNotFound": "No se encontró el comando **/%s**.",
+    "languageName": "Spanish"
 }
