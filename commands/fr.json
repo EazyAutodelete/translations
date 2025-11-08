@@ -26,5 +26,6 @@
     "onCooldown": "Vous êtes un peu trop rapide.\nEssayez à nouveau dans `%s`.",
     "status": "Si vous lisez ceci, alors le bot va probablement devenir en ligne.\nVous pouvez avoir plus d'informations sur le statut sur la [**Page de statut**](%s) et notre [**Serveur discord**](%s).",
     "commandNotFound": "La commande **/%s** n'a pas été retrouvé.",
-    "mode2": "Supprimez tous les messages après <time>."
+    "mode2": "Supprimez tous les messages après <time>.",
+    "languageName": "French"
 }
