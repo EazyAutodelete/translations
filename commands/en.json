@@ -369,5 +369,6 @@
     "autodeleteLimitInfo": "The \"limit\" is the value with which the specified mode works.\nFor example, if you pick mode 3, the limit decides how many messages to wait before deleting them.",
     "autodeleteModesInfo": "The mode determines how this configuration works. It alters the way the deletion algorithm works.",
     "confirm": "Confirm",
-    "messageInfoFooter": "These are all filters that this message meets. Use the filters to filter for similar messages in Configs."
+    "messageInfoFooter": "These are all filters that this message meets. Use the filters to filter for similar messages in Configs.",
+    "blockedForAbuse": "We suspect that you have abused our systems, which is why we have blocked you from accessing them and stopped all your configs.\nThis is purely a precautionary measure. However, if you believe this to be unjustified, please reach out to us via our support server, and we will endeavour to resolve the inconvenience."
 }
