@@ -371,5 +371,6 @@
     "confirm": "Confirm",
     "messageInfoFooter": "These are all filters that this message meets. Use the filters to filter for similar messages in Configs.",
     "blockedForAbuse": "We suspect that you have abused our systems, which is why we have blocked you from accessing them and stopped all your configs.\nThis is purely a precautionary measure. However, if you believe this to be unjustified, please reach out to us via our [support server](%s), and we will endeavour to resolve the inconvenience.",
-    "guildBlockedForAbuse": "We suspect that our systems were abused on this or other related servers, so we have blocked this server and stopped its configurations.\nHowever, if you believe this to be a mistake, please do not hesitate to contact us via our [support server](%s)."
+    "guildBlockedForAbuse": "We suspect that our systems were abused on this or other related servers, so we have blocked this server and stopped its configurations.\nHowever, if you believe this to be a mistake, please do not hesitate to contact us via our [support server](%s).",
+    "messageUndeletable": "This message cannot be deleted by anyone, including bots. EazyAutodelete will skip deletion for this message."
 }
