@@ -98,7 +98,7 @@ When working with this repository:
 3. Verify placeholder counts match the English version
 4. Ensure markdown formatting is preserved
 
-## Don't Do
+## What Not to Do
 
 - Don't translate command names (e.g., `/help`, `/language`)
 - Don't modify placeholder syntax `%s`
