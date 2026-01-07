@@ -31,6 +31,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add src/i18n
+          git add src/lib/i18n
           git diff --cached --quiet || git commit -m "Sync i18n files from translations repo"
           git push origin main
