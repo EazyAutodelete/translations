@@ -14,11 +14,14 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Setup SSH
+        uses: webfactory/ssh-agent@v0.9.1
+        with:
+          ssh-private-key: ${{ secrets.WEB_DEPLOY_KEY }}
+
       - name: Clone Web Repo
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN  }}  # Personal Access Token mit write access auf web Repo
         run: |
-          git clone https://x-access-token:${GH_TOKEN}@github.com/eazyautodelete/web.git web-repo
+          git clone git@github.com:eazyautodelete/web.git web-repo
           
       - name: Copy i18n files
         run: |
