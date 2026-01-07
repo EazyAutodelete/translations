@@ -22,7 +22,7 @@ jobs:
           
       - name: Copy i18n files
         run: |
-          cp -r website/* web-repo/src/i18n/
+          cp -r website/* web-repo/src/lib/i18n/
           
       - name: Commit and Push changes
         working-directory: web-repo
