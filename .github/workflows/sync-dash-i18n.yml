@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'dashboard/**'
+      - 'website/**'
 
 jobs:
   sync:
@@ -25,7 +26,27 @@ jobs:
           
       - name: Copy i18n files
         run: |
-          cp -r dashboard/* dashboard-repo/src/lib/i18n/
+          #!/bin/bash
+
+          TARGET="dashboard-repo/src/lib/i18n"
+
+          SOURCES=("dashboard" "website")
+
+          mkdir -p "$TARGET"
+
+          for SRC in "${SOURCES[@]}"; do
+            for FILE in "$SRC"/*.json; do
+              BASENAME=$(basename "$FILE")
+              TARGET_FILE="$TARGET/$BASENAME"
+
+              if [[ -f "$TARGET_FILE" ]]; then
+                jq -s '.[0] * .[1]' "$TARGET_FILE" "$FILE" > "$TARGET_FILE.tmp" && mv "$TARGET_FILE.tmp" "$TARGET_FILE"
+              else
+                cp "$FILE" "$TARGET_FILE"
+              fi
+            done
+          done
+
           
       - name: Commit and Push changes
         working-directory: dashboard-repo
