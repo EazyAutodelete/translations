@@ -1,0 +1,39 @@
+name: Sync Dashboard i18n files
+
+on:
+  push:
+    paths:
+      - 'dashboard/**'
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Translations Repo
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Setup SSH
+        uses: webfactory/ssh-agent@v0.9.1
+        with:
+          ssh-private-key: ${{ secrets.DASHBOARD_DEPLOY_KEY }}
+
+      - name: Clone Dashboard Repo
+        run: |
+          git clone git@github.com:eazyautodelete/dashboard.git dashboard-repo
+          
+      - name: Copy i18n files
+        run: |
+          cp -r dashboard/* dashboard-repo/src/lib/i18n/
+          
+      - name: Commit and Push changes
+        working-directory: dashboard-repo
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add src/lib/i18n
+          git diff --cached --quiet || git commit -m "Sync i18n files from translations repo"
+          git push origin main
