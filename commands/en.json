@@ -376,5 +376,6 @@
     "conflictingFilters": "⚠️ **You have selected %s conflicting filters!**\nYou have selected the following filters that are the opposite of each other. This can lead to no messages being deleted because a message can not fulfill both filters at the same time.\n%s\nYou can leave out any filters that you don't care about rather than selecting all available filters.",
     "threadBackfillAsk": "Do you want to load & delete all existing messages in this channels' threads?",
     "threadBackfillYes": "Yes, load & delete all prior messages",
-    "threadBackfillNo": "No, only delete new messages"
+    "threadBackfillNo": "No, only delete new messages",
+    "threadsPremiumLimited": "This feature is currently limited to premium users to allow testing at a smaller scale before making it available to thousands of servers.\n\nFeel free to reach out on the support server if you have any questions."
 }
