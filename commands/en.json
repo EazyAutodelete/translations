@@ -377,5 +377,6 @@
     "threadBackfillAsk": "Do you want to load & delete all existing messages in this channels' threads?",
     "threadBackfillYes": "Yes, load & delete all prior messages",
     "threadBackfillNo": "No, only delete new messages",
-    "threadsPremiumLimited": "This feature is currently limited to premium users to allow testing at a smaller scale before making it available to thousands of servers.\n\nFeel free to reach out on the support server if you have any questions."
+    "threadsPremiumLimited": "This feature is currently limited to premium users to allow testing at a smaller scale before making it available to thousands of servers.\n\nFeel free to reach out on the support server if you have any questions.",
+    "categoryChildCount": "Edit configs for all %s channels in this category."
 }
