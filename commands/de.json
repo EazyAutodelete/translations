@@ -82,7 +82,7 @@
     "deleteMessagesBeforeShort": "Nachrichten löschen vor",
     "deleteMessagesLimit0": "Keine Nachrichten werden gelöscht, weil Modus 0 eingestellt ist.",
     "deleteMessagesLimit1": "Eine gesendete Nachricht nach **%s** löschen.",
-    "deleteMessagesLimit2": "Löschen Sie alle Nachrichten alle **%s**. Die Startzeit ist um %s. Das Interval von %s wird %s gestartet.",
+    "deleteMessagesLimit2": "Lösche alle Nachrichten alle **%s**. Die Startzeit ist um %s.",
     "deleteMessagesLimit3": "Alle Nachrichten nach **%s** Nachrichten löschen.",
     "deleteMessagesLimit4": "Die **%s** neusten Nachrichten behalten und die Nachrichten davor löschen.",
     "enterLimit": "Limit eingeben...",
