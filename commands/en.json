@@ -409,13 +409,15 @@
     "postPolicyAgeLabel": "Max post age (e.g. 7d) - empty = off",
     "postPolicyCountLabel": "Trigger at message count - empty = off",
 
+    "postPolicyStageAlreadyAdded": "That action is already part of the rule.",
+
     "postPolicyExclusionsHeading": "Exclusions (never touch these posts)",
     "postPolicyExcludePinned": "Skip pinned",
     "postPolicyExcludeOwners": "Skip owners…",
     "postPolicyRequireTags": "Require tags…",
     "postPolicyExcludeTags": "Skip tags…",
-    "postPolicyOwnersLabel": "User IDs to skip (comma-separated) - empty = none",
-    "postPolicyTagsLabel": "Forum tag IDs (comma-separated, developer mode) - empty = none",
+    "postPolicyOwnersLabel": "User IDs to skip (comma-separated)",
+    "postPolicyTagsLabel": "Forum tag IDs (comma-separated)",
     "postPolicyRolesSelectPlaceholder": "Skip posts whose author has one of these roles",
 
     "postPolicyActionsHeading": "Actions (executed in order)",
