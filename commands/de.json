@@ -25,7 +25,6 @@
     "autodeleteGetStarted": "Leg los mit AutoDelete! 🚀",
     "autodeleteIntro": "Willkommen bei **EazyAutodelete**! 🎉\n\nIch bin ein vollständig anpassbarer Discord-Bot, der basierend auf deinen Einstellungen automatisch Nachrichten löscht.\n\nHier erfährst du, wie ich funktioniere und wie du mich ganz einfach zum automatischen Löschen von Nachrichten auf deinem Server einrichten kannst.\n\nWenn du mich noch nicht zu deinem Server hinzugefügt hast, lies bitte zuerst [__wie man mich zu deinem Server hinzufügt__] (https://docs.eazyautodelete.xyz/add-to-server)!\n\nWenn du irgendwelche Fragen oder Probleme hast, besuche unseren [Support-Server](https://eazyautodelete.xyz/support).",
     "autodeleteStart": "EazyAutodelete beginnt mit dem Löschen von Nachrichten entsprechend deiner Konfiguration eine Minute nach der letzten Änderung.",
-    "beforeHeading": "Nachrichten löschen vor",
     "behaviorInfo": "Wähle entweder\n> 1) nur Nachrichten löschen, die **MINDESTENS EINEM Filter** einer Kategorie entsprechen *oder*\n> 2) nur Nachrichten zu löschen, die **alle Filter** einer Kategorie erfüllen.",
     "cancelled": "Abgebrochen!",
     "changeBehavior": "Filterverhalten ändern",

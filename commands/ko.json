@@ -62,7 +62,6 @@
     "configMenuInfo": "다른 구성을 선택하려면 /setup을 다시 실행하세요.",
     "modeInfo": "삭제 동작방식을 변경합니다.",
     "types20info": "선택한 유형을 __모두__ 충족하는 메시지만 삭제합니다.",
-    "beforeHeading": "지정된 메시지 이전의 메시지 삭제",
     "afterHeading": "지정된 메시지 이후의 메시지 삭제",
     "contentsHeading": "~를 포함하는 메시지",
     "attributesHeading": "~를 가진 메시지",
