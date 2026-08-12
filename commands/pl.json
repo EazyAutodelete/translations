@@ -18,7 +18,6 @@
     "support": "Na naszym [**Serwerze Supporta**](%s) jest wielu pomocnych użytkowników i członków zespołu, którzy mogą Ci pomóc.\nMożesz również samodzielnie poszukać rozwiązania w [**Dokumentacji**](%s).",
     "deleteMessagesAfter": "Usuwa tylko wiadomości, które zostały wysłane po określonej wiadomości.\nWprowadź `0`, aby wyłączyć.",
     "config": "Konfiguracja",
-    "savedChannelSettings": "**Ustawienia zostały zapisane pomyślnie.**",
     "invalidMessageId": "**Wiadomość z tym ID nie może być załadowane.**\nCzy wiadomość jest na innym kanale? Czy wiadomość została usunięta? Czy ID jest poprawny?",
     "deleteMessagesLimit3": "Po %s wiadomościach, wszystkie wiadomości zostaną usunięte.",
     "deleteMessagesLimit4": "Najnowsze %s wiadomości są zachowane. Wiadomości przed tym są usunięte.",
@@ -35,14 +34,12 @@
     "currently": "Obecnie ustawione na:",
     "limitMode3": "Limit, z którym powinien działać algorytm usuwania. Określony jako **liczba**, ponieważ aktywny jest tryb 3.\nPrzykład: `15`",
     "userWelcome": "👋 Witamy na EazyAutodelete!",
-    "setupUpdateFilters": "**Ustawienia zostały pomyślnie zapisane.**\nNastępujące filtry są teraz __włączone__:\n%s",
     "none": "Brak",
     "commandDisabled": "Polecenie **/%s** jest obecnie wyłączone!\nPowód: `%s`",
     "userIsNew": "Wygląda na to, że używasz EazyAutodelete po raz pierwszy.\nNa poczatku proponujemy ustawić język. W tym celu użyj **/language**.\n\nNastępnie możesz kontynuować za pomocą **/setup**, aby skonfigurować EazyAutodelete dla wybranego kanału.\n\nAby uzyskać informacje o poleceniach, użyj **/help**.\nJeśli masz jakieś pytania lub problemy, zawsze możesz uzyskać pomoc przy użyciu komendy **/support**.",
     "limitMode1": "Limit, z którym powinien działać algorytm usuwania. Określony jako **czas trwania**, od momentu aktywacji trybu 1.\nPrzykład: `1m 30s`",
     "limitMode2": "nterwał, w którym wiadomości będą usuwane. Określony jako **czas trwania**, ponieważ tryb 2 jest aktywowany.\n`>` Dodatkowo możesz podać czas rozpoczęcia jako **HH:mm** (format 24-godzinny) oraz datę rozpoczęcia jako **YYYY-MM-DD**. Podaj w strefie czasowej UTC±0. Północ dla EazyAutodelete to %s.\nPrzykład: 2m 30s",
     "limitMode4": "Limit, z jakim powinien działać algorytm usuwania. Określony jako **liczba**, ponieważ tryb 4 jest aktywowany.\nPrzykład: `10`",
-    "resetSetting": "Opcja została wyłączona i nie ma już wpływu na usuwanie wiadomości.",
     "invalidDuration": "**Podany czas trwania jest nieprawidłowy.**\nUpewnij się, że czas został wprowadzony w poprawnym formacie. Czas trwania musi być dłuższy niż %s i krótszy niż %s.Chcesz, żebym przygotował pełne tłumaczenie wszystkich komunikatów z jednego pliku?",
     "languageName": "Polish"
 }

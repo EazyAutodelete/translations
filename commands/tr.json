@@ -18,7 +18,6 @@
     "deleteMessagesAfter": "<mesajID>'dan sonra gönderilen mesajları sil.",
     "limit": "Silme algoritmasının çalışması gereken sınır.\nAyarlanan moda bağlı olarak süre veya sayı olarak belirtilir.",
     "config": "Konfigürasyon",
-    "savedChannelSettings": "**Ayarlar basariyla kaydedildi**",
     "invalidMessageId": "**Bu mesaj bu ID ile yüklenemedi.**\nMesaj başka bir kanalda mı veya silindi mi? ID geçerli mi?",
     "deleteMessagesLimit0": "Mod 0 olduğundan hiçbir mesaj silinmeyecektir.",
     "deleteMessagesLimit1": "Gönderilen bir mesaj %s sonra silinecektir.",

@@ -15,7 +15,6 @@
     "deleteMessagesAfter": "Supprimez les messages envoyés après <messageID>.",
     "limit": "La limite avec laquelle l'algorithme de suppression doit fonctionner.\nSpécifié comme une durée ou un nombre, il dépend du mode défini.",
     "config": "Configuration",
-    "savedChannelSettings": "**Les paramètres ont étés sauvegardés avec succès.**",
     "invalidMessageId": "**Le message avec cette ID ne peut pas être chargé.**\nLe message est-il dans un autre salon ? A-t-il été supprimé ? L'ID est-elle invalide ?",
     "deleteMessagesLimit1": "Après %s un message envoyé est supprimé.",
     "deleteMessagesLimit2": "Après %s tous les messages sont supprimés.",
