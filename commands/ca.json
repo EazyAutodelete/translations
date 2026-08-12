@@ -1,6 +1,6 @@
 {
-    "invite": "",
-    "languageEdit": "",
+    "invite": "**Em pots convidar aquí: %s**",
+    "languageEdit": "L'idioma s'ha canviat a: **%s**.",
     "languageShow": "",
     "example": "",
     "usage": "",
