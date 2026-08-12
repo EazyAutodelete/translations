@@ -45,9 +45,5 @@
     "updateDeleteMessagesBefore": "Od teraz usuwane będą tylko wiadomości wysłane przed [specified message](%s).",
     "resetSetting": "Opcja została wyłączona i nie ma już wpływu na usuwanie wiadomości.",
     "invalidDuration": "**Podany czas trwania jest nieprawidłowy.**\nUpewnij się, że czas został wprowadzony w poprawnym formacie. Czas trwania musi być dłuższy niż %s i krótszy niż %s.Chcesz, żebym przygotował pełne tłumaczenie wszystkich komunikatów z jednego pliku?",
-    "filter4name": "Nie zawiera linków",
-    "filter5name": "Posiada załączniki",
-    "filter6name": "Nie posiada załączników",
-    "filter7name": "Jest przypięty",
     "languageName": "Polish"
 }
