@@ -1,16 +1,16 @@
 {
+    "example": "Exemplo",
+    "invalidChannelType": "O tipo de determinado canal não é suportado.\nOs seguintes tipos de canal (**[?](%s)**) são suportados atualmente:\n`%s`",
     "invite": "**Você pode me convidar aqui: %s**",
     "languageEdit": "Seu idioma foi mudado para: **%s**.",
+    "languageName": "Portuguese",
     "languageShow": "Seu idioma atual é o: **%s**.\nUse `/language` para mudar seu idioma.",
-    "example": "Exemplo",
-    "usage": "Uso",
-    "overview": "Use `/help <comando>` para obter mais informações.",
-    "missingPerms": "Você não tem permissão para usar esse comando.",
     "missingBotPerms": "Estou sem as seguintes permissões para executar esse comando:\n`%s`",
-    "mode2": "Elimina mensagens em um intervalo especificado (por exemplo, a cada 30 segundos).",
-    "invalidChannelType": "O tipo de determinado canal não é suportado.\nOs seguintes tipos de canal (**[?](%s)**) são suportados atualmente:\n`%s`",
+    "missingPerms": "Você não tem permissão para usar esse comando.",
     "mode0": "Desativado",
     "mode1": "Eliminar uma mensagem enviada após o tempo definido (por exemplo, após 30 seg.).",
+    "mode2": "Elimina mensagens em um intervalo especificado (por exemplo, a cada 30 segundos).",
     "mode3": "Apagar todas as mensagens após uma certa quantidade de mensagens (por exemplo, a cada 10 mensagens).",
-    "languageName": "Portuguese"
+    "overview": "Use `/help <comando>` para obter mais informações.",
+    "usage": "Uso"
 }

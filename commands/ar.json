@@ -1,14 +1,14 @@
 {
+    "example": "مثال",
     "invite": "**رابط دعوة البوت: %s**",
     "languageEdit": "تم تغيير لغتك الى اللغة :**%s**.",
+    "languageName": "Arabic",
     "languageShow": "لغة البوت الحالية هي :**%s**. \nاكتب `language/` لتقوم بتغيير لغتك .",
-    "usage": "الاستخدام",
-    "example": "مثال",
-    "overview": "اكتب ` < help < command/`للحصول على مزيد من المعلومات.",
-    "missingPerms": "لا يسمح لك باستعمال هذا الامر .",
     "missingBotPerms": "احتاج الأذونات التالية لإتمام الأمر :\n`%s`",
+    "missingPerms": "لا يسمح لك باستعمال هذا الامر .",
     "mode0": "غير مفعل",
     "mode1": "احذف الرسائل المرسلة بعد <time> .",
     "mode2": "احذف كل الرسائل بعد <time> .",
-    "languageName": "Arabic"
+    "overview": "اكتب ` < help < command/`للحصول على مزيد من المعلومات.",
+    "usage": "الاستخدام"
 }

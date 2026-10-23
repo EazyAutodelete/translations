@@ -1,16 +1,16 @@
 {
-    "usage": "Pemakaian",
+    "example": "Contoh",
+    "invalidChannelType": "Jenis channel yang diberikan tidak didukung.\nJenis-Jenis Channel berikut (**[?](%s)**) saat ini didukung:\n`%s`",
+    "languageEdit": "Bahasa kamu telah diubah menjadi: **%s**.",
+    "languageName": "Indonesian",
+    "languageShow": "Bahasa kamu yang disetel saat ini: **%s**.\nGunakan `/language` untuk mengubah bahasa kamu.",
+    "missingBotPerms": "Aku tidak punya perizinan berikut ini untuk bisa menjalankan perintah tersebut:\n`%s`",
     "missingPerms": "Kamu tidak diperbolehkan untuk menggunakan perintah tersebut.",
     "mode0": "Dinonaktifkan",
     "mode1": "Hapus pesan yang terkirim setelah waktu yang dispesifikasikan (mis. setelah 30 detik).",
-    "mode3": "Hapus semua pesan setelah jumlah pesan yang ditentukan (mis. setiap 10 pesan).",
-    "invalidChannelType": "Jenis channel yang diberikan tidak didukung.\nJenis-Jenis Channel berikut (**[?](%s)**) saat ini didukung:\n`%s`",
-    "mode4": "Simpan jumlah pesan terbaru yang ditentukan dan hapus pesan-pesan sebelumnya (mis. simpan 10 pesan terbaru).",
-    "languageEdit": "Bahasa kamu telah diubah menjadi: **%s**.",
-    "languageShow": "Bahasa kamu yang disetel saat ini: **%s**.\nGunakan `/language` untuk mengubah bahasa kamu.",
-    "example": "Contoh",
-    "overview": "Gunakan `/help <command>` untuk mendapatkan informasi selengkapnya.",
-    "missingBotPerms": "Aku tidak punya perizinan berikut ini untuk bisa menjalankan perintah tersebut:\n`%s`",
     "mode2": "Hapus pesan-pesan pada interval yang dispesifikasikan (mis. setiap 30 detik).",
-    "languageName": "Indonesian"
+    "mode3": "Hapus semua pesan setelah jumlah pesan yang ditentukan (mis. setiap 10 pesan).",
+    "mode4": "Simpan jumlah pesan terbaru yang ditentukan dan hapus pesan-pesan sebelumnya (mis. simpan 10 pesan terbaru).",
+    "overview": "Gunakan `/help <command>` untuk mendapatkan informasi selengkapnya.",
+    "usage": "Pemakaian"
 }
